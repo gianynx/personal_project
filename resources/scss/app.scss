@@ -1,0 +1,7 @@
+@use './partials/variables' as *;
+
+$fa-font-path: "../fonts/webfonts" !default;
+
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+@import '~bootstrap/scss/bootstrap';
