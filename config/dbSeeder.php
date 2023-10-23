@@ -6,21 +6,21 @@ return [
             "name" => "Round Midnight Dischi",
             "address" => "Via di S. Orsola, 10",
             "logo" => "round_midnight_dischi.png",
-            "description" => "La collezione è frutto di anni di ricerche per cantine, mercatini, fallimenti, promozioni ed è composta principalmente da dischi in vinile, ma anche cd, dvd, VHS, musicassette, nuovi ed usati, tutti  archiviati nel catalogo online."
+            "description" => "The collection is the result of years of research for wineries, markets, failures, promotions and consists mainly of vinyl records, but also CDs, DVDs, VHS, cassettes, new and used, all stored in the online catalog."
         ],
 
         [
             "name" => "Welcome To The Jungle - Record Store",
             "address" => "Via Monte Zebio, 44A",
             "logo" => "welcome_to_the_jungle.png",
-            "description" => "Il negozio si pone al servizio degli appassionati offrendo la vendita e l'assistenza di apparecchiature testate e garantite, dai giradischi, agli amplificatori, dai registratori alle casse acustiche, vintage e nuovi."
+            "description" => "The store is at the service of fans by offering the sale and service of equipment tested and guaranteed, from turntables, amplifiers, recorders to speakers, vintage and new."
         ],
 
         [
             "name" => "Millerecords",
             "address" => "Via Merulana, 91",
             "logo" => "millerecords.png",
-            "description" => "Varcando le porte di Millerecords, storico negozio di dischi a Roma, si respira un odore di cultura, di vinili, di un mondo di musica che ha accompagnato il cammino dell'Uomo. Dal Canto Gregoriano alla musica del Novecento con  tutte le ramificazioni dell'albero della Musica: Blues, Jazz, Soul, Rock e sottogeneri, Fusion, Disco, Punk, New Wave e molte altre sviluppatesi dalla stessa Radice. In questo sacro Tempio, tra i negozi di dischi a Roma il più longevo, potrete trovare ogni tipo di Alchimia Musicale: dischi in vinile 33-45-78 rpm, cd nuovi e usati, libri di musica, Rarità di Classica, Jazz, Rock e non solo."
+            "description" => "Crossing the doors of Millerecords, historic record shop in Rome, you can breathe a smell of culture, vinyl, a world of music that accompanied the journey of man. From Gregorian Chant to the music of the twentieth century with all the ramifications of the tree of Music: Blues, Jazz, Soul, Rock and subgenres, Fusion, Disco, Punk, New Wave and many others developed by the same Root. In this sacred Temple, among the oldest record shops in Rome, you can find all kinds of Musical Alchemy: vinyl records 33-45-78 rpm, new and used CDs, music books, Rarities of Classical, Jazz, Rock and more."
         ],
 
         [
@@ -34,28 +34,28 @@ return [
             "name" => "Blutopia Roma",
             "address" => "Via del Pigneto, 116",
             "logo" => "blutopia.jpg",
-            "description" => "Vendita dischi (vinile/cd), libri, video (nuovi e usati), spazio ascolto, lettura e consultazione, lab."
+            "description" => "Sale records (vinyl/ cd), books, videos (new and used), listening space, reading and consultation, lab."
         ],
 
         [
             "name" => "Il Mangiadischi Roma",
             "address" => "Via Luciano Manara, 22",
             "logo" => "il_mangiadischi.jpg",
-            "description" => "Prezioso e storico negozio di dischi a Trastevere. Musica ricercata con la possibilità di bere una birra in compagnia."
+            "description" => "Precious and historic record shop in Trastevere. Refined music with the possibility of drinking a beer in company."
         ],
 
         [
             "name" => "Pink Moon",
             "address" => "Via Antonio Paninotti, 5",
             "logo" => "pink_moon.png",
-            "description" => "Un viaggio indietro nel tempo. Valanghe di vinili e cd. Veramente un tempio della musica. Dieci minuti di cammino dalla stazione di Trastevere. Vi aspettiamo!"
+            "description" => "A journey back in time. Avalanches of vinyl and cd. Truly a temple of music. Ten minutes walk from Trastevere station. We are waiting for you!"
         ],
 
         [
             "name" => "Disco+",
             "address" => "Via dei Platani, 37",
             "logo" => "disco_plus.jpg",
-            "description" => "Da Disco+ puoi trovare una vasta scelta di novità e un ricco catalogo in LP, CD, DVD e rarità ital."
+            "description" => "At Disco+ you can find a wide selection of news and a rich catalog in LP, CD, DVD and rarities ital."
         ],
 
         [
@@ -76,21 +76,21 @@ return [
             "name" => "DischixFiaschi",
             "address" => "Via Valsolda, 57",
             "logo" => "dischi_x_fiaschi.jpg",
-            "description" => "In piena pandemia COVID-19, nasce il primo Record&Wine Shop di Montesacro: un angolo underground. Vi aspettiamo!"
+            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!"
         ],
 
         [
             "name" => "Discoteca Laziale",
             "address" => "Via Giovanni Giolitti, 263",
             "logo" => "discoteca_laziale.jpg",
-            "description" => "Discoteca Laziale. Musica, libri, entertainment. Storico negozio di dischi, nato a Roma nel 1967."
+            "description" => "Disco Laziale. Music, books, entertainment. Historical record store, born in Rome in 1967."
         ],
 
         [
             "name" => "Chicken Records - Music Shop",
             "address" => "Via Rovigno d'Istria, 14a",
             "logo" => "chicken_records.png",
-            "description" => "Chicken Records è un negozio di dischi situato in Via Rovigno d'Istria 14/a, nel quartiere di Villa Gordiani, adiacente al parco omonimo e alla storica borgata. Come ogni negozio di dischi che si rispetti, la passione per la musica è stata la scintilla che ha portato alla luce questo spazio, dentro al quale potrete trovare, tra nuovo e usato, un vasto assortimento di generi e formati, con migliaia tra LP, 7″, Cd, Audiocassette, Libri e Dvd musicali."
+            "description" => "Chicken Records is a record shop located in Via Rovigno 14/a, in the district of Villa Gordiani, adjacent to the park of the same name and the historic village. Like any self-respecting record store, the passion for music was the spark that brought to light this space, in which you can find, between new and used, a wide assortment of genres and formats, with thousands of LPs, 7 , CDs, Audiocassettes, Books and Music DVDs."
         ],
 
         [
@@ -104,7 +104,17 @@ return [
             "name" => "Groove Lab Records",
             "address" => "Via Luigi Vanvitelli, 39",
             "logo" => "groove_lab_records.jpg",
-            "description" => "Giovane negozio di dischi e vinili indipendente a Testaccio, specializzato in musica elettronica di ogni tipo."
+            "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds."
         ]
+    ],
+
+
+    "vinyls" => [
+        [
+            "title" => "",
+            "price" =>
+            "image" => "",
+            "year" =>
+        ],
     ]
 ];
