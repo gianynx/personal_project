@@ -6,7 +6,65 @@ return [
             "name" => "Round Midnight Dischi",
             "address" => "Via di S. Orsola, 10",
             "logo" => "round_midnight_dischi.png",
-            "description" => "The collection is the result of years of research for wineries, markets, failures, promotions and consists mainly of vinyl records, but also CDs, DVDs, VHS, cassettes, new and used, all stored in the online catalog."
+            "description" => "The collection is the result of years of research for wineries, markets, failures, promotions and consists mainly of vinyl records, but also CDs, DVDs, VHS, cassettes, new and used, all stored in the online catalog.",
+            "vinyls" => [
+                [
+                    "title" => "Ennio Morricone - Gli Arrangiamenti E L'Orchestra Di Ennio Morricone",
+                    "price" => 25,
+                    "image" => "gli_arrangiamenti_e_l'orchestra_di_ennio_morricone.jpg",
+                    "year" => 1983,
+                    "genres" => ["Electronic", "Jazz", "Pop", "Classical"],
+                    "styles" => ["Neo-Classical", "Big Band", "Synth-pop", "Post-Modern", "Experimental", "Neo-Romantic"],
+                    "artist" => "Ennio Morricone",
+                    "label" => "RCA",
+                    "tracks" => [
+                        ["title" => "'E Spingole Francese", "duration" => "3:02"],
+                        ["title" => "Parlami D'Amore Mariù", "duration" => "2:22"],
+                        ["title" => "Tu, Ca Nun Chiagne!", "duration" => "2:21"],
+                        ["title" => "Io Che Amo Solo Te", "duration" => "2:39"],
+                        ["title" => "Tu Non Mi Lascerai", "duration" => "3:10"],
+                        ["title" => "Che Cosa C'È", "duration" => "2:31"],
+                        ["title" => "Amorevole", "duration" => "5:28"],
+                        ["title" => "Maria Marì", "duration" => "3:25"],
+                        ["title" => "Bocca Nel Buio", "duration" => "2:36"],
+                        ["title" => "Come Le Rose", "duration" => "2:46"],
+                        ["title" => "Fascination", "duration" => "2:44"],
+                        ["title" => "Scetate", "duration" => "4:56"],
+                        ["title" => "Piove (Ciao, Ciao Bambina)", "duration" => "2:28"],
+                        ["title" => "Ninì Tirabusciò", "duration" => "1:26"]
+                    ]
+                ],
+                [
+                    "title" => "Elisa Fiorillo - How Can I Forget You",
+                    "price" => 1,
+                    "image" => "elisa_fiorillo_how_can_i_forget_u.jpg",
+                    "year" => 1988,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["Synth-pop", "Disco"],
+                    "artist" => "Elisa Fiorillo",
+                    "label" => "Chrysalis"
+                ],
+                [
+                    "title" => "Bronski Beat - Hit That Perfect Beat",
+                    "price" => 2,
+                    "image" => "bronski_beat_hit_that_perfect_beat.jpg",
+                    "year" => 1985,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => "Synth-pop",
+                    "artist" => "Bronski Beat",
+                    "label" => "London Records"
+                ],
+                [
+                    "title" => "Bee Gees - Idea",
+                    "price" => 9,
+                    "image" => "bee_gees_idea.jpg",
+                    "year" => 1968,
+                    "genres" => ["Rock, Pop"],
+                    "styles" => ["Soft Rock", "Pop Rock"],
+                    "artist" => "Bee Gees",
+                    "label" => "Polydor"
+                ]
+            ]
         ],
 
         [
@@ -106,15 +164,5 @@ return [
             "logo" => "groove_lab_records.jpg",
             "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds."
         ]
-    ],
-
-
-    "vinyls" => [
-        [
-            "title" => "",
-            "price" =>
-            "image" => "",
-            "year" =>
-        ],
     ]
 ];
