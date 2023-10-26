@@ -466,6 +466,150 @@ return [
                         ["title" => "Make It On My Own (7'' Version)", "duration" => "4:51"]
                     ]
                 ],
+                [
+                    "title" => "House Of Gypsies - Samba",
+                    "price" => 5.00,
+                    "image" => "house_of_gypsies_samba.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "House Of Gypsies",
+                    "label" => "UMM",
+                    "tracks" => [
+                        ["title" => "Samba (Tee's Freeze Mix)", "duration" => "5:42"],
+                        ["title" => "Kool Life (Classic Dub)", "duration" => "5:51"],
+                        ["title" => "Samba (Extended Mix)", "duration" => "5:05"]
+                    ]
+                ],
+                [
+                    "title" => "Mark Morrison - Crazy",
+                    "price" => 3.00,
+                    "image" => "mark_morrison_crazy.jpg",
+                    "year" => 1996,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Funk / Soul"],
+                    "artist" => "Mark Morrison",
+                    "label" => "WEA",
+                    "tracks" => [
+                        ["title" => "Crazy (C&J Mix)", "duration" => "4:45"],
+                        ["title" => "Crazy (D'Influence '96 Mix)", "duration" => "3:54"],
+                        ["title" => "Crazy (Linslee's Mix)", "duration" => "4:36"],
+                        ["title" => "Crazy (Original Mix)", "duration" => "4:40"],
+                        ["title" => "Crazy (Mark!'s Full On Vocal Mix)", "duration" => "7:39"],
+                        ["title" => "Crazy (Pulse & Professor Stretch Main Mix)", "duration" => "7:38"]
+                    ]
+                ],
+                [
+                    "title" => "Daft Punk - Human After All",
+                    "price" => 32.00,
+                    "image" => "daft_punk_human_after_all.jpg",
+                    "year" => 2022,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Abstract", "Electro", "Experimental"],
+                    "artist" => "Daft Punk",
+                    "label" => "ADA",
+                    "tracks" => [
+                        ["title" => "Human After All", "duration" => "5:20"],
+                        ["title" => "The Prime Time Of Your Life", "duration" => "4:23"],
+                        ["title" => "Robot Rock", "duration" => "4:26"],
+                        ["title" => "Steam Machine", "duration" => "5:21"],
+                        ["title" => "Make Love", "duration" => "4:49"],
+                        ["title" => "The Brainwasher", "duration" => "4:08"],
+                        ["title" => "On/Off", "duration" => "0:19"],
+                        ["title" => "Television Rules The Nation", "duration" => "4:46"],
+                        ["title" => "Technologic", "duration" => "4:43"],
+                        ["title" => "Emotion", "duration" => "6:57"]
+                    ]
+                ],
+                [
+                    "title" => "Lady Gaga - Lovegame - The Remixes",
+                    "price" => 50.00,
+                    "image" => "lady_gaga_lovegame_the_remixes.jpg",
+                    "year" => 2009,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["House", "Europop", "Electro", "Vocal"],
+                    "artist" => "Lady Gaga",
+                    "label" => "Streamline Records",
+                    "tracks" => [
+                        ["title" => "Lovegame (Dave Aude' Remix)", "duration" => "3:20"],
+                        ["title" => "Lovegame (Space Cowboy Remix)", "duration" => "6:13"],
+                        ["title" => "Lovegame (Robots To Mars Remix)", "duration" => "4:19"],
+                        ["title" => "Lovegame (Album Version)", "duration" => "5:55"],
+                        ["title" => "Lovegame (Instrumental)", "duration" => "2:49"],
+                        ["title" => "Lovegame (A Capella)", "duration" => "3:08"]
+                    ]
+                ],
+                [
+                    "title" => "Tiga & Zyntherius - Sunglasses At Night Remixed",
+                    "price" => 6.00,
+                    "image" => "tiga_&_zyntherius_sunglasses_at_night_remixed.jpg",
+                    "year" => 2002,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Electro", "Electroclash"],
+                    "artist" => "Tiga & Zyntherius",
+                    "label" => "International Deejay Gigolo Records",
+                    "tracks" => [
+                        ["title" => "Sunglasses At Night (TGV Remix)", "duration" => "7:45"],
+                        ["title" => "Sunglasses At Night (Naughty's 42dafloor Remix)", "duration" => "9:15"]
+                    ]
+                ],
+                [
+                    "title" => "The Cure - Disintegration",
+                    "price" => 55.00,
+                    "image" => "the_cure_disintegration.jpg",
+                    "year" => 1989,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Alternative Rock", "Goth Rock", "New Wave"],
+                    "artist" => "The Cure",
+                    "label" => "Polygram",
+                    "tracks" => [
+                        ["title" => "Plainsong", "duration" => "5:16"],
+                        ["title" => "Pictures Of You", "duration" => "7:28"],
+                        ["title" => "Closedown", "duration" => "4:21"],
+                        ["title" => "Love Song", "duration" => "3:31"],
+                        ["title" => "Lullaby", "duration" => "4:12"],
+                        ["title" => "Fascination Street", "duration" => "5:17"],
+                        ["title" => "Prayers For Rain", "duration" => "6:07"],
+                        ["title" => "The Same Deep Water As You", "duration" => "9:23"],
+                        ["title" => "Disintegration", "duration" => "8:24"],
+                        ["title" => "Untitled", "duration" => "6:30"]
+                    ]
+                ],
+                [
+                    "title" => "The Prodigy - Smack My Bitch Up",
+                    "price" => 22.00,
+                    "image" => "the_prodigy_smack_my_bitch_up.jpg",
+                    "year" => 1997,
+                    "genres" => "Electronic",
+                    "styles" => ["Breakbeat", "Drum n Bass", "Big Beat"],
+                    "artist" => "The Prodigy",
+                    "label" => "UDP",
+                    "tracks" => [
+                        ["title" => "Smack My Bitch Up (LP Version)", "duration" => "5:42"],
+                        ["title" => "No Man Army", "duration" => "4:44"],
+                        ["title" => "Smack My Bitch Up (DJ Hype Remix)", "duration" => "7:17"],
+                        ["title" => "Mindfields (Headrock Dub)", "duration" => "4:34"]
+                    ]
+                ],
+                [
+                    "title" => "Battiato - L'Arca Di Noè",
+                    "price" => 23.00,
+                    "image" => "battiato_arca_di_noe.jpg",
+                    "year" => 1982,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["New Wave"],
+                    "artist" => "Battiato",
+                    "label" => "EMI",
+                    "tracks" => [
+                        ["title" => "Radio Varsavia", "duration" => "6:42"],
+                        ["title" => "Clamori", "duration" => "4:56"],
+                        ["title" => "L'Esodo", "duration" => "7:10"],
+                        ["title" => "Scalo A Grado", "duration" => "6:14"],
+                        ["title" => "La Torre", "duration" => "5:20"],
+                        ["title" => "New Frontiers", "duration" => "7:10"],
+                        ["title" => "Voglio Vederti Danzare", "duration" => "8:30"]
+                    ]
+                ]
             ]
         ],
 
@@ -473,14 +617,286 @@ return [
             "name" => "Millerecords",
             "address" => "Via Merulana, 91",
             "logo" => "millerecords.png",
-            "description" => "Crossing the doors of Millerecords, historic record shop in Rome, you can breathe a smell of culture, vinyl, a world of music that accompanied the journey of man. From Gregorian Chant to the music of the twentieth century with all the ramifications of the tree of Music: Blues, Jazz, Soul, Rock and subgenres, Fusion, Disco, Punk, New Wave and many others developed by the same Root. In this sacred Temple, among the oldest record shops in Rome, you can find all kinds of Musical Alchemy: vinyl records 33-45-78 rpm, new and used CDs, music books, Rarities of Classical, Jazz, Rock and more."
+            "description" => "Crossing the doors of Millerecords, historic record shop in Rome, you can breathe a smell of culture, vinyl, a world of music that accompanied the journey of man. From Gregorian Chant to the music of the twentieth century with all the ramifications of the tree of Music: Blues, Jazz, Soul, Rock and subgenres, Fusion, Disco, Punk, New Wave and many others developed by the same Root. In this sacred Temple, among the oldest record shops in Rome, you can find all kinds of Musical Alchemy: vinyl records 33-45-78 rpm, new and used CDs, music books, Rarities of Classical, Jazz, Rock and more.",
+            "vinyls" => [
+                [
+                    "title" => "Massive Attack - Blue Lines",
+                    "price" => 36.00,
+                    "image" => "massive_attack_blue_lines.jpg",
+                    "year" => 2016,
+                    "genres" => "Electronic",
+                    "styles" => ["Trip Hop", "Downtempo"],
+                    "artist" => "Massive Attack",
+                    "label" => "Wild Bunch Records",
+                    "tracks" => [
+                        ["title" => "Safe From Harm", "duration" => "5:16"],
+                        ["title" => "One Love", "duration" => "4:48"],
+                        ["title" => "Blue Lines", "duration" => "4:21"],
+                        ["title" => "Be Thankful For What You've Got", "duration" => "4:09"],
+                        ["title" => "Five Man Army", "duration" => "6:04"],
+                        ["title" => "Unfinished Sympathy", "duration" => "5:08"],
+                        ["title" => "Daydreaming", "duration" => "4:14"],
+                        ["title" => "Lately", "duration" => "4:26"],
+                        ["title" => "Hymn Of The Big Wheel", "duration" => "6:36"]
+                    ]
+                ],
+                [
+                    "title" => "Franco Battiato - La Voce Del Padrone",
+                    "price" => 40.00,
+                    "image" => "franco_battiato_la_voce_del_padrone.jpg",
+                    "year" => 2021,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
+                    "artist" => "Franco Battiato",
+                    "label" => "Universal Music Italia",
+                    "tracks" => [
+                        ["title" => "Summer on a Solitary Beach", "duration" => "6:16"],
+                        ["title" => "Bandiera Bianca", "duration" => "4:58"],
+                        ["title" => "Gli Uccelli", "duration" => "4:40"],
+                        ["title" => "Cuccurucucu", "duration" => "6:09"],
+                        ["title" => "Segnali Di Vita", "duration" => "5:04"],
+                        ["title" => "Centro Di Gravità Permanente", "duration" => "7:08"],
+                        ["title" => "Sentimiento Nuevo", "duration" => "5:14"]
+                    ]
+                ],
+                [
+                    "title" => "The Cure - Greatest Hits",
+                    "price" => 48.00,
+                    "image" => "the_cure_greatest_hits.jpg",
+                    "year" => 2017,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
+                    "artist" => "The Cure",
+                    "label" => "Fiction Records",
+                    "tracks" => [
+                        ["title" => "Boys Don't Cry", "duration" => "2:42"],
+                        ["title" => "A Forest", "duration" => "4:44"],
+                        ["title" => "Let's Go To Bed", "duration" => "3:34"],
+                        ["title" => "The Walk", "duration" => "7:09"],
+                        ["title" => "The Lovecats", "duration" => "3:40"],
+                        ["title" => "Inbetween Days", "duration" => "2:58"],
+                        ["title" => "Close To Me", "duration" => "3:42"],
+                        ["title" => "Why Can't I Be You?", "duration" => "3:14"],
+                        ["title" => "Just Like Heaven", "duration" => "3:32"],
+                        ["title" => "Lullaby", "duration" => "4:11"],
+                        ["title" => "Lovesong", "duration" => "3:28"],
+                        ["title" => "Never Enough", "duration" => "4:28"],
+                        ["title" => "High", "duration" => "3:35"],
+                        ["title" => "Friday I'm In Love", "duration" => "3:35"],
+                        ["title" => "Mint Car", "duration" => "3:29"],
+                        ["title" => "Wrong Number", "duration" => "6:01"],
+                        ["title" => "Cut Here", "duration" => "4:10"],
+                        ["title" => "Just Say Yes", "duration" => "3:29"]
+                    ]
+                ],
+                [
+                    "title" => "Depeche Mode - Memento Mori",
+                    "price" => 57.00,
+                    "image" => "depeche_mode_memento_mori.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Synth-pop", "Alternative Rock"],
+                    "artist" => "Depeche Mode",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "My Cosmos Is Mine", "duration" => "5:14"],
+                        ["title" => "Wagging Tongue", "duration" => "3:24"],
+                        ["title" => "Ghosts Again", "duration" => "3:56"],
+                        ["title" => "Don't Say You Love Me", "duration" => "3:47"],
+                        ["title" => "My Favourite Stranger", "duration" => "3:54"],
+                        ["title" => "Soul With Me", "duration" => "4:12"],
+                        ["title" => "Caroline's Monkey", "duration" => "4:16"],
+                        ["title" => "Before We Drown", "duration" => "4:02"],
+                        ["title" => "People Are Good", "duration" => "4:21"],
+                        ["title" => "Always You", "duration" => "4:18"],
+                        ["title" => "Never Let Me Go", "duration" => "3:59"],
+                        ["title" => "Speak To Me", "duration" => "4:33"]
+                    ]
+                ],
+                [
+                    "title" => "Depeche Mode - The Best Of (Volume 1)",
+                    "price" => 52.00,
+                    "image" => "depeche_mode_the_best_of.jpg",
+                    "year" => 2019,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["Synth-pop", "New Wave"],
+                    "artist" => "Depeche Mode",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "Personal Jesus", "duration" => "6:14"],
+                        ["title" => "Just Can't Get Enough", "duration" => "5:24"],
+                        ["title" => "Everything Counts", "duration" => "5:56"],
+                        ["title" => "Enjoy The Silence", "duration" => "6:47"],
+                        ["title" => "Shake The Disease", "duration" => "4:54"],
+                        ["title" => "See You", "duration" => "5:12"],
+                        ["title" => "It's No Good", "duration" => "5:16"],
+                        ["title" => "Strangelove", "duration" => "6:02"],
+                        ["title" => "Suffer Well", "duration" => "4:30"],
+                        ["title" => "Dream On", "duration" => "6:18"],
+                        ["title" => "People Are People", "duration" => "5:59"],
+                        ["title" => "Martyr", "duration" => "4:30"],
+                        ["title" => "Walking In My Shoes", "duration" => "5:10"],
+                        ["title" => "I Feel You", "duration" => "4:40"],
+                        ["title" => "Precious", "duration" => "5:30"],
+                        ["title" => "Master And Servant", "duration" => "6:20"],
+                        ["title" => "New Life", "duration" => "6:48"],
+                        ["title" => "Never Let Me Down Again", "duration" => "5:30"]
+                    ]
+                ],
+                [
+                    "title" => "Technotronic - Get Up! (Before The Night Is Over)",
+                    "price" => 5.00,
+                    "image" => "technotronic_get_up.jpg",
+                    "year" => 1990,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Hip-House"],
+                    "artist" => "Technotronic",
+                    "label" => "SBK Records",
+                    "tracks" => [
+                        ["title" => "Get Up! (Before The Night Is Over) (Def Mix)", "duration" => "8:12"],
+                        ["title" => "Get Up! (Before The Night Is Over) (LP Version)", "duration" => "4:47"],
+                        ["title" => "Get Up! (Before The Night Is Over) (7'' Edit)", "duration" => "3:30"],
+                        ["title" => "Get Up! (Before The Night Is Over) (Far East Mix)", "duration" => "5:58"],
+                        ["title" => "Pump Up The Jam (Techno Mix)", "duration" => "4:48"]
+                    ]
+                ],
+                [
+                    "title" => "Technotronic - Get Up! (Before The Night Is Over)",
+                    "price" => 5.00,
+                    "image" => "technotronic_get_up.jpg",
+                    "year" => 1990,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Hip-House"],
+                    "artist" => "Technotronic",
+                    "label" => "SBK Records",
+                    "tracks" => [
+                        ["title" => "Get Up! (Before The Night Is Over) (Def Mix)", "duration" => "8:12"],
+                        ["title" => "Get Up! (Before The Night Is Over) (LP Version)", "duration" => "4:47"],
+                        ["title" => "Get Up! (Before The Night Is Over) (7'' Edit)", "duration" => "3:30"],
+                        ["title" => "Get Up! (Before The Night Is Over) (Far East Mix)", "duration" => "5:58"],
+                        ["title" => "Pump Up The Jam (Techno Mix)", "duration" => "4:48"]
+                    ]
+                ],
+                [
+                    "title" => "Cerrone - Not Too Shabby (Jamie Lewis Mixes)",
+                    "price" => 18.00,
+                    "image" => "cerrone_not_too_shabby.jpg",
+                    "year" => 2005,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Disco"],
+                    "artist" => "Cerrone",
+                    "label" => "Purple Music",
+                    "tracks" => [
+                        ["title" => "Not Too Shabby (Jamie Lewis Goes Disco Mix)", "duration" => "6:12"],
+                        ["title" => "Not Too Shabby (Jamie Lewis Goes Frisco Dub)", "duration" => "5:47"]
+                    ]
+                ],
+                [
+                    "title" => "M People - Excited",
+                    "price" => 4.00,
+                    "image" => "m_people_excited.jpg",
+                    "year" => 1994,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House", "Garage House"],
+                    "artist" => "M People",
+                    "label" => "Epic Dance",
+                    "tracks" => [
+                        ["title" => "Excited (MK Mix)", "duration" => "8:32"],
+                        ["title" => "Excited (MK T Mix)", "duration" => "8:10"],
+                        ["title" => "Excited (M People Master Mix)", "duration" => "5:00"],
+                        ["title" => "Excited (MK Snow-Call Dub)", "duration" => "7:33"],
+                        ["title" => "Excited (M People Dub)", "duration" => "5:00"]
+                    ]
+                ],
+                [
+                    "title" => "T Polar - Escort Girls EP",
+                    "price" => 30.00,
+                    "image" => "t_polar_escort_girls.jpg",
+                    "year" => 2002,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "T Polar",
+                    "label" => "Modernism",
+                    "tracks" => [
+                        ["title" => "What U Here 4", "duration" => "6:32"],
+                        ["title" => "Escort Girls", "duration" => "5:50"],
+                        ["title" => "Marmaduke", "duration" => "5:44"]
+                    ]
+                ]
+            ]
         ],
 
         [
             "name" => "Ultrasuoni Records Roma",
             "address" => "Via dei Marsi, 24a",
             "logo" => "ultrasuoni.jpg",
-            "description" => "Ultrasuoni Records is a record shop based in Rome specialized in electronic music."
+            "description" => "Ultrasuoni Records is a record shop based in Rome specialized in electronic music.",
+            "vinyls" => [
+                [
+                    "title" => "Alien Signal - Circularity EP",
+                    "price" => 17.50,
+                    "image" => "alien_signal_circularity.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Progressive House", "Trance", "Progressive Trance"],
+                    "artist" => "Alien Signal",
+                    "label" => "Superluminal",
+                    "tracks" => [
+                        ["title" => "Nebula III", "duration" => "7:12"],
+                        ["title" => "Jupiter Come", "duration" => "6:47"],
+                        ["title" => "Uranus", "duration" => "5:50"],
+                        ["title" => "Souvien Tois (Electro Trip)", "duration" => "6:45"]
+                    ]
+                ],
+                [
+                    "title" => "Nativo - Guysss EP",
+                    "price" => 16.99,
+                    "image" => "nativo_guys.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Electro", "Abstract"],
+                    "artist" => "Nativo",
+                    "label" => "Incoherent Debts",
+                    "tracks" => [
+                        ["title" => "Guysss", "duration" => "6:12"],
+                        ["title" => "Pianeta Ursula", "duration" => "5:47"],
+                        ["title" => "Formaggio Pad", "duration" => "6:50"],
+                        ["title" => "Peccato", "duration" => "6:10"]
+                    ]
+                ],
+                [
+                    "title" => "Christian AB - Red Tears",
+                    "price" => 17.70,
+                    "image" => "christian_ab_red_tears.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "Christian AB",
+                    "label" => "La Nota Del Diablo",
+                    "tracks" => [
+                        ["title" => "Dr. Darkness", "duration" => "6:40"],
+                        ["title" => "Hearing Voices (Again)", "duration" => "6:47"],
+                        ["title" => "Red Tears", "duration" => "5:50"],
+                        ["title" => "Machina Drummer", "duration" => "6:10"]
+                    ]
+                ],
+                [
+                    "title" => "Djedjotronic - Smog On The Dancefloor EP",
+                    "price" => 18.99,
+                    "image" => "djedjotronic_smog_on_the_dancefloor.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["EBM", "Electro"],
+                    "artist" => "Djedjotronic",
+                    "label" => "Italo Moderni",
+                    "tracks" => [
+                        ["title" => "Smog On The Dancefloor Feat. Rein", "duration" => "5:40"],
+                        ["title" => "Frozen", "duration" => "5:47"],
+                        ["title" => "Circus", "duration" => "6:50"],
+                        ["title" => "Not Real", "duration" => "6:45"]
+                    ]
+                ],
+            ]
         ],
 
         [
