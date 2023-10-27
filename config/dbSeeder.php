@@ -896,6 +896,163 @@ return [
                         ["title" => "Not Real", "duration" => "6:45"]
                     ]
                 ],
+                [
+                    "title" => "Unknown Artist - I Was A Dj / Promesse",
+                    "price" => 17.99,
+                    "image" => "unknown_artist_i_was_a_dj.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["Italo-Disco", "Electro"],
+                    "artist" => "Unknown Artist",
+                    "label" => "R&C Records",
+                    "tracks" => [
+                        ["title" => "I Was A Dj", "duration" => "6:48"],
+                        ["title" => "Promesse", "duration" => "6:06"]
+                    ]
+                ],
+                [
+                    "title" => "Groove In Mind - In The Music",
+                    "price" => 16.99,
+                    "image" => "groove_in_mind_in_the_music.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House", "Tribal House"],
+                    "artist" => "Groove In Mind",
+                    "label" => "Gim Records",
+                    "tracks" => [
+                        ["title" => "In The Music (Original Mix)", "duration" => "7:05"],
+                        ["title" => "In The Music (Kai Alcé 5AM Mix)", "duration" => "5:56"],
+                        ["title" => "In The Music (Emanuele Inglese Remix)", "duration" => "6:40"]
+                    ]
+                ],
+                [
+                    "title" => "DMX Krew - Tree in Space",
+                    "price" => 17.20,
+                    "image" => "dmx_krew_tree_in_space.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Electro", "Acid", "Techno"],
+                    "artist" => "DMX Krew",
+                    "label" => "Shipwrec",
+                    "tracks" => [
+                        ["title" => "Parasite", "duration" => "6:28"],
+                        ["title" => "Tree In Space", "duration" => "4:11"],
+                        ["title" => "Unbelief", "duration" => "6:25"],
+                        ["title" => "Meltdown", "duration" => "4:20"]
+                    ]
+                ],
+                [
+                    "title" => "Ceephax Acid Crew - FSK 005",
+                    "price" => 31.99,
+                    "image" => "ceephax_acid_crew.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Hardcore", "Acid", "IDM"],
+                    "artist" => "Ceephax Acid Crew",
+                    "label" => "WéMè Records",
+                    "tracks" => [
+                        ["title" => "Turrican", "duration" => "5:28"],
+                        ["title" => "Mindgun", "duration" => "5:11"],
+                        ["title" => "World Bin", "duration" => "6:29"],
+                        ["title" => "Ramsden Health", "duration" => "7:19"],
+                        ["title" => "Essex Rubicon", "duration" => "6:10"],
+                        ["title" => "Yes, No Dead Wood This Cedar.", "duration" => "6:30"],
+                        ["title" => "Pollution", "duration" => "5:20"],
+                        ["title" => "Acid Protege (Live)", "duration" => "6:25"],
+                        ["title" => "Acid Wayfarer", "duration" => "7:30"]
+                    ]
+                ],
+                [
+                    "title" => "Elecktroids - Electroworld",
+                    "price" => 28.99,
+                    "image" => "elecktroids_electroworld.jpg",
+                    "year" => 2018,
+                    "genres" => "Electronic",
+                    "styles" => "Electro",
+                    "artist" => "Elecktroids",
+                    "label" => "Clone Classic Cuts",
+                    "tracks" => [
+                        ["title" => "Future Tone", "duration" => "5:54"],
+                        ["title" => "Perpetual Motion", "duration" => "6:27"],
+                        ["title" => "Japanese Elecktronics", "duration" => "6:11"],
+                        ["title" => "Check Mate", "duration" => "4:52"],
+                        ["title" => "Mystery World", "duration" => "5:04"],
+                        ["title" => "Silicon Valley", "duration" => "4:11"],
+                        ["title" => "Midnight Drive", "duration" => "5:52"],
+                        ["title" => "Thermo Science", "duration" => "6:40"],
+                        ["title" => "Stun Gun", "duration" => "5:35"],
+                        ["title" => "Floatation", "duration" => "5:48"],
+                        ["title" => "Time Tunnel", "duration" => "4:03"]
+                    ]
+                ],
+                [
+                    "title" => "Orlando Voorn - Infinite Voyage",
+                    "price" => 17.50,
+                    "image" => "orlando_voorn_infinite_voyage.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno", "Acid"],
+                    "artist" => "Orlando Voorn",
+                    "label" => "NOUN Records",
+                    "tracks" => [
+                        ["title" => "Infinite Voyage", "duration" => "6:39"],
+                        ["title" => "Straight Up", "duration" => "7:49"]
+                    ]
+                ],
+                [
+                    "title" => "Lake Haze - Everything Was Melting EP",
+                    "price" => 18.80,
+                    "image" => "lake_haze_everything_was_melting.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Acid", "Electro"],
+                    "artist" => "Lake Haze",
+                    "label" => "EYA Records",
+                    "tracks" => [
+                        ["title" => "Everything Was Melting", "duration" => "5:13"],
+                        ["title" => "Latin Machina", "duration" => "7:19"],
+                        ["title" => "Highway Lights", "duration" => "6:15"],
+                        ["title" => "Vamos A La Playa", "duration" => "5:29"]
+                    ]
+                ],
+                [
+                    "title" => "Adiel - Il Significato Delle Parole EP",
+                    "price" => 15.99,
+                    "image" => "adiel_il_significato_delle_parole.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno", "Breakbeat", "Electro"],
+                    "artist" => "Adiel",
+                    "label" => "Danza Tribale",
+                    "tracks" => [
+                        ["title" => "Nulla Resta", "duration" => "6:13"],
+                        ["title" => "Sospesa", "duration" => "8:09"],
+                        ["title" => "Parole", "duration" => "6:30"],
+                        ["title" => "Notturna", "duration" => "6:30"]
+                    ]
+                ],
+                [
+                    "title" => "Claudio Coccoluto - Trip",
+                    "price" => 32.99,
+                    "image" => "claudio_coccoluto_trip.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Ambient House", "Electro House"],
+                    "artist" => "Claudio Coccoluto",
+                    "label" => "The Dub",
+                    "tracks" => [
+                        ["title" => "Carillontron (No Beat)", "duration" => "7:13"],
+                        ["title" => "107 Nights", "duration" => "7:09"],
+                        ["title" => "Dubblack Experience", "duration" => "7:30"],
+                        ["title" => "You Are Not You", "duration" => "5:30"],
+                        ["title" => "Groovissimo", "duration" => "7:10"],
+                        ["title" => "DoMai", "duration" => "6:25"],
+                        ["title" => "Stop", "duration" => "7:05"],
+                        ["title" => "Turn Your World", "duration" => "6:20"],
+                        ["title" => "Western Roots", "duration" => "7:20"],
+                        ["title" => "Bossa De Coco", "duration" => "8:03"]
+                    ]
+                ],
             ]
         ],
 
