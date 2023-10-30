@@ -1053,6 +1053,130 @@ return [
                         ["title" => "Bossa De Coco", "duration" => "8:03"]
                     ]
                 ],
+                [
+                    "title" => "Doug Beck - Lapse",
+                    "price" => 17.00,
+                    "image" => "doug_beck_lapse.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Acid House", "Techno", "Breakbeat", "Trip Hop", "Darkwave"],
+                    "artist" => "Doug Beck",
+                    "label" => "Party Tricks",
+                    "tracks" => [
+                        ["title" => "Lapse", "duration" => "6:13"],
+                        ["title" => "In The Tunnel", "duration" => "8:09"],
+                        ["title" => "Here Kitty", "duration" => "6:30"],
+                        ["title" => "Steam", "duration" => "6:33"]
+                    ]
+                ],
+                [
+                    "title" => "Redray - Cosmic Knowledge",
+                    "price" => 15.99,
+                    "image" => "redray_cosmic_knowledge.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Acid House", "Electro", "House"],
+                    "artist" => "Redray",
+                    "label" => "Unlimited Happiness",
+                    "tracks" => [
+                        ["title" => "Cosmic Knowledge", "duration" => "7:13"],
+                        ["title" => "Indian Warrior", "duration" => "7:14"],
+                        ["title" => "Gnood", "duration" => "6:10"],
+                        ["title" => "I'll Be There", "duration" => "7:33"],
+                        ["title" => "Eazy Street", "duration" => "8:13"],
+                        ["title" => "Starlink", "duration" => "5:40"]
+                    ]
+                ],
+                [
+                    "title" => "Digregorius - Nocturnalia",
+                    "price" => 26.99,
+                    "image" => "digregorius_nocturnalia.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno", "Downtempo", "Experimental", "Electro"],
+                    "artist" => "Digregorius",
+                    "label" => "My Own Jupiter",
+                    "tracks" => [
+                        ["title" => "Morfogenesis Incluye Yachay & Monada Y Pleuroma", "duration" => "6:13"],
+                        ["title" => "Vegetal", "duration" => "8:40"],
+                        ["title" => "Invierno Mesmerizing Incluye Nocturnalia Y Session De Espiritismo", "duration" => "7:50"],
+                        ["title" => "Cuesta E Magia ! La Vita Reale Se Atende", "duration" => "8:20"],
+                        ["title" => "Ultratom Vrs La Momia", "duration" => "7:45"],
+                        ["title" => "Menguante Creciente", "duration" => "7:45"],
+                        ["title" => "A La Puerta Del Tempio Sin Vocal", "duration" => "8:20"],
+                        ["title" => "Bello Como Tabula Parlante Incluye E Sigilo Y Escala", "duration" => "7:45"]
+                    ]
+                ],
+                [
+                    "title" => "DJ Overdose - Waste No Time",
+                    "price" => 14.99,
+                    "image" => "dj_overdose_waste_no_time.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => "Electro",
+                    "artist" => "DJ Overdose",
+                    "label" => "Going Bananas",
+                    "tracks" => [
+                        ["title" => "Waste No Time", "duration" => "7:14"],
+                        ["title" => "Express", "duration" => "8:30"]
+                    ]
+                ],
+                [
+                    "title" => "Transllusion - The Opening Of The Cerebral Gate",
+                    "price" => 33.99,
+                    "image" => "transllusion_the_opening_of_the_cerebral_gate.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Electro", "Techno"],
+                    "artist" => "Transllusion",
+                    "label" => "Tresor",
+                    "tracks" => [
+                        ["title" => "Transmission Of Life", "duration" => "4:30"],
+                        ["title" => "War Of The Clones", "duration" => "5:51"],
+                        ["title" => "Negative Flash", "duration" => "4:28"],
+                        ["title" => "Walking With Clouds", "duration" => "3:32"],
+                        ["title" => "Cluben In Guyana", "duration" => "5:06"],
+                        ["title" => "Dimensional Glide", "duration" => "6:59"],
+                        ["title" => "Crossing Into The Mental Astroplane", "duration" => "4:48"],
+                        ["title" => "Cerebral Cortex Malfunction", "duration" => "5:29"],
+                        ["title" => "Unordinary Realities", "duration" => "4:51"],
+                        ["title" => "Look Within", "duration" => "4:30"],
+                        ["title" => "Do You Want To Get Down? (Vocal De Void)", "duration" => "5:45"]
+                    ]
+                ],
+                [
+                    "title" => "Optic Eye / Optica - Jake Stephenson Tribute EP",
+                    "price" => 19.43,
+                    "image" => "optic_eye_optica_jake_stephenson_tribute.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Trance", "Techno", "Ambient"],
+                    "artist" => "Optic Eye / Optica",
+                    "label" => "re:discovery records",
+                    "tracks" => [
+                        ["title" => "Optic Eye - The Listening", "duration" => "5:20"],
+                        ["title" => "Optic Eye - Brain Of Morbius", "duration" => "6:15"],
+                        ["title" => "Optica - Dolcevita", "duration" => "5:12"],
+                        ["title" => "Optica - Hashidity", "duration" => "6:53"],
+                        ["title" => "Optica - Macrorobotic", "duration" => "7:23"]
+                    ]
+                ],
+                [
+                    "title" => "Nonetheless - Atto EP",
+                    "price" => 17.50,
+                    "image" => "nonetheless_atto.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["IDM", "Downtempo"],
+                    "artist" => "Nonetheless",
+                    "label" => "Neubau",
+                    "tracks" => [
+                        ["title" => "Oboanova", "duration" => "7:40"],
+                        ["title" => "Gore", "duration" => "7:15"],
+                        ["title" => "Behind Walls", "duration" => "6:42"],
+                        ["title" => "Sumber", "duration" => "7:33"]
+                    ]
+                ]
             ]
         ],
 
@@ -1060,7 +1184,198 @@ return [
             "name" => "Blutopia Roma",
             "address" => "Via del Pigneto, 116",
             "logo" => "blutopia.jpg",
-            "description" => "Sale records (vinyl/ cd), books, videos (new and used), listening space, reading and consultation, lab."
+            "description" => "Sale records (vinyl/ cd), books, videos (new and used), listening space, reading and consultation, lab.",
+            "vinyls" => [
+                [
+                    "title" => "The Clash - London Calling",
+                    "price" => 28.00,
+                    "image" => "the_clash_london_calling.jpg",
+                    "year" => 2015,
+                    "genres" => "Rock",
+                    "styles" => ["New Wave", "Punk"],
+                    "artist" => "The Clash",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "London Calling", "duration" => "3:18"],
+                        ["title" => "Brand New Cadillac", "duration" => "2:09"],
+                        ["title" => "Jimmy Jazz", "duration" => "3:55"],
+                        ["title" => "Hateful", "duration" => "2:47"],
+                        ["title" => "Rudie Can't Fail", "duration" => "3:27"],
+                        ["title" => "Spanish Bombs", "duration" => "3:18"],
+                        ["title" => "The Right Profile", "duration" => "3:53"],
+                        ["title" => "Lost In The Supermarket", "duration" => "3:47"],
+                        ["title" => "Clampdown", "duration" => "3:50"],
+                        ["title" => "The Guns Of Brixton", "duration" => "3:12"],
+                        ["title" => "Wrong 'Em Boyo", "duration" => "3:10"],
+                        ["title" => "Death Or Glory", "duration" => "3:55"],
+                        ["title" => "Koka Kola", "duration" => "1:49"],
+                        ["title" => "The Card Cheat", "duration" => "3:50"],
+                        ["title" => "Lover's Rock", "duration" => "4:01"],
+                        ["title" => "Four Horsemen", "duration" => "3:00"],
+                        ["title" => "I'm Not Down", "duration" => "3:00"],
+                        ["title" => "Revolution Rock", "duration" => "5:36"],
+                        ["title" => "Train In Vain", "duration" => "3:10"]
+                    ]
+                ],
+                [
+                    "title" => "Lucio Dalla - Lucio Dalla",
+                    "price" => 33.00,
+                    "image" => "lucio_dalla_lucio_dalla.jpg",
+                    "year" => 2023,
+                    "genres" => "Pop",
+                    "styles" => ["Psychedelic Rock", "Rhythm & Blues"],
+                    "artist" => "Lucio Dalla",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "L'ultima Luna", "duration" => "4:28"],
+                        ["title" => "Stella Di Mare", "duration" => "5:19"],
+                        ["title" => "La Signora", "duration" => "5:45"],
+                        ["title" => "Milano", "duration" => "6:37"],
+                        ["title" => "Anna E Marco", "duration" => "6:20"],
+                        ["title" => "Tango", "duration" => "5:11"],
+                        ["title" => "Cosa Sarà", "duration" => "4:55"],
+                        ["title" => "L'anno Che Verrà", "duration" => "5:48"]
+                    ]
+                ],
+                [
+                    "title" => "Frank Sinatra - The Sinatra Christmas Album",
+                    "price" => 10.00,
+                    "image" => "frank_sinatra_the_sinatra_christmas_album.jpg",
+                    "year" => 1986,
+                    "genres" => ["Pop", "Jazz"],
+                    "styles" => ["Big Band", "Holiday"],
+                    "artist" => "Frank Sinatra",
+                    "label" => "Capitol Records",
+                    "tracks" => [
+                        ["title" => "Jingle Bells", "duration" => "1:57"],
+                        ["title" => "The Christmas Song", "duration" => "2:25"],
+                        ["title" => "Mistletoe And Holly", "duration" => "2:14"],
+                        ["title" => "I'll Be Home For Christmas", "duration" => "3:09"],
+                        ["title" => "The Christmas Waltz", "duration" => "3:00"],
+                        ["title" => "Have Yourself A Merry Little Christmas", "duration" => "5:11"],
+                        ["title" => "Cosa Sarà", "duration" => "3:25"],
+                        ["title" => "The First No&euml;l", "duration" => "2:35"],
+                        ["title" => "Hark! The Herald Angels Sing", "duration" => "2:21"],
+                        ["title" => "O Little Town Of Bethlehem", "duration" => "2:05"],
+                        ["title" => "Adeste Fideles", "duration" => "2:35"],
+                        ["title" => "It Came Upon A Midnight Clear", "duration" => "2:25"],
+                        ["title" => "Silent Night", "duration" => "2:25"]
+                    ]
+                ],
+                [
+                    "title" => "The Cure - Lovesong",
+                    "price" => 20.00,
+                    "image" => "the_cure_lovesong.jpg",
+                    "year" => 1989,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Alternative Rock", "New Wave", "Synth-pop"],
+                    "artist" => "The Cure",
+                    "label" => "Fiction Records",
+                    "tracks" => [
+                        ["title" => "Lovesong (Extended Mix)", "duration" => "6:17"],
+                        ["title" => "2 Late", "duration" => "2:39"],
+                        ["title" => "Fear Of Ghosts", "duration" => "6:49"]
+                    ]
+                ],
+                [
+                    "title" => "Simple Minds - New Gold Dream",
+                    "price" => 8.00,
+                    "image" => "simple_minds_new_gold_dream.jpg",
+                    "year" => 1982,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["New Wave", "Synth-pop"],
+                    "artist" => "Simple Minds",
+                    "label" => "Virgin",
+                    "tracks" => [
+                        ["title" => "Someone Somewhere In Summertime", "duration" => "4:35"],
+                        ["title" => "Colours Fly And Catherine Wheel", "duration" => "3:49"],
+                        ["title" => "Promised You A Miracle", "duration" => "4:26"],
+                        ["title" => "Big Sleep", "duration" => "4:59"],
+                        ["title" => "Somebody Up There Likes You", "duration" => "4:58"],
+                        ["title" => "New Gold Dream (81-82-83-84)", "duration" => "5:40"],
+                        ["title" => "Glittering Prize", "duration" => "4:33"],
+                        ["title" => "Hunter And The Hunted", "duration" => "5:54"],
+                        ["title" => "King Is White And In The Crowd", "duration" => "6:57"]
+                    ]
+                ],
+                [
+                    "title" => "Positive Noise - Give Me Passion",
+                    "price" => 5.00,
+                    "image" => "positive_noise_give_me_passion.jpg",
+                    "year" => 1981,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["New Wave", "Synth-pop"],
+                    "artist" => "Positive Noise",
+                    "label" => "Statik Records",
+                    "tracks" => [
+                        ["title" => "Give Me Passion", "duration" => "7:17"],
+                        ["title" => "Ghosts", "duration" => "6:30"]
+                    ]
+                ],
+                [
+                    "title" => "Simple Minds - Sister Feelings Call",
+                    "price" => 3.00,
+                    "image" => "simple_minds_sister_feelings_call.jpg",
+                    "year" => 1981,
+                    "genres" => "Electronic",
+                    "styles" => ["New Wave", "Synth-pop"],
+                    "artist" => "Simple Minds",
+                    "label" => "Virgin",
+                    "tracks" => [
+                        ["title" => "Theme For Great Cities", "duration" => "5:50"],
+                        ["title" => "The American", "duration" => "3:50"],
+                        ["title" => "20th Century Promised Land", "duration" => "4:23"],
+                        ["title" => "Wonderful In Young Life", "duration" => "5:20"],
+                        ["title" => "League Of Nations", "duration" => "4:56"],
+                        ["title" => "Careful In Career", "duration" => "5:08"],
+                        ["title" => "Sound In 70 Cities", "duration" => "5:04"]
+                    ]
+                ],
+                [
+                    "title" => "Marshall Jefferson Presents Truth - Open Hour",
+                    "price" => 10.00,
+                    "image" => "marshall_jefferson_presents_truth_open_hour.jpg",
+                    "year" => 1988,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House"],
+                    "artist" => "Marshall Jefferson",
+                    "label" => "Big Beat",
+                    "tracks" => [
+                        ["title" => "Open Our Eyes (Celestial Mix)", "duration" => "7:09"],
+                        ["title" => "Open Our Eyes (The Enlightenment)", "duration" => "6:00"],
+                        ["title" => "Open Our Eyes (Spiritual Mix)", "duration" => "7:01"],
+                        ["title" => "Open Our Eyes (Marshall's Elevated Dub)", "duration" => "6:19"]
+                    ]
+                ],
+                [
+                    "title" => "Inner City - Good Life",
+                    "price" => 5.00,
+                    "image" => "inner_city_good_life.jpg",
+                    "year" => 1988,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno"],
+                    "artist" => "Inner City",
+                    "label" => "10 Records",
+                    "tracks" => [
+                        ["title" => "Good Life (Master Reese Edit)", "duration" => "3:59"],
+                        ["title" => "Good Life (Instrumental)", "duration" => "5:12"]
+                    ]
+                ],
+                [
+                    "title" => "Duran Duran - Burning The Ground",
+                    "price" => 2.00,
+                    "image" => "duran_duran_burning_the_ground.jpg",
+                    "year" => 1989,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["House", "Synth-pop"],
+                    "artist" => "Duran Duran",
+                    "label" => "EMI",
+                    "tracks" => [
+                        ["title" => "Burning The Ground", "duration" => "6:59"],
+                        ["title" => "Decadance", "duration" => "6:12"]
+                    ]
+                ]
+            ]
         ],
 
         [
