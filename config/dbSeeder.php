@@ -1410,7 +1410,66 @@ return [
             "name" => "I Want To Believe Recordshop",
             "address" => "Via dei Quattro Cantoni, 10a",
             "logo" => "i_want_to_believe_records.jpg",
-            "description" => "We are based in Roma (Italy). Close to Termini Station and tube Metro B. Specialized in all the faces of electronic music. Also selection of alternative rock, contemporary jazz and hip hop. New and 2nd hand. If you want to order by email send your order here iwtbrecords@gmail.com."
+            "description" => "We are based in Roma (Italy). Close to Termini Station and tube Metro B. Specialized in all the faces of electronic music. Also selection of alternative rock, contemporary jazz and hip hop. New and 2nd hand. If you want to order by email send your order here iwtbrecords@gmail.com.",
+            "vinyls" => [
+                [
+                    "title" => "Stereolab - Emperor Tomato Ketchup",
+                    "price" => 24.99,
+                    "image" => "stereolab_emporer_tomato_ketchup.jpg",
+                    "year" => 1996,
+                    "genres" => ["Rock", "Electronic", "Pop"],
+                    "styles" => ["Indie Rock", "Post Rock", "Indie Pop", "Experimental"],
+                    "artist" => "Stereolab",
+                    "label" => "Duophonic Ultra High Frequency Disks",
+                    "tracks" => [
+                        ["title" => "Metronomic Underground", "duration" => "4:28"],
+                        ["title" => "Cybele's Reverie", "duration" => "5:59"],
+                        ["title" => "Percolator", "duration" => "6:55"],
+                        ["title" => "Les Yper-Sound", "duration" => "6:17"],
+                        ["title" => "Spark Plug", "duration" => "6:07"],
+                        ["title" => "OLV 26", "duration" => "3:30"],
+                        ["title" => "The Noise Of Carpet", "duration" => "5:53"],
+                        ["title" => "Tomorrow Is Already Here", "duration" => "6:48"],
+                        ["title" => "Emperor Tomato Ketchup", "duration" => "5:50"],
+                        ["title" => "Monstre Sacre", "duration" => "6:12"],
+                        ["title" => "Motoroller Scalatron", "duration" => "5:15"],
+                        ["title" => "Slow Fast Hazel", "duration" => "5:55"],
+                        ["title" => "Anonymous Collective", "duration" => "7:49"]
+                    ]
+                ],
+                [
+                    "title" => "Kraftwerk - Early Live In Germany",
+                    "price" => 19.99,
+                    "image" => "kraftwerk_early_live_in_germany.jpg",
+                    "year" => 2022,
+                    "genres" => "Electronic",
+                    "styles" => "Experimental",
+                    "artist" => "Kraftwerk",
+                    "label" => "Outsider Records",
+                    "tracks" => [
+                        ["title" => "Vom Himmel Hoch", "duration" => "5:48"],
+                        ["title" => "Ruckzuck", "duration" => "6:59"],
+                        ["title" => "Stratovarius (AKA Heavy Metal Kids)", "duration" => "4:50"],
+                        ["title" => "Megaherz (AKA Improvisation 1)", "duration" => "7:17"]
+                    ]
+                ],
+                [
+                    "title" => "Raiders Of The Lost ARP - Funk Series Part 3",
+                    "price" => 19.99,
+                    "image" => "raiders_of_the_lost_arp_funk_series_part.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno","Electro","Deep House"],
+                    "artist" => "Raiders Of The Lost ARP",
+                    "label" => "Loud Enough",
+                    "tracks" => [
+                        ["title" => "Funk009 (Otto-Zero-Out)", "duration" => "6:48"],
+                        ["title" => "Funk010 (Lava P)", "duration" => "5:59"],
+                        ["title" => "Funk006 (Drop)", "duration" => "7:30"],
+                        ["title" => "Funk007 (Circular)", "duration" => "8:17"]
+                    ]
+                ]
+            ]
         ],
 
         [
