@@ -1468,6 +1468,307 @@ return [
                         ["title" => "Funk006 (Drop)", "duration" => "7:30"],
                         ["title" => "Funk007 (Circular)", "duration" => "8:17"]
                     ]
+                ],
+                [
+                    "title" => "Radiohead - The Year Of The Mud",
+                    "price" => 29.99,
+                    "image" => "radiohead_the_year_of_the_mud.jpg",
+                    "year" => 2023,
+                    "genres" => "Rock",
+                    "styles" => ["Alternative Rock","Indie Rock"],
+                    "artist" => "Radiohead",
+                    "label" => "Cat Wreck Rec.",
+                    "tracks" => [
+                        ["title" => "Lucky", "duration" => "5:48"],
+                        ["title" => "My Iron Lunk", "duration" => "6:59"],
+                        ["title" => "Planet Telex", "duration" => "8:30"],
+                        ["title" => "Exit Music", "duration" => "7:22"],
+                        ["title" => "The Bends", "duration" => "8:10"],
+                        ["title" => "Nice Dream", "duration" => "7:30"],
+                        ["title" => "Paranoid Android", "duration" => "8:28"],
+                        ["title" => "Karma Police", "duration" => "6:22"],
+                        ["title" => "Creep", "duration" => "7:17"],
+                        ["title" => "Climbing Up The Walls", "duration" => "6:20"],
+                        ["title" => "No Surprises", "duration" => "5:15"],
+                        ["title" => "Talk Show Host", "duration" => "7:33"],
+                        ["title" => "Bones", "duration" => "8:10"],
+                        ["title" => "Just", "duration" => "7:14"],
+                        ["title" => "Fake Plastic Tree", "duration" => "8:12"],
+                        ["title" => "You", "duration" => "7:39"],
+                        ["title" => "The Turist", "duration" => "8:12"],
+                        ["title" => "High And Dry", "duration" => "7:02"],
+                        ["title" => "Street Spirit", "duration" => "7:15"]
+                    ]
+                ],
+                [
+                    "title" => "The KLF - Chill Out",
+                    "price" => 44.99,
+                    "image" => "the_klf_chill_out.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => "Ambient",
+                    "artist" => "The KLF",
+                    "label" => "KLF Communications",
+                    "tracks" => [
+                        ["title" => "Brownsville Turnaround On The Tex-Mex Border", "duration" => "1:47"],
+                        ["title" => "Pulling Out Of Ricardo And The Dusk Is Falling Fast", "duration" => "1:29"],
+                        ["title" => "Six Hours To Louisiana, Black Coffee Going Cold", "duration" => "3:01"],
+                        ["title" => "Dream Time In Lake Jackson", "duration" => "2:35"],
+                        ["title" => "Madrugada Eterna", "duration" => "7:40"],
+                        ["title" => "Justified And Ancient Seems A Long Time Ago", "duration" => "1:08"],
+                        ["title" => "Elvis On The Radio, Steel Guitar In My Soul", "duration" => "3:01"],
+                        ["title" => "3AM Somewhere Out Of Beaumont", "duration" => "9:24"],
+                        ["title" => "Witchita Lineman Was A Song I Once Heard", "duration" => "5:56"],
+                        ["title" => "Trancentral Lost In My Mind", "duration" => "1:16"],
+                        ["title" => "The Lights Of Baton Rouge Pass By", "duration" => "3:34"],
+                        ["title" => "A Melody From A Past Life Keeps Pulling Me Back", "duration" => "1:41"],
+                        ["title" => "Rock Radio Into The Nineties And Beyond", "duration" => "1:26"],
+                        ["title" => "Alone Again With The Dawn Coming Up", "duration" => "0:16"]
+                    ]
+                ],
+                [
+                    "title" => "Transllusion - Mind Over Positive And Negative Dimensional Matter",
+                    "price" => 14.98,
+                    "image" => "transllusion_mind_over_positive_and_negative_dimension_matter.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => "Electro",
+                    "artist" => "Transllusion",
+                    "label" => "Tresor",
+                    "tracks" => [
+                        ["title" => "Disrupted Neural Gateway", "duration" => "5:57"],
+                        ["title" => "Do You Want To Get Down", "duration" => "5:44"],
+                        ["title" => "Power Of The 3rd Brain", "duration" => "5:31"]
+                    ]
+                ],
+                [
+                    "title" => "Convextion - R-CNVX1",
+                    "price" => 14.99,
+                    "image" => "convextion_r_cnvx1.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno","Minimal","Dub Techno"],
+                    "artist" => "Convextion",
+                    "label" => "a.r.t.less",
+                    "tracks" => [
+                        ["title" => "Venus In Spurs", "duration" => "7:48"],
+                        ["title" => "Crawling And Hungry", "duration" => "6:44"]
+                    ]
+                ],
+                [
+                    "title" => "Leo Anibaldi - Pro Pop",
+                    "price" => 22.00,
+                    "image" => "leo_anibaldi_pro_pop.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic","Hip Hop"],
+                    "styles" => ["Instrumental","Funk","Trip Hop"],
+                    "artist" => "Leo Anibaldi",
+                    "label" => "Neo Life",
+                    "tracks" => [
+                        ["title" => "Cafrica", "duration" => "3:10"],
+                        ["title" => "Ariboo", "duration" => "5:30"],
+                        ["title" => "Esperanza", "duration" => "4:45"],
+                        ["title" => "Estate", "duration" => "6:10"],
+                        ["title" => "Devasto", "duration" => "5:30"],
+                        ["title" => "Mare", "duration" => "6:09"],
+                        ["title" => "Miles", "duration" => "6:30"],
+                        ["title" => "Nina Pop", "duration" => "7:07"],
+                        ["title" => "NooSo", "duration" => "6:40"],
+                        ["title" => "La Funk", "duration" => "7:10"],
+                        ["title" => "Jim", "duration" => "8:30"]
+                    ]
+                ],
+                [
+                    "title" => "Ma Spaventi - Vicino Lontano",
+                    "price" => 23.97,
+                    "image" => "ma_spaventi_vicino_lontano.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Ambient","Downtempo"],
+                    "artist" => "Ma Spaventi",
+                    "label" => "Bordello A Parigi",
+                    "tracks" => [
+                        ["title" => "Solitario", "duration" => "4:22"],
+                        ["title" => "Crepuscolo", "duration" => "5:49"],
+                        ["title" => "Bomber", "duration" => "2:25"],
+                        ["title" => "Bring Me Back", "duration" => "5:28"],
+                        ["title" => "Intermezzo", "duration" => "3:31"],
+                        ["title" => "Velvet Lights", "duration" => "5:41"],
+                        ["title" => "Endline", "duration" => "3:18"],
+                        ["title" => "Bidderosa", "duration" => "5:20"]
+                    ]
+                ],
+                [
+                    "title" => "Interstellar Funk - Never Been",
+                    "price" => 16.98,
+                    "image" => "interstellar_funk_never_been.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Electro","Techno"],
+                    "artist" => "Interstellar Funk",
+                    "label" => "Artificial Dance",
+                    "tracks" => [
+                        ["title" => "Fly Me In", "duration" => "4:21"],
+                        ["title" => "Freefall", "duration" => "6:47"],
+                        ["title" => "Hidden Tongue", "duration" => "3:43"],
+                        ["title" => "Situational Lullaby", "duration" => "5:38"],
+                        ["title" => "Lurking Orange", "duration" => "4:48"]
+                    ]
+                ],
+                [
+                    "title" => "Blur - The Ballad Of Darren",
+                    "price" => 24.99,
+                    "image" => "blur_the_ballad_of_darren.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic","Rock"],
+                    "styles" => "Indie Rock",
+                    "artist" => "Blur",
+                    "label" => "Parlophone",
+                    "tracks" => [
+                        ["title" => "The Ballad", "duration" => "3:37"],
+                        ["title" => "St. Charles Square", "duration" => "3:55"],
+                        ["title" => "Barbaric", "duration" => "4:09"],
+                        ["title" => "Russian Strings", "duration" => "3:38"],
+                        ["title" => "The Everglades (For Leonard)", "duration" => "2:56"],
+                        ["title" => "The Narcissist", "duration" => "4:05"],
+                        ["title" => "Goodbye Albert", "duration" => "4:17"],
+                        ["title" => "Far Away Island", "duration" => "2:58"],
+                        ["title" => "Avalon", "duration" => "3:05"],
+                        ["title" => "The Heights", "duration" => "3:24"]
+                    ]
+                ],
+                [
+                    "title" => "Vasco Rossi - ... Ma Cosa Vuoi Che Sia Una Canzone",
+                    "price" => 5.00,
+                    "image" => "vasco_rossi_ma_cosa_vuoi_che_sia_una_canzone.jpg",
+                    "year" => 2006,
+                    "genres" => "Rock",
+                    "styles" => "Pop Rock",
+                    "artist" => "Vasco Rossi",
+                    "label" => "Corriere Della Sera",
+                    "tracks" => [
+                        ["title" => "La Nostra Relazione", "duration" => "3:00"],
+                        ["title" => "...E Poi Mi Parli Di Una Vita Insieme", "duration" => "4:27"],
+                        ["title" => "Silvia", "duration" => "3:31"],
+                        ["title" => "Tu Che Dormivi Piano", "duration" => "4:17"],
+                        ["title" => "Jenny", "duration" => "7:11"],
+                        ["title" => "Ambarabaciccicoccò", "duration" => "3:38"],
+                        ["title" => "Ed Il Tempo Crea Eroi", "duration" => "3:28"],
+                        ["title" => "Ciao", "duration" => "1:22"]
+                    ]
+                ],
+                [
+                    "title" => "Starfighters - Power Crazy",
+                    "price" => 5.99,
+                    "image" => "starfighters_power_crazy.jpg",
+                    "year" => 1981,
+                    "genres" => "Rock",
+                    "styles" => "Hard Rock",
+                    "artist" => "Starfighters",
+                    "label" => "Jive",
+                    "tracks" => [
+                        ["title" => "Power Crazy", "duration" => "2:52"],
+                        ["title" => "Get Out While You Can (Live)", "duration" => "3:25"],
+                        ["title" => "I Want You (Live)", "duration" => "4:20"]
+                    ]
+                ],
+                [
+                    "title" => "Todd Terry - Sound Design Part 1",
+                    "price" => 9.99,
+                    "image" => "todd_terry_sound_design_part_1.jpg",
+                    "year" => 2013,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "Todd Terry",
+                    "label" => "Freeze Records",
+                    "tracks" => [
+                        ["title" => "Searchin'", "duration" => "7:55"],
+                        ["title" => "Razen Theme", "duration" => "5:25"],
+                        ["title" => "Funky Brass (Uk Rmx)", "duration" => "6:20"],
+                        ["title" => "I Need Ya (Remix)", "duration" => "5:30"]
+                    ]
+                ],
+                [
+                    "title" => "Gemini - In Neutral",
+                    "price" => 12.00,
+                    "image" => "gemini_in_neutral.jpg",
+                    "year" => 2014,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House", "Breaks"],
+                    "artist" => "Gemini",
+                    "label" => "Chiwax Classic Edition",
+                    "tracks" => [
+                        ["title" => "Campanula", "duration" => "6:55"],
+                        ["title" => "Lifted Life", "duration" => "6:35"],
+                        ["title" => "Memory", "duration" => "7:22"],
+                        ["title" => "On This Planet", "duration" => "6:33"],
+                        ["title" => "Ahi", "duration" => "7:20"],
+                        ["title" => "In Neutral", "duration" => "8:10"],
+                        ["title" => "?", "duration" => "7:25"],
+                        ["title" => "De Bass", "duration" => "6:40"]
+                    ]
+                ],
+                [
+                    "title" => "Feneel - Big Ass",
+                    "price" => 4.99,
+                    "image" => "feneel_big_ass.jpg",
+                    "year" => 1996,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "Feneel",
+                    "label" => "Ground Move Records",
+                    "tracks" => [
+                        ["title" => "Big Ass (Hard Version)", "duration" => "4:56"],
+                        ["title" => "Big Ass (Sensual Version)", "duration" => "6:08"],
+                        ["title" => "Big Ass (Black Sun Version)", "duration" => "3:14"]
+                    ]
+                ],
+                [
+                    "title" => "Atex - Senseless Soul",
+                    "price" => 5.99,
+                    "image" => "atex_senseless_soul.jpg",
+                    "year" => 1998,
+                    "genres" => "Electronic",
+                    "styles" => ["House","Trance"],
+                    "artist" => "Atex",
+                    "label" => "Nerve",
+                    "tracks" => [
+                        ["title" => "Senseless Soul (Wizard House Edit)", "duration" => "6:28"],
+                        ["title" => "Senseless Soul (Witsch Club Edit)", "duration" => "8:37"]
+                    ]
+                ],
+                [
+                    "title" => "Jessie Deep! - Lost Tracks Vol 2",
+                    "price" => 19.99,
+                    "image" => "jessie_deep_lost_tracks_vol_2.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno","Trance", "House"],
+                    "artist" => "Jessie Deep!",
+                    "label" => "Music Man Records",
+                    "tracks" => [
+                        ["title" => "Lifeform", "duration" => "4:03"],
+                        ["title" => "Attraction", "duration" => "3:58"],
+                        ["title" => "My Revelation", "duration" => "5:47"],
+                        ["title" => "Chill Out Space", "duration" => "5:03"],
+                        ["title" => "Closed Worlds", "duration" => "6:35"]
+                    ]
+                ],
+                [
+                    "title" => "Frédéric De Backer - Untitled",
+                    "price" => 4.99,
+                    "image" => "frederic_de_backer_untitled.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno","Trance", "House"],
+                    "artist" => "Frédéric De Backer",
+                    "label" => "S.O.B. (Sound Of The Bomb)",
+                    "tracks" => [
+                        ["title" => "Dance - Acid Drop (Piano Mix)", "duration" => "4:36"],
+                        ["title" => "Human Nation - Pleasure", "duration" => "4:46"],
+                        ["title" => "Black Lips - Recharge", "duration" => "4:48"],
+                        ["title" => "Piano's Party - Spacial", "duration" => "3:12"]
+                    ]
                 ]
             ]
         ],
