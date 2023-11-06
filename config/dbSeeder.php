@@ -1798,7 +1798,182 @@ return [
             "name" => "Goody Music",
             "address" => "Via Flaminia 23, angolo via Beccaria",
             "logo" => "goody_music.jpg",
-            "description" => "From headphones to speakers and then mixers, controlers, laser, mirror balls, audio card, flight cases, in conclusion everyone's able to manage a consolle should stop by here. In case you are newbie, in Goody Music you can find secondhand stuff, so that you don't need to slash your wrists while waiting for the fame."
+            "description" => "From headphones to speakers and then mixers, controlers, laser, mirror balls, audio card, flight cases, in conclusion everyone's able to manage a consolle should stop by here. In case you are newbie, in Goody Music you can find secondhand stuff, so that you don't need to slash your wrists while waiting for the fame.",
+            "vinyls" => [
+                [
+                    "title" => "Underground Science - COMA",
+                    "price" => 14.99,
+                    "image" => "underground_science_coma.jpg",
+                    "year" => 1994,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno", "Trance"],
+                    "artist" => "Underground Science",
+                    "label" => "Lo Voltage",
+                    "tracks" => [
+                        ["title" => "Coma", "duration" => "5:30"],
+                        ["title" => "The Tempest", "duration" => "6:59"],
+                        ["title" => "Uranus", "duration" => "7:55"]
+                    ]
+                ],
+                [
+                    "title" => "Terrence Dixon - Population One",
+                    "price" => 10.99,
+                    "image" => "terrence_dixon_population_one.jpg",
+                    "year" => 2011,
+                    "genres" => "Electronic",
+                    "styles" => ["Techno", "Dub Techno", "Tech House"],
+                    "artist" => "Terrence Dixon",
+                    "label" => "Shanti Records",
+                    "tracks" => [
+                        ["title" => "Return Of The Speaker People", "duration" => "4:59"],
+                        ["title" => "One Bedroom Apartment", "duration" => "7:21"],
+                        ["title" => "Detroit Express", "duration" => "5:09"],
+                        ["title" => "Return Of The Speaker People (Kausto's Sudden Aphasia Mix)", "duration" => "5:46"]
+                    ]
+                ],
+                [
+                    "title" => "A² - Positive Tones",
+                    "price" => 34.99,
+                    "image" => "a_positive_tones.jpg",
+                    "year" => 1998,
+                    "genres" => "Electronic",
+                    "styles" => ["Electro", "Techno"],
+                    "artist" => "A²",
+                    "label" => "An Alien Recordings",
+                    "tracks" => [
+                        ["title" => "Generating Rhythm", "duration" => "5:59"],
+                        ["title" => "Positive Tones", "duration" => "6:22"],
+                        ["title" => "Wurdz", "duration" => "6:12"]
+                    ]
+                ],
+                [
+                    "title" => "Little Nobody - The Knock Off",
+                    "price" => 9.99,
+                    "image" => "little_nobody_the_knock_off.jpg",
+                    "year" => 2014,
+                    "genres" => "Electronic",
+                    "styles" => ["Freestyle", "Techno", "Abstract"],
+                    "artist" => "Little Nobody",
+                    "label" => "My Own Jupiter",
+                    "tracks" => [
+                        ["title" => "Bat Rastard", "duration" => "6:59"],
+                        ["title" => "Weltschmerz", "duration" => "5:44"],
+                        ["title" => "Nobody's Driving", "duration" => "7:14"],
+                        ["title" => "Sense And Senility", "duration" => "8:10"],
+                        ["title" => "Robota", "duration" => "6:30"]
+                    ]
+                ],
+                [
+                    "title" => "Phil Merrall - Libertine Traditions 09: Part 1-2",
+                    "price" => 16.99,
+                    "image" => "phil_merrall_libertine_traditions_09.jpg",
+                    "year" => 2018,
+                    "genres" => "Electronic",
+                    "styles" => ["Neo Trance", "Techno", "Trance"],
+                    "artist" => "Phil Merrall",
+                    "label" => "Libertine Records",
+                    "tracks" => [
+                        ["title" => "Temple Of Drums", "duration" => "5:50"],
+                        ["title" => "Fantastic Future", "duration" => "6:45"],
+                        ["title" => "Abnormal", "duration" => "7:30"],
+                        ["title" => "The Psychic", "duration" => "7:10"],
+                        ["title" => "Star Gazer", "duration" => "7:33"],
+                        ["title" => "Sunky's Smoke Emporium", "duration" => "6:45"],
+                        ["title" => "Spark It Up", "duration" => "5:50"],
+                        ["title" => "Bud Beast", "duration" => "6:40"]
+                    ]
+                ],
+                [
+                    "title" => "Kid Machine - Traditions 15",
+                    "price" => 12.99,
+                    "image" => "kid_machine_traditions_15.jpg",
+                    "year" => 2020,
+                    "genres" => "Electronic",
+                    "styles" => ["EBM", "Techno", "Techno", "Italo-Disco", "New Beat"],
+                    "artist" => "Kid Machine",
+                    "label" => "Libertine Records",
+                    "tracks" => [
+                        ["title" => "Ufo III", "duration" => "6:50"],
+                        ["title" => "We Don't Care", "duration" => "6:30"],
+                        ["title" => "Space Saga II", "duration" => "6:40"],
+                        ["title" => "Nasa", "duration" => "7:30"],
+                        ["title" => "Creation Humanoid", "duration" => "7:40"],
+                        ["title" => "E-V-A", "duration" => "6:30"],
+                        ["title" => "Future Now!", "duration" => "6:20"],
+                        ["title" => "Blow", "duration" => "5:45"]
+                    ]
+                ],
+                [
+                    "title" => "Rex Smith - Camouflage",
+                    "price" => 9.99,
+                    "image" => "rex_smith_camouflage.jpg",
+                    "year" => 1983,
+                    "genres" => ["Rock", "Pop"],
+                    "styles" => "Pop Rock",
+                    "artist" => "Rex Smith",
+                    "label" => "Columbia",
+                    "tracks" => [
+                        ["title" => "Camouflage", "duration" => "7:50"],
+                        ["title" => "New Romeo", "duration" => "6:35"],
+                        ["title" => "In The Heat Of The Night", "duration" => "6:45"],
+                        ["title" => "Don't Talk", "duration" => "7:33"],
+                        ["title" => "Get It Right", "duration" => "7:44"],
+                        ["title" => "Love With A Perfect Stranger", "duration" => "6:30"],
+                        ["title" => "Real Love", "duration" => "5:20"],
+                        ["title" => "Tears", "duration" => "5:50"],
+                        ["title" => "Two Hearts", "duration" => "6:25"],
+                        ["title" => "Roll Me", "duration" => "7:10"]
+                    ]
+                ],
+                [
+                    "title" => "Riccardo - The Difference Between The Analog & Digital Love Of Victor Taransky",
+                    "price" => 14.99,
+                    "image" => "riccardo_the_difference_between_the_analog_&_digital_love_of_victor_taransky.jpg",
+                    "year" => 2016,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "Experimental"],
+                    "artist" => "Riccardo",
+                    "label" => "Metropolita Recordings",
+                    "tracks" => [
+                        ["title" => "Giraffe", "duration" => "8:29"],
+                        ["title" => "Giraffe (Dubmix)", "duration" => "6:24"],
+                        ["title" => "Intothestruggles (Dubmix)", "duration" => "4:53"],
+                        ["title" => "Amazzonia", "duration" => "10:13"],
+                        ["title" => "Intothestruggles", "duration" => "9:50"]
+                    ]
+                ],
+                [
+                    "title" => "Saverio Celestri - My Mental Madness EP",
+                    "price" => 7.99,
+                    "image" => "saverio_celestri_my_mental_madness_ep.jpg",
+                    "year" => 2017,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "Techno", "Minimal Techno", "Electro"],
+                    "artist" => "Saverio Celestri",
+                    "label" => "Club Vision Records",
+                    "tracks" => [
+                        ["title" => "My Mental Madness", "duration" => "6:41"],
+                        ["title" => "Chromoscope", "duration" => "6:32"],
+                        ["title" => "Megallanic Cloud", "duration" => "6:53"]
+                    ]
+                ],
+                [
+                    "title" => "Spacetravel - Time To Wake Up",
+                    "price" => 9.99,
+                    "image" => "spacetravel_time_to_wake_up.jpg",
+                    "year" => 2016,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "House", "Techno"],
+                    "artist" => "Spacetravel",
+                    "label" => "Melliflow",
+                    "tracks" => [
+                        ["title" => "Strange Experience", "duration" => "6:45"],
+                        ["title" => "Ambient Microphones", "duration" => "6:30"],
+                        ["title" => "Personal Control", "duration" => "7:50"],
+                        ["title" => "Magic Track", "duration" => "7:30"]
+                    ]
+                ],
+            ]
         ],
 
         [
