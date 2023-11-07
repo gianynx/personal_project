@@ -1379,34 +1379,6 @@ return [
         ],
 
         [
-            "name" => "Il Mangiadischi Roma",
-            "address" => "Via Luciano Manara, 22",
-            "logo" => "il_mangiadischi.jpg",
-            "description" => "Precious and historic record shop in Trastevere. Refined music with the possibility of drinking a beer in company."
-        ],
-
-        [
-            "name" => "Pink Moon",
-            "address" => "Via Antonio Paninotti, 5",
-            "logo" => "pink_moon.png",
-            "description" => "A journey back in time. Avalanches of vinyl and cd. Truly a temple of music. Ten minutes walk from Trastevere station. We are waiting for you!"
-        ],
-
-        [
-            "name" => "Disco+",
-            "address" => "Via dei Platani, 37",
-            "logo" => "disco_plus.jpg",
-            "description" => "At Disco+ you can find a wide selection of news and a rich catalog in LP, CD, DVD and rarities ital."
-        ],
-
-        [
-            "name" => "Ace Records Roma",
-            "address" => "Via Veglia, 29",
-            "logo" => "ace_records.jpg",
-            "description" => "Ace Records is a record shop and label based in Rome, IT. We focus on Heavy Metal, Hard Rock, Pop Rock, Jazz and Classical on vinyl, tape, CD new and used."
-        ],
-
-        [
             "name" => "I Want To Believe Recordshop",
             "address" => "Via dei Quattro Cantoni, 10a",
             "logo" => "i_want_to_believe_records.jpg",
@@ -1774,27 +1746,6 @@ return [
         ],
 
         [
-            "name" => "DischixFiaschi",
-            "address" => "Via Valsolda, 57",
-            "logo" => "dischi_x_fiaschi.jpg",
-            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!"
-        ],
-
-        [
-            "name" => "Discoteca Laziale",
-            "address" => "Via Giovanni Giolitti, 263",
-            "logo" => "discoteca_laziale.jpg",
-            "description" => "Disco Laziale. Music, books, entertainment. Historical record store, born in Rome in 1967."
-        ],
-
-        [
-            "name" => "Chicken Records - Music Shop",
-            "address" => "Via Rovigno d'Istria, 14a",
-            "logo" => "chicken_records.png",
-            "description" => "Chicken Records is a record shop located in Via Rovigno 14/a, in the district of Villa Gordiani, adjacent to the park of the same name and the historic village. Like any self-respecting record store, the passion for music was the spark that brought to light this space, in which you can find, between new and used, a wide assortment of genres and formats, with thousands of LPs, 7 , CDs, Audiocassettes, Books and Music DVDs."
-        ],
-
-        [
             "name" => "Goody Music",
             "address" => "Via Flaminia 23, angolo via Beccaria",
             "logo" => "goody_music.jpg",
@@ -1973,7 +1924,281 @@ return [
                         ["title" => "Magic Track", "duration" => "7:30"]
                     ]
                 ],
+                [
+                    "title" => "Fabio Della Torre & David C. - Magenta E.P.",
+                    "price" => 4.99,
+                    "image" => "fabio_della_torre_&_david_magenta.jpg",
+                    "year" => 2006,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "Tech House"],
+                    "artist" => "Fabio Della Torre & David C.",
+                    "label" => "Tenax Recordings",
+                    "tracks" => [
+                        ["title" => "Magenta", "duration" => "6:02"],
+                        ["title" => "Scrumbled Decks", "duration" => "7:29"],
+                        ["title" => "DetLef", "duration" => "6:33"]
+                    ]
+                ],
+                [
+                    "title" => "Egal 3 - Story E.P.",
+                    "price" => 6.99,
+                    "image" => "egal_3_story.jpg",
+                    "year" => 2014,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "Techno"],
+                    "artist" => "Egal 3",
+                    "label" => "The Rabbit Hole",
+                    "tracks" => [
+                        ["title" => "DumDrum", "duration" => "5:40"],
+                        ["title" => "Rush Hour", "duration" => "7:40"],
+                        ["title" => "Story", "duration" => "5:03"]
+                    ]
+                ],
+                [
+                    "title" => "Samuel Rohrer - Codes Of Nature",
+                    "price" => 22.98,
+                    "image" => "samuel_rohrer_codes_of_nature.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Minimal", "Electroacoustic", "Experimental", "Abstract", "Breakbeat", "Ambient"],
+                    "artist" => "Samuel Rohrer",
+                    "label" => "Arjunamusic",
+                    "tracks" => [
+                        ["title" => "Body Of Lies", "duration" => "7:40"],
+                        ["title" => "Scapegoat Principle", "duration" => "8:10"],
+                        ["title" => "Fourth Density", "duration" => "8:03"],
+                        ["title" => "The Banality Of Evil", "duration" => "10:26"],
+                        ["title" => "Talking To Nature Spirits", "duration" => "9:58"],
+                        ["title" => "Resurrection", "duration" => "5:23"]
+                    ]
+                ],
+                [
+                    "title" => "Pellegrino & Zodyaco - Malìa",
+                    "price" => 16.99,
+                    "image" => "pellegrino_&_zodyaco_malia.jpg",
+                    "year" => 2023,
+                    "genres" => ["Jazz", "Latin", "Funk / Soul"],
+                    "styles" => ["Disco", "Funk", "Fusion"],
+                    "artist" => "Pellegrino & Zodyaco",
+                    "label" => "Early Sounds Recordings",
+                    "tracks" => [
+                        ["title" => "Malìa", "duration" => "3:48"],
+                        ["title" => "Malìa (Caribbean Escapade)", "duration" => "4:08"]
+                    ]
+                ],
+                [
+                    "title" => "Nudge - Distruzione Vol. 1",
+                    "price" => 9.99,
+                    "image" => "nudge_distruzione_vol_1.jpg",
+                    "year" => 2016,
+                    "genres" => "Hip Hop",
+                    "styles" => "House",
+                    "artist" => "Nudge",
+                    "label" => "P!STA Records",
+                    "tracks" => [
+                        ["title" => "Patience", "duration" => "5:05"],
+                        ["title" => "Busted", "duration" => "4:22"],
+                        ["title" => "Song4AMan", "duration" => "2:28"]
+                    ]
+                ],
+                [
+                    "title" => "Roc Hard - I Want Cha",
+                    "price" => 3.50,
+                    "image" => "roc_hard_i_want_cha.jpg",
+                    "year" => 1993,
+                    "genres" => ["Hip Hop", "Electronic"],
+                    "styles" => ["House", "Boom Bap"],
+                    "artist" => "Roc Hard",
+                    "label" => "Trumpin! Records",
+                    "tracks" => [
+                        ["title" => "I Want Cha (Enzo Club Mix)", "duration" => "7:03"],
+                        ["title" => "I Want Cha (Roc-U-Mentry Mix)", "duration" => "6:14"],
+                        ["title" => "I Want Cha (Roc 2 Tha Beats Mix)", "duration" => "6:16"]
+                    ]
+                ],
+                [
+                    "title" => "Pierce - False Prophecy",
+                    "price" => 5.99,
+                    "image" => "pierce_false_prophecy.jpg",
+                    "year" => 2007,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Tech House"],
+                    "artist" => "Pierce",
+                    "label" => "BeatModul Records",
+                    "tracks" => [
+                        ["title" => "False Prophecy (Original Mix)", "duration" => "7:13"],
+                        ["title" => "False Prophecy (Karri-O Remix)", "duration" => "6:31"],
+                        ["title" => "False Prophecy (Tech Mix)", "duration" => "7:22"],
+                        ["title" => "False Prophecy (Synthappella)", "duration" => "1:37"]
+                    ]
+                ],
+                [
+                    "title" => "Matti Turunen - Elokuu EP",
+                    "price" => 9.99,
+                    "image" => "matti_turen_elokuu_ep.jpg",
+                    "year" => 2012,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Electro", "Acid"],
+                    "artist" => "Matti Turunen",
+                    "label" => "Muhk",
+                    "tracks" => [
+                        ["title" => "Elokuu", "duration" => "7:14"],
+                        ["title" => "Things You Do", "duration" => "6:36"],
+                        ["title" => "Stars", "duration" => "7:10"]
+                    ]
+                ],
+                [
+                    "title" => "97.4 - Roots 82",
+                    "price" => 14.99,
+                    "image" => "97.4_roots_82.jpg",
+                    "year" => 2016,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Electro", "Acid"],
+                    "artist" => "97.4",
+                    "label" => "Eklo",
+                    "tracks" => [
+                        ["title" => "Rue des Anciens", "duration" => "5:14"],
+                        ["title" => "Collé 2000", "duration" => "6:30"],
+                        ["title" => "Celeri Rave", "duration" => "7:30"],
+                        ["title" => "La Dodo Lé la", "duration" => "6:40"],
+                        ["title" => "Grand Matin", "duration" => "8:10"],
+                        ["title" => "Savate Yab", "duration" => "8:05"],
+                        ["title" => "Planet Samoussa", "duration" => "6:50"],
+                        ["title" => "La Cour des Miracles", "duration" => "6:33"]
+                    ]
+                ],
+                [
+                    "title" => "Seuil - Transition Naturelle",
+                    "price" => 9.99,
+                    "image" => "seuil_transition_naturelle.jpg",
+                    "year" => 2018,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Techno", "Minimal", "Acid"],
+                    "artist" => "Seuil",
+                    "label" => "Lowmoneymusiclove",
+                    "tracks" => [
+                        ["title" => "Partout Dance", "duration" => "7:30"],
+                        ["title" => "Médoc Marteens", "duration" => "6:40"],
+                        ["title" => "Brune Acid Flash", "duration" => "8:30"],
+                        ["title" => "Al Comme Pacino", "duration" => "7:15"]
+                    ]
+                ]
             ]
+        ],
+
+        [
+            "name" => "Discoteca Laziale",
+            "address" => "Via Giovanni Giolitti, 263",
+            "logo" => "discoteca_laziale.jpg",
+            "description" => "Disco Laziale. Music, books, entertainment. Historical record store, born in Rome in 1967.",
+            "vinyls" => [
+                [
+                    "title" => "Neud Photo - Echoes",
+                    "price" => 17.99,
+                    "image" => "neud_photo_echoes.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => "Electro",
+                    "artist" => "Neud Photo",
+                    "label" => "Lonewolf",
+                    "tracks" => [
+                        ["title" => "Replica", "duration" => "6:30"],
+                        ["title" => "Silent Blast", "duration" => "5:59"],
+                        ["title" => "Lotus Eaters", "duration" => "6:45"],
+                        ["title" => "Gun Runner", "duration" => "7:10"],
+                        ["title" => "Flash Pleasure", "duration" => "8:20"]
+                    ]
+                ],
+                [
+                    "title" => "Hydroplane - Selected Songs 1997-2003",
+                    "price" => 41.99,
+                    "image" => "hydroplane_selected_songs_1997_2003.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Indie Rock", "Indie Pop", "Experimental"],
+                    "artist" => "Hydroplane",
+                    "label" => "World Of Echo",
+                    "tracks" => [
+                        ["title" => "We Crossed The Atlantic", "duration" => "3:53"],
+                        ["title" => "The Love You Bring", "duration" => "7:00"],
+                        ["title" => "When I Was Howard Hughes", "duration" => "2:48"],
+                        ["title" => "Failed Adventure", "duration" => "3:38"],
+                        ["title" => "Stars", "duration" => "1:55"],
+                        ["title" => "Grand Central", "duration" => "4:26"],
+                        ["title" => "International Exiles", "duration" => "4:53"],
+                        ["title" => "Merry-Go-Round", "duration" => "3:54"],
+                        ["title" => "Radios Appear", "duration" => "3:32"],
+                        ["title" => "City Terminus", "duration" => "5:09"],
+                        ["title" => "Min Min Light", "duration" => "4:03"],
+                        ["title" => "Oregon Snow", "duration" => "3:39"],
+                        ["title" => "Cherry Lake", "duration" => "2:08"],
+                        ["title" => "Blackout", "duration" => "4:25"],
+                        ["title" => "Please Don't Say Goodbye", "duration" => "3:04"],
+                        ["title" => "Museum Station", "duration" => "4:29"],
+                        ["title" => "Blue Train", "duration" => "2:54"],
+                        ["title" => "You Were There", "duration" => "3:44"],
+                        ["title" => "Something Better Beginning", "duration" => "2:59"]
+                    ]
+                ],
+                [
+                    "title" => "Kano - Turn It Up",
+                    "price" => 15.99,
+                    "image" => "kano_turn_it_up.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Deep House", "Italo House", "Italo-Disco"],
+                    "artist" => "Kano",
+                    "label" => "Full Time Production",
+                    "tracks" => [
+                        ["title" => "Turn It Up (Danny Krivit Extended Edit)", "duration" => "7:15"],
+                        ["title" => "Turn It Up (Les Inferno Dude Boogie Remix)", "duration" => "5:26"],
+                        ["title" => "Turn It Up (Fresco Edits Remix)", "duration" => "6:20"],
+                        ["title" => "Unconditional Lover (Dr Packer Remix)", "duration" => "7:00"]
+                    ]
+                ],
+            ]
+        ],
+
+        [
+            "name" => "Il Mangiadischi Roma",
+            "address" => "Via Luciano Manara, 22",
+            "logo" => "il_mangiadischi.jpg",
+            "description" => "Precious and historic record shop in Trastevere. Refined music with the possibility of drinking a beer in company."
+        ],
+
+        [
+            "name" => "Pink Moon",
+            "address" => "Via Antonio Paninotti, 5",
+            "logo" => "pink_moon.png",
+            "description" => "A journey back in time. Avalanches of vinyl and cd. Truly a temple of music. Ten minutes walk from Trastevere station. We are waiting for you!"
+        ],
+
+        [
+            "name" => "Disco+",
+            "address" => "Via dei Platani, 37",
+            "logo" => "disco_plus.jpg",
+            "description" => "At Disco+ you can find a wide selection of news and a rich catalog in LP, CD, DVD and rarities ital."
+        ],
+
+        [
+            "name" => "Ace Records Roma",
+            "address" => "Via Veglia, 29",
+            "logo" => "ace_records.jpg",
+            "description" => "Ace Records is a record shop and label based in Rome, IT. We focus on Heavy Metal, Hard Rock, Pop Rock, Jazz and Classical on vinyl, tape, CD new and used."
+        ],
+
+        [
+            "name" => "DischixFiaschi",
+            "address" => "Via Valsolda, 57",
+            "logo" => "dischi_x_fiaschi.jpg",
+            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!"
+        ],
+
+        [
+            "name" => "Chicken Records - Music Shop",
+            "address" => "Via Rovigno d'Istria, 14a",
+            "logo" => "chicken_records.png",
+            "description" => "Chicken Records is a record shop located in Via Rovigno 14/a, in the district of Villa Gordiani, adjacent to the park of the same name and the historic village. Like any self-respecting record store, the passion for music was the spark that brought to light this space, in which you can find, between new and used, a wide assortment of genres and formats, with thousands of LPs, 7 , CDs, Audiocassettes, Books and Music DVDs."
         ],
 
         [
