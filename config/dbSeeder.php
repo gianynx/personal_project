@@ -2156,6 +2156,320 @@ return [
                         ["title" => "Unconditional Lover (Dr Packer Remix)", "duration" => "7:00"]
                     ]
                 ],
+                [
+                    "title" => "Kid Machine - The Lone Wolf",
+                    "price" => 14.50,
+                    "image" => "kid_machine_the_lone_wolf.jpg",
+                    "year" => 2020,
+                    "genres" => "Electronic",
+                    "styles" => ["Electro", "EBM", "Italo-Disco"],
+                    "artist" => "Kid Machine",
+                    "label" => "Aspecto Humano",
+                    "tracks" => [
+                        ["title" => "Atomik War", "duration" => "6:15"],
+                        ["title" => "Lone Wolf", "duration" => "7:10"],
+                        ["title" => "Stolen Dream", "duration" => "6:30"],
+                        ["title" => "U.M.A.N.O", "duration" => "7:00"],
+                        ["title" => "Intelligent Design", "duration" => "7:40"]
+                    ]
+                ],
+                [
+                    "title" => "Eric Random - Wire Me Up",
+                    "price" => 20.99,
+                    "image" => "eric_random_wire_me_up.jpg",
+                    "year" => 2019,
+                    "genres" => "Electronic",
+                    "styles" => "EBM",
+                    "artist" => "Eric Random",
+                    "label" => "SLEEPERS",
+                    "tracks" => [
+                        ["title" => "Nothing Is True", "duration" => "7:30"],
+                        ["title" => "Target", "duration" => "7:45"],
+                        ["title" => "Stealth", "duration" => "6:15"],
+                        ["title" => "Monochrome", "duration" => "7:07"],
+                        ["title" => "Commence Countdown", "duration" => "8:10"],
+                        ["title" => "Skid Row", "duration" => "7:40"],
+                        ["title" => "You Seem The Same", "duration" => "8:08"],
+                        ["title" => "The Louder You Scream", "duration" => "7:14"],
+                        ["title" => "Touch Sensative", "duration" => "6:30"],
+                        ["title" => "Hypnophobia", "duration" => "7:22"],
+                        ["title" => "Systematic", "duration" => "8:08"],
+                        ["title" => "The Outsider", "duration" => "7:44"]
+                    ]
+                ],
+                [
+                    "title" => "Eva Rhythmic - Silver Dragon",
+                    "price" => 16.99,
+                    "image" => "eva_rhythmic_silver_dragon.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["Downtempo", "Experimental"],
+                    "artist" => "Eva Rhythmic",
+                    "label" => "Positive Mutation",
+                    "tracks" => [
+                        ["title" => "Sentimental", "duration" => "7:14"],
+                        ["title" => "Silver Dragon", "duration" => "7:30"],
+                        ["title" => "Humano", "duration" => "6:40"],
+                        ["title" => "Your Feet Are Blue", "duration" => "7:10"]
+                    ]
+                ],
+                [
+                    "title" => "Aphex Twin - Selected Ambient Works 85-92",
+                    "price" => 27.50,
+                    "image" => "aphex_twin_selected_ambient_works_85_92.jpg",
+                    "year" => 2021,
+                    "genres" => "Electronic",
+                    "styles" => ["IDM", "Experimental", "Techno", "Electro", "Ambient"],
+                    "artist" => "Aphex Twin",
+                    "label" => "Apollo",
+                    "tracks" => [
+                        ["title" => "Xtal", "duration" => "4:51"],
+                        ["title" => "Tha", "duration" => "9:01"],
+                        ["title" => "Pulsewidth", "duration" => "3:47"],
+                        ["title" => "Ageispolis", "duration" => "5:21"],
+                        ["title" => "I", "duration" => "1:13"],
+                        ["title" => "Green Calx", "duration" => "6:02"],
+                        ["title" => "Heliosphan", "duration" => "4:51"],
+                        ["title" => "We Are The Music Makers", "duration" => "7:42"],
+                        ["title" => "Schottkey 7th Path", "duration" => "5:07"],
+                        ["title" => "Ptolemy", "duration" => "7:12"],
+                        ["title" => "Hedphelym", "duration" => "6:02"],
+                        ["title" => "Delphium", "duration" => "5:36"],
+                        ["title" => "Actium", "duration" => "7:35"]
+                    ]
+                ],
+                [
+                    "title" => "Nicolini - Goods / Human Experiment",
+                    "price" => 15.50,
+                    "image" => "nicolini_goods_human_experiment.jpg",
+                    "year" => 2022,
+                    "genres" => "Electronic",
+                    "styles" => ["Dub", "Experimental"],
+                    "artist" => "Nicolini",
+                    "label" => "South Of North",
+                    "tracks" => [
+                        ["title" => "Goods", "duration" => "5:39"],
+                        ["title" => "Human Experiment", "duration" => "4:32"]
+                    ]
+                ],
+                [
+                    "title" => "Lucio Dalla & Gianni Morandi - In Europa",
+                    "price" => 12.99,
+                    "image" => "lucio_dalla_&_gianni_morandi_in_europa.jpg",
+                    "year" => 1989,
+                    "genres" => "Pop",
+                    "styles" => ["Ballad", "Psychedelic Rock", "Rhythm & Blues"],
+                    "artist" => "Lucio Dalla & Gianni Morandi",
+                    "label" => "Ariola",
+                    "tracks" => [
+                        ["title" => "Vita", "duration" => "6:39"],
+                        ["title" => "Il Motore Del 2000", "duration" => "7:14"],
+                        ["title" => "Amore Piccolino", "duration" => "8:10"],
+                        ["title" => "Pomeriggio In Ufficio", "duration" => "5:30"],
+                        ["title" => "Che Cosa Resterà Di Me", "duration" => "6:22"],
+                        ["title" => "Dimmi Dimmi", "duration" => "5:45"],
+                        ["title" => "Chiedi Chi Erano I Beatles", "duration" => "5:36"],
+                        ["title" => "Cuori Di Gesù", "duration" => "7:20"],
+                        ["title" => "Il Cielo", "duration" => "6:30"],
+                        ["title" => "Felicità", "duration" => "7:07"]
+                    ]
+                ],
+                [
+                    "title" => "Bob Dylan - Under The Red Sky",
+                    "price" => 9.99,
+                    "image" => "bob_dylan_under_the_red_sky.jpg",
+                    "year" => 1990,
+                    "genres" => ["Pop", "Rock"],
+                    "styles" => "Rock & Roll",
+                    "artist" => "Bob Dylan",
+                    "label" => "CBS",
+                    "tracks" => [
+                        ["title" => "Wiggle Wiggle", "duration" => "2:09"],
+                        ["title" => "Under The Red Sky", "duration" => "4:08"],
+                        ["title" => "Unbelievable", "duration" => "4:05"],
+                        ["title" => "Born In Time", "duration" => "3:38"],
+                        ["title" => "T.V. Talkin' Song", "duration" => "3:01"],
+                        ["title" => "10.000 Men", "duration" => "4:21"],
+                        ["title" => "2x2", "duration" => "3:36"],
+                        ["title" => "God Knows", "duration" => "3:02"],
+                        ["title" => "Handy Dandy", "duration" => "4:01"],
+                        ["title" => "Cat's In The Well", "duration" => "3:20"]
+                    ]
+                ]
+            ]
+        ],
+
+        [
+            "name" => "Groove Lab Records",
+            "address" => "Via Luigi Vanvitelli, 39",
+            "logo" => "groove_lab_records.jpg",
+            "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds.",
+            "vinyls" => [
+                [
+                    "title" => "Elvis Presley - Elvis Sings For Children And Grownups Too!",
+                    "price" => 15.00,
+                    "image" => "elvis_presley_elvis_sings_for_children_and_grownups_too.jpg",
+                    "year" => 1978,
+                    "genres" => ["Pop", "Rock"],
+                    "styles" => ["Rock & Roll", "Classic Rock"],
+                    "artist" => "Elvis Presley",
+                    "label" => "RCA Victor",
+                    "tracks" => [
+                        ["title" => "(Let Me Be Your) Teddy Bear", "duration" => "1:46"],
+                        ["title" => "Wooden Heart", "duration" => "2:02"],
+                        ["title" => "Five Sleepyheads", "duration" => "1:30"],
+                        ["title" => "Puppet On A String", "duration" => "2:39"],
+                        ["title" => "Angel", "duration" => "2:36"],
+                        ["title" => "Old MacDonald", "duration" => "2:04"],
+                        ["title" => "How Would You Like To Be", "duration" => "3:26"],
+                        ["title" => "Cotton Candy Land", "duration" => "1:33"],
+                        ["title" => "Old Shep", "duration" => "4:08"],
+                        ["title" => "Big Boots", "duration" => "1:30"],
+                        ["title" => "Have a Happy", "duration" => "2:20"]
+                    ]
+                ],
+                [
+                    "title" => "The Beatles - Love Songs",
+                    "price" => 60.00,
+                    "image" => "the_beatles_love_songs.jpg",
+                    "year" => 1977,
+                    "genres" => ["Pop", "Rock"],
+                    "styles" => ["Soft Rock", "Pop Rock"],
+                    "artist" => "The Beatles",
+                    "label" => "Capitol Records",
+                    "tracks" => [
+                        ["title" => "Yesterday", "duration" => "2:04"],
+                        ["title" => "I'll Follow The Sun", "duration" => "1:48"],
+                        ["title" => "I Need You", "duration" => "2:28"],
+                        ["title" => "Girl", "duration" => "2:26"],
+                        ["title" => "In My Life", "duration" => "2:23"],
+                        ["title" => "Words Of Love", "duration" => "2:10"],
+                        ["title" => "Here, There And Everywhere", "duration" => "2:26"],
+                        ["title" => "Something", "duration" => "3:03"],
+                        ["title" => "And I Love her", "duration" => "2:28"],
+                        ["title" => "If I Fell", "duration" => "2:19"],
+                        ["title" => "I'll Be Back", "duration" => "2:22"],
+                        ["title" => "Tell Me What You See", "duration" => "2:35"],
+                        ["title" => "Yes It Is", "duration" => "2:40"],
+                        ["title" => "Michelle", "duration" => "2:42"],
+                        ["title" => "It's Only Love", "duration" => "1:53"],
+                        ["title" => "You're Going To Lose That Girl", "duration" => "2:18"],
+                        ["title" => "Every Little Thing", "duration" => "2:01"],
+                        ["title" => "For No One", "duration" => "2:00"],
+                        ["title" => "She's Leaving Home", "duration" => "3:36"],
+                        ["title" => "The Long And Winding Road", "duration" => "3:40"],
+                        ["title" => "This Boy", "duration" => "2:11"],
+                        ["title" => "Norwegian Wood (This Bird Has Flown)", "duration" => "2:00"],
+                        ["title" => "You've Got To Hide Your Love Away", "duration" => "2:08"],
+                        ["title" => "I Will", "duration" => "1:53"],
+                        ["title" => "P.S. I Love You", "duration" => "2:02"]
+                    ]
+                ],
+                [
+                    "title" => "Patty Pravo / Grace Jones - Tutto Il Mondo È Casa Mia / La Vie En Rose",
+                    "price" => 1.20,
+                    "image" => "patty_pravo_grace_jones_tutto_il_mondo_è_casa_mia.jpg",
+                    "year" => 1977,
+                    "genres" => ["Pop", "Rock", "Funk / Soul"],
+                    "styles" => ["Disco", "Pop Rock"],
+                    "artist" => "Patty Pravo / Grace Jones",
+                    "label" => "Ricordi",
+                    "tracks" => [
+                        ["title" => "Patty Pravo - Tutto Il Mondo È Casa Mia", "duration" => "3:58"],
+                        ["title" => "Grace Jones - La Vie En Rose", "duration" => "3:35"]
+                    ]
+                ],
+                [
+                    "title" => "Tony Esposito - Il Villaggio Globale",
+                    "price" => 9.00,
+                    "image" => "tony_esposito_il_villaggio_globale.jpg",
+                    "year" => 1990,
+                    "genres" => ["Electronic", "Funk / Soul", "Folk"],
+                    "styles" => ["Italo-Disco", "Downtempo"],
+                    "artist" => "Tony Esposito",
+                    "label" => "Ricordi",
+                    "tracks" => [
+                        ["title" => "Babylon", "duration" => "6:40"],
+                        ["title" => "No Voice No Noice", "duration" => "7:10"],
+                        ["title" => "Giochi Non Giochi?", "duration" => "6:30"],
+                        ["title" => "For The Children Know", "duration" => "5:45"],
+                        ["title" => "Alma Mi Alma", "duration" => "6:26"],
+                        ["title" => "Novecento Aufwiedersehen", "duration" => "7:07"],
+                        ["title" => "Cantomaria", "duration" => "5:40"],
+                        ["title" => "Malimba", "duration" => "8:08"]
+                    ]
+                ],
+                [
+                    "title" => "Renzo Arbore - Cacao Meravigliao",
+                    "price" => 3.00,
+                    "image" => "renzo_arbore_cacao_meravigliao.jpg",
+                    "year" => 1988,
+                    "genres" => ["Electronic", "Latin"],
+                    "styles" => ["Italo-Disco", "Samba"],
+                    "artist" => "Renzo Arbore",
+                    "label" => "Fonit Cetra",
+                    "tracks" => [
+                        ["title" => "Cacao Meravigliao", "duration" => "6:00"],
+                        ["title" => "Cocco Rock", "duration" => "4:30"]
+                    ]
+                ],
+                [
+                    "title" => "Italian Disco Boys - Mazurkadiscodoble",
+                    "price" => 9.00,
+                    "image" => "italian_disco_boys_mazurkadiscodoble.jpg",
+                    "year" => 1983,
+                    "genres" => ["Electronic", "Latin", "Folk"],
+                    "styles" => ["Italo-Disco", "Italodance", "Liscio"],
+                    "artist" => "Italian Disco Boys",
+                    "label" => "New Eco",
+                    "tracks" => [
+                        ["title" => "Discodoble", "duration" => "3:18"],
+                        ["title" => "España Cani", "duration" => "2:07"],
+                        ["title" => "Malagueña", "duration" => "1:05"],
+                        ["title" => "Limon Limonero", "duration" => "1:00"],
+                        ["title" => "Ramon Segura", "duration" => "1:10"],
+                        ["title" => "El Relicario", "duration" => "0:20"],
+                        ["title" => "Moliendo Cafè", "duration" => "0:30"],
+                        ["title" => "Discomazurka", "duration" => "3:06"],
+                        ["title" => "La Doccia", "duration" => "1:05"],
+                        ["title" => "Celecre Mazurka Variata", "duration" => "1:30"],
+                        ["title" => "Sulle Rive Del Weser", "duration" => "0:55"],
+                        ["title" => "Cesarina", "duration" => "0:55"],
+                        ["title" => "Antilope", "duration" => "0:57"],
+                        ["title" => "La Mazurka Della Nonna", "duration" => "0:57"]
+                    ]
+                ],
+                [
+                    "title" => "D.J. Pierre - Love Trax",
+                    "price" => 4.99,
+                    "image" => "dj_pierre_love_trax.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House"],
+                    "artist" => "D.J. Pierre",
+                    "label" => "Strictly Rhythm",
+                    "tracks" => [
+                        ["title" => "Love Izz", "duration" => "5:55"],
+                        ["title" => "Happyness", "duration" => "6:45"],
+                        ["title" => "Distorted Luv", "duration" => "13:19"]
+                    ]
+                ],
+                [
+                    "title" => "DJ Duke Presents Freedom - Loving You",
+                    "price" => 4.50,
+                    "image" => "dj_duke_presents_freedom_loving_you.jpg",
+                    "year" => 1994,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "DJ Duke",
+                    "label" => "Power Music Records",
+                    "tracks" => [
+                        ["title" => "Loving You (Untitled U.S. Mix 1)", "duration" => "6:55"],
+                        ["title" => "Loving You (Untitled U.S. Mix 2)", "duration" => "6:45"],
+                        ["title" => "Loving You (Untitled Euro Mix 1)", "duration" => "7:07"],
+                        ["title" => "Loving You (Untitled Euro Mix 2)", "duration" => "7:08"]
+                    ]
+                ]
             ]
         ],
 
@@ -2199,13 +2513,6 @@ return [
             "address" => "Via Rovigno d'Istria, 14a",
             "logo" => "chicken_records.png",
             "description" => "Chicken Records is a record shop located in Via Rovigno 14/a, in the district of Villa Gordiani, adjacent to the park of the same name and the historic village. Like any self-respecting record store, the passion for music was the spark that brought to light this space, in which you can find, between new and used, a wide assortment of genres and formats, with thousands of LPs, 7 , CDs, Audiocassettes, Books and Music DVDs."
-        ],
-
-        [
-            "name" => "Groove Lab Records",
-            "address" => "Via Luigi Vanvitelli, 39",
-            "logo" => "groove_lab_records.jpg",
-            "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds."
         ]
     ]
 ];
