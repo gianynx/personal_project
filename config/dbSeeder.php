@@ -2469,50 +2469,189 @@ return [
                         ["title" => "Loving You (Untitled Euro Mix 1)", "duration" => "7:07"],
                         ["title" => "Loving You (Untitled Euro Mix 2)", "duration" => "7:08"]
                     ]
+                ],
+                [
+                    "title" => "Urban Rhythm - Jump Around / Makes You Feel Alright",
+                    "price" => 1.50,
+                    "image" => "urban_rhythm_jump_around_makes_you_feel_alright.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Breaks"],
+                    "artist" => "Urban Rhythm",
+                    "label" => "Strictly Rhythm",
+                    "tracks" => [
+                        ["title" => "Jump Around (Pumpinitinyajeep Mix)", "duration" => "5:21"],
+                        ["title" => "Jump Around (B-Boy Anthem)", "duration" => "2:39"],
+                        ["title" => "Makes You Feel Alright (House2House Mix)", "duration" => "5:35"],
+                        ["title" => "Makes You Feel Alright (Urban Rhythm Mix)", "duration" => "4:48"],
+                        ["title" => "Makes You Feel Alright (Just A Beat)", "duration" => "2:28"]
+                    ]
+                ],
+                [
+                    "title" => "Criminal Element Orchestra - Everybody (Ultimate State Mix)",
+                    "price" => 1.00,
+                    "image" => "criminal_element_orchestra_everybody_ultimate_state_mix.jpg",
+                    "year" => 1990,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "Criminal Element Orchestra",
+                    "label" => "Deconstruction",
+                    "tracks" => [
+                        ["title" => "Everybody (Ultimate State Mix)", "duration" => "6:30"],
+                        ["title" => "Everybody (Ultimate Instrumental Mix)", "duration" => "7:14"]
+                    ]
                 ]
             ]
-        ],
-
-        [
-            "name" => "Il Mangiadischi Roma",
-            "address" => "Via Luciano Manara, 22",
-            "logo" => "il_mangiadischi.jpg",
-            "description" => "Precious and historic record shop in Trastevere. Refined music with the possibility of drinking a beer in company."
-        ],
-
-        [
-            "name" => "Pink Moon",
-            "address" => "Via Antonio Paninotti, 5",
-            "logo" => "pink_moon.png",
-            "description" => "A journey back in time. Avalanches of vinyl and cd. Truly a temple of music. Ten minutes walk from Trastevere station. We are waiting for you!"
-        ],
-
-        [
-            "name" => "Disco+",
-            "address" => "Via dei Platani, 37",
-            "logo" => "disco_plus.jpg",
-            "description" => "At Disco+ you can find a wide selection of news and a rich catalog in LP, CD, DVD and rarities ital."
-        ],
-
-        [
-            "name" => "Ace Records Roma",
-            "address" => "Via Veglia, 29",
-            "logo" => "ace_records.jpg",
-            "description" => "Ace Records is a record shop and label based in Rome, IT. We focus on Heavy Metal, Hard Rock, Pop Rock, Jazz and Classical on vinyl, tape, CD new and used."
         ],
 
         [
             "name" => "DischixFiaschi",
             "address" => "Via Valsolda, 57",
             "logo" => "dischi_x_fiaschi.jpg",
-            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!"
-        ],
-
-        [
-            "name" => "Chicken Records - Music Shop",
-            "address" => "Via Rovigno d'Istria, 14a",
-            "logo" => "chicken_records.png",
-            "description" => "Chicken Records is a record shop located in Via Rovigno 14/a, in the district of Villa Gordiani, adjacent to the park of the same name and the historic village. Like any self-respecting record store, the passion for music was the spark that brought to light this space, in which you can find, between new and used, a wide assortment of genres and formats, with thousands of LPs, 7 , CDs, Audiocassettes, Books and Music DVDs."
+            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!",
+            "vinyls" => [
+                [
+                    "title" => "The Notorius B.I.G. - Greatest Hits",
+                    "price" => 46.00,
+                    "image" => "the_notorius_big_greatest_hits.jpg",
+                    "year" => 2023,
+                    "genres" => "Hip Hop",
+                    "styles" => ["Gangsta", "Hardcore Hip-Hop"],
+                    "artist" => "The Notorius B.I.G.",
+                    "label" => "Bad Boy Entertainment",
+                    "tracks" => [
+                        ["title" => "Juicy", "duration" => "5:01"],
+                        ["title" => "Big Poppa", "duration" => "4:10"],
+                        ["title" => "Hypnotize", "duration" => "3:50"],
+                        ["title" => "One More Chance/Stay With Me (Remix)", "duration" => "4:29"],
+                        ["title" => "Get Money", "duration" => "4:34"],
+                        ["title" => "Warning", "duration" => "3:39"],
+                        ["title" => "Dead Wrong", "duration" => "4:57"],
+                        ["title" => "Who Shot Ya", "duration" => "5:17"],
+                        ["title" => "Ten Crack Commandments", "duration" => "3:24"],
+                        ["title" => "Notorius Thugs", "duration" => "6:07"],
+                        ["title" => "Notorius B.I.G.", "duration" => "3:12"],
+                        ["title" => "Nasty Girl", "duration" => "4:46"],
+                        ["title" => "Unbelievable", "duration" => "3:40"],
+                        ["title" => "Niggas Bleed", "duration" => "4:52"],
+                        ["title" => "Running Your Mouth", "duration" => "3:33"],
+                        ["title" => "Want That Old Thing Back", "duration" => "4:58"],
+                        ["title" => "Fuck You Tonight", "duration" => "5:44"]
+                    ]
+                ],
+                [
+                    "title" => "LFO - Peel Session TX 20/10/90",
+                    "price" => 23.00,
+                    "image" => "lfo_peel_session_tx.jpg",
+                    "year" => 2019,
+                    "genres" => "Electronic",
+                    "styles" => ["IDM", "Techno"],
+                    "artist" => "LFO",
+                    "label" => "Warp Records",
+                    "tracks" => [
+                        ["title" => "Take Control", "duration" => "7:01"],
+                        ["title" => "To The Limit", "duration" => "6:15"],
+                        ["title" => "Rob's Nightmare", "duration" => "6:30"],
+                        ["title" => "Lost World", "duration" => "5:30"]
+                    ]
+                ],
+                [
+                    "title" => "The Notorius B.I.G. - Ready To Die",
+                    "price" => 35.00,
+                    "image" => "the_notorius_big_ready_to_die.jpg",
+                    "year" => 2021,
+                    "genres" => "Hip Hop",
+                    "styles" => ["Gangsta", "Boom Bap"],
+                    "artist" => "LFO",
+                    "label" => "Bad Boy Entertainment",
+                    "tracks" => [
+                        ["title" => "Intro", "duration" => "3:23"],
+                        ["title" => "Things Done Changed", "duration" => "3:58"],
+                        ["title" => "Gimme The Loot", "duration" => "5:04"],
+                        ["title" => "Machine Gun Funk", "duration" => "4:15"],
+                        ["title" => "Warning", "duration" => "3:40"],
+                        ["title" => "Ready To Die", "duration" => "4:43"],
+                        ["title" => "One More Chance", "duration" => "4:43"],
+                        ["title" => "#!*@ Me (Interlude)", "duration" => "1:31"],
+                        ["title" => "The What", "duration" => "3:57"],
+                        ["title" => "Juicy", "duration" => "5:02"],
+                        ["title" => "Everyday Struggle", "duration" => "5:19"],
+                        ["title" => "Me & My B*tch", "duration" => "4:00"],
+                        ["title" => "Big Poppa", "duration" => "4:12"],
+                        ["title" => "Respect", "duration" => "5:21"],
+                        ["title" => "Friend Of Mine", "duration" => "3:28"],
+                        ["title" => "Unbelievable", "duration" => "3:43"],
+                        ["title" => "Suicidal Thoughts", "duration" => "2:50"],
+                        ["title" => "Who Shot Ya", "duration" => "5:19"],
+                        ["title" => "Just Playing (Dreams)", "duration" => "2:43"]
+                    ]
+                ],
+                [
+                    "title" => "The XX - Coexist",
+                    "price" => 42.00,
+                    "image" => "the_xx_coexist.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["Alternative Rock", "Indie Rock"],
+                    "artist" => "The XX",
+                    "label" => "Young",
+                    "tracks" => [
+                        ["title" => "Angels", "duration" => "6:30"],
+                        ["title" => "Chained", "duration" => "7:00"],
+                        ["title" => "Fiction", "duration" => "6:57"],
+                        ["title" => "Try", "duration" => "5:40"],
+                        ["title" => "Reunion", "duration" => "7:07"],
+                        ["title" => "Sunset", "duration" => "5:08"],
+                        ["title" => "Missing", "duration" => "7:14"],
+                        ["title" => "Tides", "duration" => "8:10"],
+                        ["title" => "Unfold", "duration" => "7:20"],
+                        ["title" => "Swept Away", "duration" => "6:01"],
+                        ["title" => "Our Song", "duration" => "5:50"]
+                    ]
+                ],
+                [
+                    "title" => "The Beatles - Yellow Submarine",
+                    "price" => 36.00,
+                    "image" => "the_beatles_yellow_submarine.jpg",
+                    "year" => 2012,
+                    "genres" => ["Rock", "Pop"],
+                    "styles" => ["Pop Rock", "Psychedelic Rock"],
+                    "artist" => "The Beatles",
+                    "label" => "Apple Records",
+                    "tracks" => [
+                        ["title" => "Yellow Submarine", "duration" => "7:30"],
+                        ["title" => "Only A Northern Song", "duration" => "7:15"],
+                        ["title" => "All Together Now", "duration" => "6:57"],
+                        ["title" => "Hey Bulldog", "duration" => "5:44"],
+                        ["title" => "It's All Too Much", "duration" => "7:14"],
+                        ["title" => "All You Need Is Love", "duration" => "5:48"]
+                    ]
+                ],
+                [
+                    "title" => "Frank Sinatra - Frank Sinatra Inimitabile",
+                    "price" => 8.00,
+                    "image" => "frank_sinatra_frank_sinatra_inimitabile.jpg",
+                    "year" => 1974,
+                    "genres" => ["Jazz", "Pop", "Folk"],
+                    "styles" => ["Chanson", "Easy Listening"],
+                    "artist" => "Frank Sinatra",
+                    "label" => "Variety",
+                    "tracks" => [
+                        ["title" => "Little White Lies", "duration" => "2:00"],
+                        ["title" => "Pistol Packim'mama", "duration" => "2:18"],
+                        ["title" => "Speak Low", "duration" => "2:06"],
+                        ["title" => "My Ideal", "duration" => "2:35"],
+                        ["title" => "Woody Wood Pecker Song", "duration" => "2:04"],
+                        ["title" => "Almost Like Being In Love", "duration" => "1:40"],
+                        ["title" => "Jingle Bells", "duration" => "1:35"],
+                        ["title" => "You Do", "duration" => "1:56"],
+                        ["title" => "Tree In The Meadow", "duration" => "2:55"],
+                        ["title" => "Love Somebody", "duration" => "1:49"],
+                        ["title" => "How Soon", "duration" => "2:27"],
+                        ["title" => "Serenade Of The Bells", "duration" => "2:04"]
+                    ]
+                ]
+            ]
         ]
     ]
 ];
