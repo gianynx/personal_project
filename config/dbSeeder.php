@@ -2650,6 +2650,113 @@ return [
                         ["title" => "How Soon", "duration" => "2:27"],
                         ["title" => "Serenade Of The Bells", "duration" => "2:04"]
                     ]
+                ],
+                [
+                    "title" => "Franco Battiato - Orizzonti Perduti",
+                    "price" => 32.00,
+                    "image" => "franco_battiato_orizzonti_perduti.jpg",
+                    "year" => 2017,
+                    "genres" => ["Electronic", "Pop", "Rock"],
+                    "styles" => ["Pop Rock", "Synth-pop"],
+                    "artist" => "Franco Battiato",
+                    "label" => "Universal Music Group",
+                    "tracks" => [
+                        ["title" => "La Stagione Dell'Amore", "duration" => "3:46"],
+                        ["title" => "Tramonto Occidentale", "duration" => "3:13"],
+                        ["title" => "Zone Depresse", "duration" => "3:28"],
+                        ["title" => "Un'Altra Vita", "duration" => "3:42"],
+                        ["title" => "Mal D'Africa", "duration" => "3:51"],
+                        ["title" => "La Musica è Stanca", "duration" => "3:52"],
+                        ["title" => "Gente In Progresso", "duration" => "3:28"],
+                        ["title" => "Campane Tibetane", "duration" => "3:13"]
+                    ]
+                ],
+                [
+                    "title" => "Rockets - Live",
+                    "price" => 25.00,
+                    "image" => "rockets_live.jpg",
+                    "year" => 1980,
+                    "genres" => ["Electronic", "Pop", "Rock"],
+                    "styles" => ["Space Rock", "Synth-pop"],
+                    "artist" => "Rockets",
+                    "label" => "Rockland Records",
+                    "tracks" => [
+                        ["title" => "Beta-Gamma", "duration" => "1:15"],
+                        ["title" => "Anastasis", "duration" => "4:55"],
+                        ["title" => "Future Woman", "duration" => "7:05"],
+                        ["title" => "Drums Solo", "duration" => "8:25"],
+                        ["title" => "Sci-Fi Boogie", "duration" => "3:32"],
+                        ["title" => "Prologue", "duration" => "2:08"],
+                        ["title" => "Guitar Visions", "duration" => "4:12"],
+                        ["title" => "On The Road Again", "duration" => "10:25"],
+                        ["title" => "Electric Delight", "duration" => "6:24"]
+                    ]
+                ],
+                [
+                    "title" => "Planet P - Planet P",
+                    "price" => 7.00,
+                    "image" => "planet_p_planet_p.jpg",
+                    "year" => 1983,
+                    "genres" => ["Electronic", "Reggae", "Rock"],
+                    "styles" => ["Pop Rock", "Soft Rock", "Synth-pop"],
+                    "artist" => "Planet P",
+                    "label" => "Geffen Records",
+                    "tracks" => [
+                        ["title" => "Static", "duration" => "4:04"],
+                        ["title" => "King For A Day", "duration" => "3:57"],
+                        ["title" => "I Won't Wake Up", "duration" => "3:46"],
+                        ["title" => "Top Of The World", "duration" => "4:34"],
+                        ["title" => "Armageddon", "duration" => "4:20"],
+                        ["title" => "Why Me?", "duration" => "4:06"],
+                        ["title" => "Power Tools", "duration" => "3:59"],
+                        ["title" => "Send It In A Letter", "duration" => "3:52"],
+                        ["title" => "Adam And Eve", "duration" => "3:36"],
+                        ["title" => "Only You And Me", "duration" => "3:22"]
+                    ]
+                ],
+                [
+                    "title" => "Helen Terry - Blue Notes",
+                    "price" => 7.00,
+                    "image" => "helen_terry_blue_notes.jpg",
+                    "year" => 1986,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Pop Rock", "Downtempo", "Synth-pop"],
+                    "artist" => "Helen Terry",
+                    "label" => "Virgin Dischi S.R.L.",
+                    "tracks" => [
+                        ["title" => "Act Of Mercy", "duration" => "3:36"],
+                        ["title" => "Come On And Find Me", "duration" => "4:12"],
+                        ["title" => "Love Money And Sex", "duration" => "3:38"],
+                        ["title" => "Right In Front Of You", "duration" => "3:43"],
+                        ["title" => "Forbidden Fruit", "duration" => "4:08"],
+                        ["title" => "All Night Makes It Right", "duration" => "4:08"],
+                        ["title" => "The Perfect Kiss", "duration" => "3:18"],
+                        ["title" => "Feelin' Your Heart", "duration" => "4:32"],
+                        ["title" => "Close Watch", "duration" => "3:19"],
+                        ["title" => "Stuttering", "duration" => "4:00"]
+                    ]
+                ],
+                [
+                    "title" => "Double - Dou3le",
+                    "price" => 5.00,
+                    "image" => "double_dou3le.jpg",
+                    "year" => 1987,
+                    "genres" => "Electronic",
+                    "styles" => ["Downtempo", "Synth-pop"],
+                    "artist" => "Double",
+                    "label" => "Polydor",
+                    "tracks" => [
+                        ["title" => "Fire In Disguise", "duration" => "5:29"],
+                        ["title" => "Gliding", "duration" => "5:05"],
+                        ["title" => "Lakes In The Desert", "duration" => "4:43"],
+                        ["title" => "Circles", "duration" => "5:18"],
+                        ["title" => "Prove Your Love", "duration" => "3:52"],
+                        ["title" => "(You Don't Let Me Get) Close Enough", "duration" => "4:47"],
+                        ["title" => "Silent Mountain", "duration" => "4:42"],
+                        ["title" => "Devis Ball", "duration" => "4:29"],
+                        ["title" => "Wrong", "duration" => "1:52"],
+                        ["title" => "Megarhythmdance", "duration" => "5:16"]
+                    ]
                 ]
             ]
         ]
