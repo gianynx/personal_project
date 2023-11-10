@@ -7,6 +7,12 @@ return [
             "address" => "Via di S. Orsola, 10",
             "logo" => "round_midnight_dischi.png",
             "description" => "The collection is the result of years of research for wineries, markets, failures, promotions and consists mainly of vinyl records, but also CDs, DVDs, VHS, cassettes, new and used, all stored in the online catalog.",
+            "images" => [
+                "round_midnight_dischi_1.jpg",
+                "round_midnight_dischi_2.jpg",
+                "round_midnight_dischi_3.jpg",
+                "round_midnight_dischi_4.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Ennio Morricone - Gli Arrangiamenti E L'Orchestra Di Ennio Morricone",
@@ -316,6 +322,16 @@ return [
             "address" => "Via Monte Zebio, 44A",
             "logo" => "welcome_to_the_jungle.png",
             "description" => "The store is at the service of fans by offering the sale and service of equipment tested and guaranteed, from turntables, amplifiers, recorders to speakers, vintage and new.",
+            "images" => [
+                "welcome_to_the_jungle_1.jpg",
+                "welcome_to_the_jungle_2.jpg",
+                "welcome_to_the_jungle_3.jpg",
+                "welcome_to_the_jungle_4.jpg",
+                "welcome_to_the_jungle_5.jpg",
+                "welcome_to_the_jungle_6.jpg",
+                "welcome_to_the_jungle_7.jpg",
+                "welcome_to_the_jungle_8.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Count Basie - Hall Of Fame",
@@ -618,6 +634,17 @@ return [
             "address" => "Via Merulana, 91",
             "logo" => "millerecords.png",
             "description" => "Crossing the doors of Millerecords, historic record shop in Rome, you can breathe a smell of culture, vinyl, a world of music that accompanied the journey of man. From Gregorian Chant to the music of the twentieth century with all the ramifications of the tree of Music: Blues, Jazz, Soul, Rock and subgenres, Fusion, Disco, Punk, New Wave and many others developed by the same Root. In this sacred Temple, among the oldest record shops in Rome, you can find all kinds of Musical Alchemy: vinyl records 33-45-78 rpm, new and used CDs, music books, Rarities of Classical, Jazz, Rock and more.",
+            "images" => [
+                "millerecords_1.jpg",
+                "millerecords_2.jpg",
+                "millerecords_3.jpg",
+                "millerecords_4.jpg",
+                "millerecords_5.jpg",
+                "millerecords_6.jpg",
+                "millerecords_7.jpg",
+                "millerecords_8.jpg",
+                "millerecords_9.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Massive Attack - Blue Lines",
