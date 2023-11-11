@@ -858,6 +858,18 @@ return [
             "address" => "Via dei Marsi, 24a",
             "logo" => "ultrasuoni.jpg",
             "description" => "Ultrasuoni Records is a record shop based in Rome specialized in electronic music.",
+            "images" => [
+                "ultrasuoni_records_1.jpg",
+                "ultrasuoni_records_2.jpg",
+                "ultrasuoni_records_3.jpg",
+                "ultrasuoni_records_4.jpg",
+                "ultrasuoni_records_5.jpg",
+                "ultrasuoni_records_6.jpg",
+                "ultrasuoni_records_7.jpg",
+                "ultrasuoni_records_8.jpg",
+                "ultrasuoni_records_9.jpg",
+                "ultrasuoni_records_10.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Alien Signal - Circularity EP",
@@ -1212,6 +1224,13 @@ return [
             "address" => "Via del Pigneto, 116",
             "logo" => "blutopia.jpg",
             "description" => "Sale records (vinyl/ cd), books, videos (new and used), listening space, reading and consultation, lab.",
+            "images" => [
+                "blutopia_1.jpg",
+                "blutopia_2.jpg",
+                "blutopia_3.jpg",
+                "blutopia_4.jpg",
+                "blutopia_5.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "The Clash - London Calling",
@@ -1410,6 +1429,14 @@ return [
             "address" => "Via dei Quattro Cantoni, 10a",
             "logo" => "i_want_to_believe_records.jpg",
             "description" => "We are based in Roma (Italy). Close to Termini Station and tube Metro B. Specialized in all the faces of electronic music. Also selection of alternative rock, contemporary jazz and hip hop. New and 2nd hand. If you want to order by email send your order here iwtbrecords@gmail.com.",
+            "images" => [
+                "i_want_to_believe_recordshop_1.jpg",
+                "i_want_to_believe_recordshop_2.jpg",
+                "i_want_to_believe_recordshop_3.jpg",
+                "i_want_to_believe_recordshop_4.jpg",
+                "i_want_to_believe_recordshop_5.jpg",
+                "i_want_to_believe_recordshop_6.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Stereolab - Emperor Tomato Ketchup",
@@ -1777,6 +1804,12 @@ return [
             "address" => "Via Flaminia 23, angolo via Beccaria",
             "logo" => "goody_music.jpg",
             "description" => "From headphones to speakers and then mixers, controlers, laser, mirror balls, audio card, flight cases, in conclusion everyone's able to manage a consolle should stop by here. In case you are newbie, in Goody Music you can find secondhand stuff, so that you don't need to slash your wrists while waiting for the fame.",
+            "images" => [
+                "goody_music_1.jpg",
+                "goody_music_2.jpg",
+                "goody_music_3.jpg",
+                "goody_music_4.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Underground Science - COMA",
@@ -2118,6 +2151,16 @@ return [
             "address" => "Via Giovanni Giolitti, 263",
             "logo" => "discoteca_laziale.jpg",
             "description" => "Disco Laziale. Music, books, entertainment. Historical record store, born in Rome in 1967.",
+            "images" => [
+                "discoteca_laziale_1.jpg",
+                "discoteca_laziale_2.jpg",
+                "discoteca_laziale_3.jpg",
+                "discoteca_laziale_4.jpg",
+                "discoteca_laziale_5.jpg",
+                "discoteca_laziale_6.jpg",
+                "discoteca_laziale_7.jpg",
+                "discoteca_laziale_8.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Neud Photo - Echoes",
@@ -2331,6 +2374,21 @@ return [
             "address" => "Via Luigi Vanvitelli, 39",
             "logo" => "groove_lab_records.jpg",
             "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds.",
+            "images" => [
+                "groove_lab_records_1.jpg",
+                "groove_lab_records_2.jpg",
+                "groove_lab_records_3.jpg",
+                "groove_lab_records_4.jpg",
+                "groove_lab_records_5.jpg",
+                "groove_lab_records_6.jpg",
+                "groove_lab_records_7.jpg",
+                "groove_lab_records_8.jpg",
+                "groove_lab_records_9.jpg",
+                "groove_lab_records_10.jpg",
+                "groove_lab_records_11.jpg",
+                "groove_lab_records_12.jpg",
+                "groove_lab_records_13.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "Elvis Presley - Elvis Sings For Children And Grownups Too!",
