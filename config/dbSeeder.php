@@ -63,7 +63,7 @@ return [
                     "genres" => ["Electronic", "Pop"],
                     "styles" => "Synth-pop",
                     "artist" => "Bronski Beat",
-                    "label" => "London Records",
+                    "label" => "MCA Records",
                     "tracks" => [
                         ["title" => "Hit That Perfect Beat (Remix)", "duration" => "8:26"],
                         ["title" => "Hit That Perfect Beat (Original Mix)", "duration" => "6:25"],
@@ -117,7 +117,7 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Giovanni Allevi",
+                    "title" => "Giovanni Allevi - Joy",
                     "price" => 0.90,
                     "image" => "giovanni_allevi_joy.jpg",
                     "year" => 2006,
@@ -2594,6 +2594,17 @@ return [
             "address" => "Via Valsolda, 57",
             "logo" => "dischi_x_fiaschi.jpg",
             "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!",
+            "images" => [
+                "dischixfiaschi_1.jpg",
+                "dischixfiaschi_2.jpg",
+                "dischixfiaschi_3.jpg",
+                "dischixfiaschi_4.jpg",
+                "dischixfiaschi_5.jpg",
+                "dischixfiaschi_6.jpg",
+                "dischixfiaschi_7.jpg",
+                "dischixfiaschi_8.jpg",
+                "dischixfiaschi_9.jpg"
+            ],
             "vinyls" => [
                 [
                     "title" => "The Notorius B.I.G. - Greatest Hits",
@@ -2844,6 +2855,90 @@ return [
                     ]
                 ]
             ]
+        ]
+                ],
+
+    "labels" => [
+        "RCA" => [
+            "name" => "RCA",
+            "image" => "rca.jpg",
+            "description" => "Also appears as 'RCA Records' or 'RCA Record' (Australia/New Zealand). Consider adding RCA Victor as 2nd label if it also appears on the release.
+                            RCA is a record label that is used worldwide and currently owned by Sony Music Entertainment.
+                            The name RCA refers to the Radio Corporation Of America (RCA), a US electronic and communications company formed in 1919. In 1929, RCA acquired the Victor Talking Machine Co. The Victor Company had released records on the Victor and Victrola labels. The record division became known as RCA Victor until late 1968, when it became RCA Records.
+                            In 1985, RCA Records became part of RCA/Ariola International; At the end of that year, General Electric purchased the RCA Corporation; In 1986, GE sold the remainder of RCA Records to Bertelsmann (Ariola's owner) and formed the Bertelsmann Music Group (BMG).
+                            Since then, RCA Records has switched owners twice. First it became a label of Sony BMG Music Entertainment and currently is owned by Sony Music Entertainment.
+                            On September 26, 2011, Sony Music Entertainment reorganized the RCA Records group into its own label banner. Therefore, the labels under that group, Jive, Arista, LaFace and J Records, were all merged into RCA, bringing all of its artists from these aforementioned four imprints to the RCA family. Furthermore, reissues from Jive, Arista, J and LaFace by Sony will be handled by RCA as well.",
+            "location" => "United States Of America",
+            "follower" => 3.2
+        ],
+        "Chrysalis" => [
+            "name" => "Chrysalis",
+            "image" => "chrysalis.jpg",
+            "description" => "The roots of Chrysalis stretch back to a tiny flat in West London in 1967, when former university social secretaries, Chris Wright, then 22, and Terry Ellis, 23, linked their flair for managing and booking bands to form the Ellis Wright Agency.
+                            After a couple of experiences trying to release their bands records via other companies, Wright and Ellis began thinking in terms of their own label. In 1968, they signed a licensing deal with Island Records with the proviso that, should Wright and Ellis' acts log an agreed number of hits, then the pair would be awarded a label in their own right. The appropriate tally was logged within a year, and a new independent record company Chrysalis, an amalgam of Wright's first name and Ellis' last name was born.
+                            After buying out Terry Ellis in 1985, Chris Wright sold the Chrysalis Records label to EMI in 1991. EMI was bought out by Universal Music Group in 2012; in 2013, they sold the Parlophone Label Group, which includes Chrysalis, to Warner Music Group. In May 2016 the label was sold to a consortium, Blue Raincoat Music, which included co-founder Chris Wright as Non-Executive Chairman; Blue Raincoat relaunched Chrysalis with both catalogue artists and new signings in 2020 as part of a partnership with Reservoir Media Management at which time Ellis left the company. Global distribution is via Secretly Distribution.",
+            "location" => "United Kingdom",
+            "follower" => 3.6
+        ],
+        "MCA Records" => [
+            "name" => "MCA Records",
+            "image" => "mca_records.jpg",
+            "description" => "Music Corporation of America (MCA) was founded in Chicago in 1924 as a talent agency by Dr. Jules Stein and Mr. William R. Goodheart, Jr. and began to produce TV shows in the late 40s. In 1958 MCA acquired the Universal Studios property and also Paramount's pre-1948 film library for its MCA TV division.
+                            In 1962, MCA's principal corporation, MCA Inc., acquired Decca Records, Inc. (the American Decca company), which had Brunswick and Coral imprints. 'British Decca' then licensed recordings from American Decca for release on the Brunswick and Coral labels in the UK, until February 1968, when British Decca began using the yellow swirl MCA Records brand for these releases. American Decca followed suit, turning completely into MCA Records in 1973. In the following years (and decades) MCA Inc. purchased several other labels (ABC Records, Geffen Records etc.) and formed the MCA Music Entertainment Group around MCA Records.
+                            In New Zealand the MCA Records labels were launched in late 1969. The Australian distributor was Astor Records Pty. Ltd. (also known as Astor Radios, Radiograms And Television) and it took over the label from 1 January 1970, the New Zealand distributor was Pye Ltd.
+                            In the UK and much of Europe, MCA Records signed a licensing deal with EMI Records Ltd. circa September 1973, which came into effect on 1st January 1974, thus ending MCA's 40-year relationship with The Decca Record Company Limited.
+                            International distribution (outside of US) was handled by WEA from 1 January 1984 onwards (with some countries not moving to WEA until late 1984 because of existing deals), and then by BMG from 1 April, 1991, onwards.
+                            This label includes many releases branded 'MCA' or 'MCA Records', regardless of which MCA corporate entity, if any, is mentioned as trademark owner, copyright owner, or point of contact. However, there are many other MCA brands and companies, and some releases may be found there instead of (or in addition to) this label, depending on circumstances. These or other corporate entities such as MCA Records, Inc., Music Corp. of America Inc., or MCA Inc. may appear on releases with the 'MCA' or 'MCA Records' brands. Corporate groups may also be credited, including MCA Music Group, the MCA Entertainment Group, and the MCA Music Entertainment Group, as well as divisions of MCA Music Publishing like MCA Communications, Inc. and many regional 'MCA Music' corporations which may be conflated with the aforementioned MCA Music Entertainment corporations.",
+            "location" => "United Kingdom",
+            "follower" => 4.2
+        ],
+        "Polydor" => [
+            "name" => "Polydor",
+            "image" => "polydor.jpg",
+            "description" => "Few labels can boast as long, prestigious and varied a musical history as Polydor Records. From the 60s 'beat boom' onwards, through the eras of progressive rock, disco and punk, the label has been in the vanguard of every significant new musical development, while today the likes of the Lady Gaga, HAIM, Ellie Goulding and Lana Del Rey maintain Polydor's enviable cutting-edge reputation.
+                            Founded in Germany in 1946 as the popular music arm of the long-established Deutsche Grammophon label, the UK division of Polydor was not established until ten years later perfectly timed to coincide with the rock'n'roll revolution that was transforming the musical landscape and establishing youth culture for the first time as a significant phenomenon. Initially, the label concentrated on releasing continental-made recordings but with Germany a popular touring destination for the emerging British 'beat' groups, there were rich pickings to be had. In August 1961, German Polydor released a single called My Bonnie by Tony Sheridan and The Beat Boys. Nobody realised it at the time, but the record was destined to change the face of popular music, for the backing group was none other than the Beatles. Recorded in Hamburg during the band's legendary three month residency at that city's Top Ten Club, My Bonnie was the first official release by the group and was reissued two years later, when it briefly charted in Britain during the first flush of 'Beatlemania'. Polydor went on to place itself at the centre of the creative melting-pot that was British music in the 1960s by signing a series of adventurous production deals with some of the most dynamic pop entrepreneurs. At the time the approach was highly unusual, but it established a model that has since been much-copied. Giorgio Gomelsky, who had discovered the Rolling Stones and managed the Yardbirds, brought in Julie Driscoll and Brian Auger. Kit Lambert and Chris Stamp brought in the The Who, and via their Track Records imprint, Jimi Hendrix, the Crazy World of Arthur Brown and Thunderclap Newman. And Robert Stigwood brought two big-hitters to the label with the Bee Gees and Cream.
+                            Between them, they created an enviable pop and rock roster of British-based talent that left the competition trailing in its wake. At the same time, Polydor developed its American connections to become a significant soul and r'n'b powerhouse. Among the acts who came through Polydor was the Godfather of Soul himself, James Brown, while the UK license to the Stax and Atlantic labels gave them Otis Redding, Aretha Franklin and a host of other top names. In the 1970s, a combination of enlightened deals with entrepreneurs such as Stigwood and the adventurous policy of the label's in-house A'n'R team, built an impressively broad-based roster. Progressive rock was represented by the likes of the late, great Irish guitarist Rory Gallagher, Jack Bruce and Eric Clapton, both solo and with Derek and the Dominos. Glam rock was represented by Slade and the Rubettes. Then there was a Swedish group who won the Eurovision song contest in 1974 and went on to dominate the charts all over the world for years to come. They went by the name of Abba and their greatest hits Gold album still sells strongly to this day.
+                            Via Robert Stigwood's RSO stable, Polydor also led the way in disco, with the Bee Gees and the chart-topping Saturday Night Fever soundtrack. At one point in 1977-78, Polydor/RSO held the number one slot in the American charts for 23 consecutive weeks, with six different singles. At the same time, Polydor was in the forefront of the punk revolution, signing the Jam, Siouxsie and the Banshees and Sham 69, among others.
+                            Into the 1980s, the dance-funk of Level 42, The Wonder Stuff and Paul Weller's Style Council added further diversity to the roster. In the 1990s the label became even more eclectic. Credible singer-songwriters such as Van Morrison and Eagle-Eye Cherry were signed alongside Britpop heroes Cast and Shed Seven. Former Stones Roses frontman Ian Brown launched a solo career on the label, while the Lighthouse Family and Boyzone flew the flag for the mainstream. Polydor's link with the Interscope, Geffen and A'n'M labels also brought on board an impressive roster of American talent, including Eminem, 50 Cent, Lady Gaga, Will.i.am and Imagine Dragons as well as the Nirvana catalogue.
+                            Into the new millennium, the label continues to boast plenty of big pop names from Ellie Goulding to The Rolling Stones. But it has also built an adventurous roster to revive the potent excitement of the halcyon days of the 1960s. From the realm of contemporary British music came the trailblazing Mercury Music Prize-winners The Klaxons, while HAIM, The 1975, Lady Gaga and Lana Del Rey spearhead an impressive pop contingent.",
+            "location" => "United Kingdom",
+            "follower" => 1.2
+        ],
+        "Mercury" => [
+            "name" => "Mercury",
+            "image" => "mercury.jpg",
+            "description" => "Mercury is one of the oldest labels of the Universal Music Group. It was launched in 1945 by Irving Green, Berle Adams and Arthur Talmadge of the Mercury Record Corporation of Chicago, Illinois.
+                            In 1961 the Dutch company Philips Phonografische Industrie (PPI), having lost its distribution deal with Columbia Records outside North America, signed an exchange agreement with Mercury, and PPI subsequently bought the Mercury Record Corporation and its labels to expand its US base. This meant that the Mercury label was now marketed worldwide via PPI's affiliated record companies (mostly Phonogram companies). In the US, Mercury was distributed by Phonodisc, Inc. from 1 June 1975.
+                            In 1962 PPI formed a joint-venture with Deutsche Grammophon GmbH and ten years later they merged to form PolyGram. Mercury became one of Polygram's flagship labels.
+                            In December 1998, after Seagram acquired Polygram, Mercury became part of the Universal Music Group with the takeover effective from January 1999.
+                            Since its reactivation from 2007 to 2013, the label operated via The Island Def Jam Music Group in the US and by Mercury Records Ltd. in the UK. Recently, the label has also been revived by Universal Music France.
+                            In the UK, the label has been known as the Mercury Music Group from approximately 2007 to 2011.
+                            Since the closure of the Island Def Jam Music Group in April 2014, the label division had been shuttered and phased out once again, this time merging operations with Island Records. The label itself remained in use worldwide.
+                            In the US in 2022, Republic Records acquired and relaunched the label with some artists from Republic and and it will continue as their imprint.",
+            "location" => "United States Of America",
+            "follower" => 1.3
+        ],
+        "Ricordi" => [
+            "name" => "Ricordi",
+            "image" => "ricordi.jpg",
+            "description" => "Ricordi is an Italian publisher of music editions founded in 1808 and still exists today. It was directed until 1919 by members of the Ricordi family: Giovanni Ricordi, Tito I Ricordi, Giulio Ricordi and Tito II Ricordi. After World War II, the family briefly returned to run the publishing house with Camillo Ricordi.",
+            "location" => "Italy",
+            "follower" => 0.6
+        ],
+        "CBS" => [
+            "name" => "CBS",
+            "image" => "cbs.jpg",
+            "description" => "Columbia Broadcasting System, Inc., former owner of the various CBS companies, was established in 1928, and in 1961, its recorded music division CBS Records was founded although the CBS brand did not appear until 1962 (as below) with the exception of South Africa which (independently of this process) was using CBS from 1 January 1956. It was initially set up to distribute and market releases on the CBS label overseas, from their US catalog owned by their subsidiary Columbia Records, Inc..
+                            This was mainly for Columbia releases due to trademark copyrights. Columbia Broadcasting System, Inc. couldn't use that brand outside the US, because Electric & Musical Industries Ltd. (EMI) subsidiary Columbia Graphophone Company Ltd. (later The Gramophone Co. Ltd.) owned the rights to the Columbia brand in most of the rest of the world, and Nippon Columbia Co., Ltd. still has the rights to the name in Japan.
+                            Columbia Broadcasting System, Inc. set up a number of companies to market CBS releases. In Europe, the first to launch was the UK, where the CBS label was launched on May 1, 1962. It was initially distributed by Philips Records Ltd. until the acquisition of Oriole Records Limited in 1964, which was renamed CBS Records Limited. on April 1, 1965, and subsequently took this role. The rest of Europe followed. Greece was in September 1962, Spain in October, Italy, Denmark, Norway, Finland and Sweden were in December 1962, CBS Disques S.A. in France, CBS Grammofoonplaten B.V. in the Netherlands and CBS Schallplatten GmbH in Germany were all in February 1963.
+                            South and Central America introduced the CBS label in August 1962 and Asia in July of the same year.
+                            In Australia and New Zealand, the CBS label replaced the Coronet (2) label in January 1963.
+                            These companies also used the CBS label to release records by locally signed artists.
+                            On January 5, 1988, CBS Records, including the sublabels Columbia and Epic, were sold by CBS Inc. (formerly known as Columbia Broadcasting System, Inc.) to Sony Corporation of Japan. CBS Inc. granted Sony Corporation a temporary license to use the CBS brand for three years. Sony Corporation acquired the international rights for Columbia from EMI Records Ltd. on October 15, 1990.
+                            Sony Corporation began using Columbia as a worldwide label instead of CBS on January 1, 1991, except in Spain and Japan, where the rights were owned respectively by BMG and Nippon Columbia Co., Ltd. The holding company CBS Records Inc. was renamed Sony Music Entertainment Inc. on the same date. The rights to the CBS brand were returned to CBS Inc. Sony Corporation acquired the rights for Columbia in Spain on August 5, 2004 when Sony BMG Music Entertainment was established.
+                            On December 15, 2006, CBS Broadcasting Inc., the successor of CBS Inc., revived the CBS Records brand. The label uses CBS' television networks and its other mass media platforms to market their artists. They also release soundtracks of CBS television shows. The new CBS Records label is not related to the former CBS Records business or its artists or assets.",
+            "location" => "United States Of America",
+            "follower" => 0.9
         ]
     ]
 ];
