@@ -523,7 +523,7 @@ return [
                     "genres" => "Electronic",
                     "styles" => ["House", "Abstract", "Electro", "Experimental"],
                     "artist" => "Daft Punk",
-                    "label" => "ADA",
+                    "label" => "Virgin",
                     "tracks" => [
                         ["title" => "Human After All", "duration" => "5:20"],
                         ["title" => "The Prime Time Of Your Life", "duration" => "4:23"],
@@ -577,7 +577,7 @@ return [
                     "genres" => ["Electronic", "Rock"],
                     "styles" => ["Alternative Rock", "Goth Rock", "New Wave"],
                     "artist" => "The Cure",
-                    "label" => "Polygram",
+                    "label" => "Polydor",
                     "tracks" => [
                         ["title" => "Plainsong", "duration" => "5:16"],
                         ["title" => "Pictures Of You", "duration" => "7:28"],
@@ -654,7 +654,7 @@ return [
                     "genres" => "Electronic",
                     "styles" => ["Trip Hop", "Downtempo"],
                     "artist" => "Massive Attack",
-                    "label" => "Wild Bunch Records",
+                    "label" => "Virgin",
                     "tracks" => [
                         ["title" => "Safe From Harm", "duration" => "5:16"],
                         ["title" => "One Love", "duration" => "4:48"],
@@ -675,7 +675,7 @@ return [
                     "genres" => ["Electronic", "Rock", "Pop"],
                     "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
                     "artist" => "Franco Battiato",
-                    "label" => "Universal Music Italia",
+                    "label" => "EMI",
                     "tracks" => [
                         ["title" => "Summer on a Solitary Beach", "duration" => "6:16"],
                         ["title" => "Bandiera Bianca", "duration" => "4:58"],
@@ -694,7 +694,7 @@ return [
                     "genres" => ["Electronic", "Rock", "Pop"],
                     "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
                     "artist" => "The Cure",
-                    "label" => "Fiction Records",
+                    "label" => "Polydor",
                     "tracks" => [
                         ["title" => "Boys Don't Cry", "duration" => "2:42"],
                         ["title" => "A Forest", "duration" => "4:44"],
@@ -788,23 +788,6 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Technotronic - Get Up! (Before The Night Is Over)",
-                    "price" => 5.00,
-                    "image" => "technotronic_get_up.jpg",
-                    "year" => 1990,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno", "Hip-House"],
-                    "artist" => "Technotronic",
-                    "label" => "SBK Records",
-                    "tracks" => [
-                        ["title" => "Get Up! (Before The Night Is Over) (Def Mix)", "duration" => "8:12"],
-                        ["title" => "Get Up! (Before The Night Is Over) (LP Version)", "duration" => "4:47"],
-                        ["title" => "Get Up! (Before The Night Is Over) (7'' Edit)", "duration" => "3:30"],
-                        ["title" => "Get Up! (Before The Night Is Over) (Far East Mix)", "duration" => "5:58"],
-                        ["title" => "Pump Up The Jam (Techno Mix)", "duration" => "4:48"]
-                    ]
-                ],
-                [
                     "title" => "Cerrone - Not Too Shabby (Jamie Lewis Mixes)",
                     "price" => 18.00,
                     "image" => "cerrone_not_too_shabby.jpg",
@@ -826,28 +809,13 @@ return [
                     "genres" => "Electronic",
                     "styles" => ["House", "Deep House", "Garage House"],
                     "artist" => "M People",
-                    "label" => "Epic Dance",
+                    "label" => "RCA",
                     "tracks" => [
                         ["title" => "Excited (MK Mix)", "duration" => "8:32"],
                         ["title" => "Excited (MK T Mix)", "duration" => "8:10"],
                         ["title" => "Excited (M People Master Mix)", "duration" => "5:00"],
                         ["title" => "Excited (MK Snow-Call Dub)", "duration" => "7:33"],
                         ["title" => "Excited (M People Dub)", "duration" => "5:00"]
-                    ]
-                ],
-                [
-                    "title" => "T Polar - Escort Girls EP",
-                    "price" => 30.00,
-                    "image" => "t_polar_escort_girls.jpg",
-                    "year" => 2002,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "T Polar",
-                    "label" => "Modernism",
-                    "tracks" => [
-                        ["title" => "What U Here 4", "duration" => "6:32"],
-                        ["title" => "Escort Girls", "duration" => "5:50"],
-                        ["title" => "Marmaduke", "duration" => "5:44"]
                     ]
                 ]
             ]
@@ -950,21 +918,6 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Groove In Mind - In The Music",
-                    "price" => 16.99,
-                    "image" => "groove_in_mind_in_the_music.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House", "Tribal House"],
-                    "artist" => "Groove In Mind",
-                    "label" => "Gim Records",
-                    "tracks" => [
-                        ["title" => "In The Music (Original Mix)", "duration" => "7:05"],
-                        ["title" => "In The Music (Kai Alcé 5AM Mix)", "duration" => "5:56"],
-                        ["title" => "In The Music (Emanuele Inglese Remix)", "duration" => "6:40"]
-                    ]
-                ],
-                [
                     "title" => "DMX Krew - Tree in Space",
                     "price" => 17.20,
                     "image" => "dmx_krew_tree_in_space.jpg",
@@ -978,27 +931,6 @@ return [
                         ["title" => "Tree In Space", "duration" => "4:11"],
                         ["title" => "Unbelief", "duration" => "6:25"],
                         ["title" => "Meltdown", "duration" => "4:20"]
-                    ]
-                ],
-                [
-                    "title" => "Ceephax Acid Crew - FSK 005",
-                    "price" => 31.99,
-                    "image" => "ceephax_acid_crew.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["Hardcore", "Acid", "IDM"],
-                    "artist" => "Ceephax Acid Crew",
-                    "label" => "WéMè Records",
-                    "tracks" => [
-                        ["title" => "Turrican", "duration" => "5:28"],
-                        ["title" => "Mindgun", "duration" => "5:11"],
-                        ["title" => "World Bin", "duration" => "6:29"],
-                        ["title" => "Ramsden Health", "duration" => "7:19"],
-                        ["title" => "Essex Rubicon", "duration" => "6:10"],
-                        ["title" => "Yes, No Dead Wood This Cedar.", "duration" => "6:30"],
-                        ["title" => "Pollution", "duration" => "5:20"],
-                        ["title" => "Acid Protege (Live)", "duration" => "6:25"],
-                        ["title" => "Acid Wayfarer", "duration" => "7:30"]
                     ]
                 ],
                 [
@@ -3000,5 +2932,185 @@ return [
             "location" => "United Kingdom",
             "follower" => 1.5
         ],
+        "Verve Records" => [
+            "name" => "Verve Records",
+            "image" => "verve_records.jpg",
+            "description" => "Verve Records was originally the product of the vision of jazz impresario Norman Granz (1918-2001). He formed the label in 1956 and moved all of the recordings released on his earlier Norgran Records and Clef Records labels to create the new Verve catalog.
+                            In December 1960, Granz sold the label to Metro-Goldwyn-Mayer, Inc., becoming a subsidiary of MGM Records in the process. During the 1960s, Verve expanded into comedy (Jonathan Winters, Mort Sahl, Phyllis Diller), pop (The Righteous Brothers), R&B (Howard Tate, Arthur Prysock), rock (The Velvet Underground, Frank Zappa and the Mothers Of Invention, Blues Project) and folk (Janis Ian, Richie Havens, Tim Hardin) music, eventually creating the Verve Folkways (later renamed Verve Forecast) label in 1966 for issuing more psychedelic-leaning rock as well as folk and blues material.
+                            Verve had million-selling jazz recordings during that decade from Stan Getz, Kai Winding, Astrud Gilberto, Ella Fitzgerald and Jimmy Smith among others under the studio/A&R direction of Creed Taylor.
+                            The MGM film studio sold its record division to Polydor in 1972, a move that brought Verve into the newly formed PolyGram and its family of record labels. Verve slowly became relegated to jazz reissues as MGM Records (and the non-jazz Verve output) was ultimately absorbed into Polydor by 1976. During this period, PolyGram had Mercury Records' EmArcy jazz catalog absorbed into Verve's holdings. In the late 1980s, PolyGram decided to reactivate the long-dormant label with both a reissue program and new artist signings. The revitalized label's new material and remastered classic recordings sold very well and it soon became PolyGram's front-line jazz division.
+                            With the 1999 merger of PolyGram with Vivendi Universal creating the Universal Music Group, Verve Records became the hub of the The Verve Music Group, which also encompasses the influential GRP, Impulse! and Blue Thumb Records labels as well as overseeing the jazz catalog holdings of a number of UMG-owned labels, including Commodore, Chess, Brunswick (pre-1958), Argo (2), Cadet Records, Dot Records, Coral, Decca, ABC-Paramount, A&M Records, Mercury, Philips and Polydor.",
+            "location" => "United States Of America",
+            "follower" => 3.3
+        ],
+        "Pink Floyd Records" => [
+            "name" => "Pink Floyd Records",
+            "image" => "pink_floyd_records.jpg",
+            "description" => "Label used for Pink Floyd reissues since 2016. While Parlophone/Warner Music continues to distribute the band's back catalogue in Europe, international rights belong to Sony Music Entertainment.",
+            "location" => "United Kingdom",
+            "follower" => 4.2
+        ],
+        "Raw Culture" => [
+            "name" => "Raw Culture",
+            "image" => "raw_culture.jpg",
+            "description" => "Electronic music label based in Rome, Italy, run by Giovanni Inglese.",
+            "location" => "Italy",
+            "follower" => 1.3
+        ],
+        "NovaMute" => [
+            "name" => "NovaMute",
+            "image" => "novamute.jpg",
+            "description" => "Techno and electronica label started with 12'' releases in 1991. Originally run by Mick Paterson, Pepe Jansz and Seth Hodder.
+                            In the US the releases in the early 90s were released in partnership with Tommy Boy Music, and feature a 'NMCD' prefix on their catalog number. When Mute set up a stand-alone North American office in the mid-90s, the numbering series continued in sequence with the prefix changed to 'NovaMute'.",
+            "location" => "United Kingdom",
+            "follower" => 1.4
+        ],
+        "Magnetic Recordings" => [
+            "name" => "Magnetic Recordings",
+            "image" => "magnetic_recordings.jpg",
+            "description" => "Record label launched by DJ Sneak.",
+            "location" => "Canada",
+            "follower" => 1.5
+        ],
+        "Arista" => [
+            "name" => "Arista",
+            "image" => "arista.jpg",
+            "description" => "US label launched in November 1974 by Clive Davis, in corporation with Columbia Pictures Industries, Inc. (CPI).
+                            According to Billboard Magazine, the label was named for the New York high school honor society.
+                            In 1979 the label's parent company, Arista Records, Inc. was acquired by Bertelsmann AG (parent of German label Ariola) and from 1983 co-owned by RCA. The co-ownership continued until 1987, when Bertelmann acquired full ownership once again. Through a series of mergers, the Arista label is now owned by Sony Music Entertainment.
+                            In September 2011, Sony announced that Arista, its subsidiary LaFace, Jive and J Records were all absorbed by RCA Records, bringing all of its artists to the RCA family. On July 17, 2018, Arista revived under the Sony Music banner, making it one of the four flagship labels under SME.",
+            "location" => "United States Of America",
+            "follower" => 2.3
+        ],
+        "UMM" => [
+            "name" => "UMM",
+            "image" => "umm.jpg",
+            "description" => "Italian label founded in Naples in 1991 and former division of Flying Records. After bankruptcy of Flying Records in 1997, Media Records bought the publishing rights and restart it in 1998. The first release under Media Records control is Proud Mary.
+                            After long hiatus, UMM started again in January 2017 with Eighteen EP.
+                            UMM stands for Underground Music Movement. This brand is used even for apparel line since the 90s.",
+            "location" => "Italy",
+            "follower" => 3.5
+        ],
+        "WEA" => [
+            "name" => "WEA",
+            "image" => "wea.jpg",
+            "description" => "WEA is an acronym for Warner Elektra Atlantic. The acronym was introduced in early 1972 when Warner Communications' international music division Kinney Record Group International was renamed WEA International Inc.. All subsidiary companies outside the US eventually changed their names from Kinney to WEA, too.",
+            "location" => "United States Of America",
+            "follower" => 1.3
+        ],
+        "Virgin" => [
+            "name" => "Virgin",
+            "image" => "virgin.jpg",
+            "description" => "Started by Richard Branson in the early 1970s as an independent label based in London, UK. The record company Virgin Records Ltd. and subsidiaries which used the Virgin brand was sold to Thorn Emi Plc on 1 June 1992, the various Virgin trademarks however remained the property of Virgin Enterprises Ltd., since 2012 the imprint has been licensed from Virgin Enterprises Ltd. and is used by various companies that form part of the Universal Music Group.",
+            "location" => "United Kingdom",
+            "follower" => 3.5
+        ],
+        "Streamline Records" => [
+            "name" => "Streamline Records",
+            "image" => "streamline_records.jpg",
+            "description" => "Streamline Records is an imprint that operates under Interscope Records. It was founded in 2007 by Vincent Herbert whom signed artists such as Lady Gaga and Tamar Braxton both to Interscope and Epic.",
+            "location" => "United States Of America",
+            "follower" => 1.1
+        ],
+        "International Deejay Gigolo Records" => [
+            "name" => "International Deejay Gigolo Records",
+            "image" => "international_deejay_gigolo_records.jpg",
+            "description" => "International Deejay Gigolos is a German electronic music record label run by Hell (Helmut Geier).
+                            Started 1996 in Munich as an affiliate of Disko B, Gigolo quickly established itself as an independent label specialized in Electro, House and Techno with 80's Synth-Pop, New Wave and Disco influences.
+                            The first releases contain Arnold Schwarzenegger as part of the logo. The releases were later pasted over and finally had to be taken off the market. Sid Vicious was then used as part of the label logo. Amanda Lepore was also used frequently on records' labels.",
+            "location" => "Germany",
+            "follower" => 1.1
+        ],
+        "UDP" => [
+            "name" => "UDP",
+            "image" => "udp.jpg",
+            "description" => "Italian House label",
+            "location" => "Italy",
+            "follower" => 0.7
+        ],
+        "EMI" => [
+            "name" => "EMI",
+            "image" => "emi.jpg",
+            "description" => "EMI was the label of UK company EMI Records Ltd., also known as EMI Records.
+                            After a hiatus, EMI was relaunched as a label by Universal Music Group in 2020, replacing Virgin EMI Records.",
+            "location" => "United Kingdom",
+            "follower" => 2.7
+        ],
+        "Sony Music" => [
+            "name" => "Sony Music",
+            "image" => "sony_music.jpg",
+            "description" => "Main label of Sony Music Entertainment.
+                            Use this entry for releases from between 1991 and 2005 and 2008 onwards that show the 'Sony Music' logo or releases in general which credit 'Sony Music'.
+                            Please note that the logo was different before 2005.
+                            Also please do not confuse with the Japanese SonyMusic.",
+            "location" => "United States Of America",
+            "follower" => 3.7
+        ],
+        "SBK Records" => [
+            "name" => "SBK Records",
+            "image" => "sbk_records.jpg",
+            "description" => "Co-founded by Charles Koppelman, Select Records head Martin Bandier and Stephen Swid who purchased the music publishing unit of CBS Records in 1986. The trio founded SBK (4) as a production company in 1989 prior to selling it to EMI and launching the Capitol Records-distributed label.
+                            It was consolidated with Chrysalis and EMI Records USA to create EMI Record Group USA in 1994.",
+            "location" => "United States Of America",
+            "follower" => 2.8
+        ],
+        "Purple Music" => [
+            "name" => "Purple Music",
+            "image" => "purple_music.jpg",
+            "description" => "Garage label from Switzerland. Works with Jamie Lewis and Louis Benedetti.",
+            "location" => "Switzerland",
+            "follower" => 0.8
+        ],
+        "Superluminal" => [
+            "name" => "Superluminal",
+            "image" => "superluminal.jpg",
+            "description" => "Electronic music record label based in Berlin, Germany. Owned by Matthias.
+                            The majority of catalogs are independently distributed by the artist.",
+            "location" => "Germany",
+            "follower" => 3.4
+        ],
+        "Incoherent Debts" => [
+            "name" => "Incoherent Debts",
+            "image" => "incoherent_debts.jpg",
+            "description" => "Run by an undefined Rome-based collective.
+                            Designed to unearth things worth spreading.",
+            "location" => "Italy",
+            "follower" => 3.2
+        ],
+        "La Nota Del Diablo" => [
+            "name" => "La Nota Del Diablo",
+            "image" => "la_nota_del_diablo.jpg",
+            "description" => "Vinyl-only label run by Quest (Marco Maranza).",
+            "location" => "Italy",
+            "follower" => 2.6
+        ],
+        "Italo Moderni" => [
+            "name" => "Italo Moderni",
+            "image" => "italo_moderni.jpg",
+            "description" => "ITALO MODERNI is a Label 12'' and Digital from Barcelona focusing on clubbing new era of Electronic rare Italo disco.",
+            "location" => "Spain",
+            "follower" => 0.6
+        ],
+        "R&C Records" => [
+            "name" => "R&C Records",
+            "image" => "r_&_c_records.jpg",
+            "description" => "Bootleg edits label from Italy.",
+            "location" => "Italy",
+            "follower" => 0.5
+        ],
+        "Shipwrec" => [
+            "name" => "Shipwrec",
+            "image" => "shipwrec.jpg",
+            "description" => "Electronic music label from the Netherlands, founded in 2010.",
+            "location" => "Netherlands",
+            "follower" => 1.5
+        ],
+        "Clone Classic Cuts" => [
+            "name" => "Clone Classic Cuts",
+            "image" => "clone_classic_cuts.jpg",
+            "description" => "Dutch label, devoted to repress of old classic tracks of various genres (Electro, Italo Disco, House).",
+            "location" => "Netherlands",
+            "follower" => 1.8
+        ]
     ]
 ];
