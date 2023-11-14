@@ -2856,7 +2856,7 @@ return [
                 ]
             ]
         ]
-                ],
+    ],
 
     "labels" => [
         "RCA" => [
@@ -2939,6 +2939,66 @@ return [
                             On December 15, 2006, CBS Broadcasting Inc., the successor of CBS Inc., revived the CBS Records brand. The label uses CBS' television networks and its other mass media platforms to market their artists. They also release soundtracks of CBS television shows. The new CBS Records label is not related to the former CBS Records business or its artists or assets.",
             "location" => "United States Of America",
             "follower" => 0.9
-        ]
+        ],
+        "System Music" => [
+            "name" => "System Music",
+            "image" => "system_music.jpg",
+            "description" => "Italo-disco label founded in 1982 by Matteo Bonsanto, Luciano Ninzatti and Stefano Pulga in Milan, Italy.",
+            "location" => "Italy",
+            "follower" => 0.5
+        ],
+        "Strictly Rhythm" => [
+            "name" => "Strictly Rhythm",
+            "image" => "strictly_rhythm.jpg",
+            "description" => "Prolific New York City-based house label established in 1989 by music executive Mark Finkelstein and A&R Gladys Pizarro.
+                            Bari G. aka Bari Gossman was Vice President of promotions and later A&R executive.
+                            The label subsequently expanded into Europe where Phil Cheeseman headed its European operations and acted as A&R for various UK-based producers.
+                            A short-lived UK subsidiary Strictly Rhythm UK existed in 2001.
+                            In addition to its various sub-labels, it also manufactured and distributed a number of other independent labels for much of the 1990s.
+                            Strictly Rhythm folded in October 2002 after entering into a venture with Warner Music Group nine months earlier. After four years of legal wrangling, Mark Finkelstein regained control of the label, its trademark, and its recordings and publishing rights.
+                            The label relaunched in 2006 in partnership with Defected with Aaron Ross as A&R manager.
+                            In 2013, the label's catalogue was acquired by BMG Rights Management, while the label continued to release new recordings. In 2019 the brand name was acquired by BMG.",
+            "location" => "United States Of America",
+            "follower" => 4.1
+        ],
+        "10 Records" => [
+            "name" => "10 Records",
+            "image" => "10_records.jpg",
+            "description" => "Ten Records is an English record label. Among the main bands placed under his contract were Manowar who in 1984 produced with this house the album Sign of the Hammer, placed at #73 on the European charts.",
+            "location" => "United Kingdom",
+            "follower" => 1.2
+        ],
+        "Atlantic" => [
+            "name" => "Atlantic",
+            "image" => "atlantic.jpg",
+            "description" => "In 1947, Ahmet Ertegun, Herb Abramson and his wife Miriam Abramson (maiden name Miram Kahan) started an independent record label in New York City, which they named Atlantic Records. They were later joined by Ahmet's brother Nesuhi Ertegun and Jerry Wexler. Growing from literally a one-room operation into one of the preeminent companies in the rapidly evolving music industry, the Atlantic label soon became recognized and revered around the world—a name synonymous with artistry and quality.
+                            Atlantic was purchased in 1967 by the Warner Bros-Seven Arts film studio. Atlantic/ATCO Records, along with Warner Bros. Records/Reprise Records, were to be operated as separate record companies under this ownership umbrella. This continued until 1969, when Warner Bros-Seven Arts was purchased by Kinney National Company. Warner Bros. and Atlantic were brought together, Ahmet Ertegün was given considerable power in the new operation and he, along with both the President and Chairman of Warner Bros. Records Mo Austin, served on a committee to oversee the record business. They oversaw the purchase of Elektra from its founder Jac Holzman in 1970, leading to the creation of the Warner-Elektra-Atlantic (WEA) alliance and distribution network.
+                            Today, Atlantic remains a part of the Warner Music Group, and forms the Atlantic Music Group along with Elektra, Rhino Records (2) (which Atlantic bought out in 1992) and Lava; EastWest Records America was switched to Elektra when Sylvia Rhone became president of that label in 1995.",
+            "location" => "United States Of America",
+            "follower" => 2.2
+        ],
+        "Azuli Records" => [
+            "name" => "Azuli Records",
+            "image" => "azuli_records.jpg",
+            "description" => "House label founded in London in 1990 by David Piccioni and based above Black Market Records in Soho.
+                            Like several other London labels from the same era, early Azuli releases had a fake New York address on the labels e.g. Disco Elements - EP Vol 1.
+                            Azuli's UK Garage releases, with their black sleeves, started in 1997.
+                            The company behind the label from 2004 to April 2009, when Azuli went into liquidation, was Coolpool Ltd. aka Cool Pool Ltd..
+                            The back catalogue was purchased by Phoenix Music International Ltd.",
+            "location" => "United Kingdom",
+            "follower" => 1.5
+        ],
+        "Big Life" => [
+            "name" => "Big Life",
+            "image" => "big_life.jpg",
+            "description" => "Big Life Records was formed in 1986 by the partnership of Jazz Summers and Tim Parry.
+                            Summers was previously involved in the development of the group Wham! and Parry was guitarist in the group Blue Zoo. The duo also formed Big Life Management and its publishing arm, Big Life Music, in 1987.
+                            Big Life Records was a creative platform for the late 80's and early 90's 'underground' dance movement. Coldcut were one of the bands with Big Life, featuring guest vocalist Lisa Stansfield, which helped her build her career on this native cult success and sell 11 million records worldwide. Big Life helped establish a diverse stable of talent, such as: Soul II Soul, The Soup Dragons, Yazz, De La Soul, Coldcut, James Taylor Quartet, The Orb and more.
+                            Big Life Records achieved over 50 top 40 UK hits before closing its doors after ten years. However, the self-administered publishing and management work of Big Life Music remains active in the industry, with a wealth of hits from their catalogue appearing in the UK charts. Summers became manager of The Verve and Snow Patrol and has involvement with The Power Amp Music Fund.
+                            Raw TV Products, or Raw TV was a distributor, not a label, and used for catalogue reference - most notably on releases by The Soup Dragons.
+                            Exclusively distributed in the UK by PolyGram Record Operations starting June 1991.",
+            "location" => "United Kingdom",
+            "follower" => 1.5
+        ],
     ]
 ];
