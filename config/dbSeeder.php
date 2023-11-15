@@ -1392,6 +1392,7 @@ return [
 
 
     "labels" => [
+
         "RCA" => [
             "name" => "RCA",
             "image" => "rca.jpg",
@@ -1853,5 +1854,60 @@ return [
             "location" => "Germany",
             "follower" => 2.3
         ]
+
+    ],
+
+    "artists" => [
+
+        "Alien Signal" => [
+            "name" => "Alessandro",
+            "surname" => "Silvi",
+            "image"=> ["alien_signal.jpg", ""],
+            "profile" => "Italian producer.",
+            "nationality" => "Italy",
+            "follower" => 1.5
+        ],
+        "Battiato" => [
+            "name" => "Francesco",
+            "surname" => "Battiato",
+            "image"=> "franco_battiato.jpg",
+            "profile" => "Franco Battiato, born Francesco Battiato (Ionia, March 23, 1945 - Milo, May 18, 2021), was an Italian singer-songwriter, composer, musician, and painter.
+                        An internationally known artist, Franco Battiato has been everything in his long career, from beat singer to avantgarde performer, producer, contemporary music composer.
+                        His beginnings lay in the mid 60's, with many singles released with no particular success, the first two under his real name of Francesco. He had left the native Sicily moving to Milan around 1965.
+                        In 1970 after his collaboration with Osage Tribe (that he quit before their only album Arrowhead) he had a record deal with Bla Bla, releasing his first solo album in 1972. 'Fetus', housed in a outrageous cover (reproducing a foetus) was definitely a prog album, but a very original one, with a minimalist sound mainly based on the use of a VCS3 synth, unusual lyrics, complex arrangements. Two tracks, 'Energia' and 'Una Cellula' were also released as single.
+                        Second album 'Pollution' followed the same route, but the sound was a bit richer with a larger use of traditional rock instruments. A good concert activity led to Battiato being very popular as an alternative artist and Pollution even reached the Top Ten italian chart. These two albums are considered their best (and most musically accessible) from prog fans.
+                        With third album, Sulle corde di 'Aries', the sound shifted toward a more avantgarde style, but the long 'Aria Di Rivoluzione' remains one of his best tracks from the first period.
+                        Fourth album 'Clic' was mainly instrumental, with just a single vocal track, 'No U Turn', and it also had an english release on the prestigious Island label, though this album contains different versions of tracks originally included in '-'Sulle Corde Di Aries' and the italian issue of 'Clic'. His first solo album had also been recorded in an english version, entitled 'Foetus', but this was never released at the time and only appeared on CD recently.
+                        With 1975's 'M.lle Le Gladiator' we're in full avantgarde music, the album even contains a long church organ solo performance and is a very difficult listen. After the Bla Bla's demise the following releases up to 1978 were all in the same direction, with long instrumental piano or synth performances closer to contemporary music than to progressive.
+                        1979 saw the first radical turn, with the new wave-inspired album 'L'Era Del Cinghiale Bianco' that began a fruitful collaboration with violinist Giusto Pio. The album was a big hit and later works followed the same style, with very good arrangements and highly inspired and original lyrics. From late 1980's until today Battiato is still one of the leading figures in italian music.",
+            "nationality" => "Italy",
+            "follower" => 1.5
+        ],
+        "Nativo" => [
+            "name" => "Alessio",
+            "surname" => "Pesenti",
+            "image"=> "nativo.jpg",
+            "profile" => "Italian producer.",
+            "nationality" => "Italy",
+            "follower" => 0.8
+        ],
+        "Eric Random" => [
+            "name" => "Eric",
+            "surname" => "Ramsden",
+            "image"=> "eric_random.jpg",
+            "profile" => "Manchester punk, industrial, electronic and world musician, born in 1961.",
+            "nationality" => "United Kingdom",
+            "follower" => 1.8
+        ],
+        "The Notorius B.I.G." => [
+            "name" => "Christopher George",
+            "surname" => "Wallace",
+            "image"=> "the_notorius_big.jpg",
+            "profile" => "Notorious 'Christopher George Letore Wallace' B.I.G. (Business Instead of Game) was born and raised in Brooklyn, NY on May 21, 1972. During his life he moved many crowds with his conversational style in Hip Hop. He released two studio albums both garnering critical and public acclaim: 'Ready To Die' and 'Life After Death'. Notorious B.I.G. was shot to death from a drive-by in Los Angeles, CA on March 9, 1997.
+                        As a youth he was an honor-roll student, but dropped out of school at the age of 17 and began working for a small-time crack cocaine dealer in Virginia. As a teen he would freestyle rap on the streets of Brooklyn. After making a demo tape with neighborhood friends and connections, this demo was eventually received DJ Mister Cee (from Big Daddy Kane). From there he got notice in Hip-Hop magazine, The Source, in the Unsigned Hype section. Sean 'Puffy' Combs got a hold of the demo tape and after meeting signed Biggie to Uptown Records. Puffy eventually started his own music label, Bad Boy Records, bringing Biggie with him. Soon after Bad Boy's premiere he released the album, Ready To Die, eventually selling over 4 million copies. To this day B.I.G. is regarded as one of the best lyricist ever in Hip-Hop along with his one time friend and eventual adversary, Tupac Shakur.",
+            "nationality" => "United States Of America",
+            "follower" => 3.2
+        ]
+
     ]
 ];
