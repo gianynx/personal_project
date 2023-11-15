@@ -2,208 +2,189 @@
 
 return [
     "stores" => [
+
         [
-            "name" => "Round Midnight Dischi",
-            "address" => "Via di S. Orsola, 10",
-            "logo" => "round_midnight_dischi.png",
-            "description" => "The collection is the result of years of research for wineries, markets, failures, promotions and consists mainly of vinyl records, but also CDs, DVDs, VHS, cassettes, new and used, all stored in the online catalog.",
+            "name" => "Ultrasuoni Records Roma",
+            "address" => "Via dei Marsi, 24a",
+            "logo" => "ultrasuoni.jpg",
+            "description" => "Ultrasuoni Records is a record shop based in Rome specialized in electronic music.",
             "images" => [
-                "round_midnight_dischi_1.jpg",
-                "round_midnight_dischi_2.jpg",
-                "round_midnight_dischi_3.jpg",
-                "round_midnight_dischi_4.jpg"
+                "ultrasuoni_records_1.jpg",
+                "ultrasuoni_records_2.jpg",
+                "ultrasuoni_records_3.jpg",
+                "ultrasuoni_records_4.jpg",
+                "ultrasuoni_records_5.jpg",
+                "ultrasuoni_records_6.jpg",
+                "ultrasuoni_records_7.jpg",
+                "ultrasuoni_records_8.jpg",
+                "ultrasuoni_records_9.jpg",
+                "ultrasuoni_records_10.jpg"
             ],
             "vinyls" => [
                 [
-                    "title" => "Ennio Morricone - Gli Arrangiamenti E L'Orchestra Di Ennio Morricone",
-                    "price" => 25.00,
-                    "image" => "gli_arrangiamenti_e_l'orchestra_di_ennio_morricone.jpg",
-                    "year" => 1983,
-                    "genres" => ["Electronic", "Jazz", "Pop", "Classical"],
-                    "styles" => ["Neo-Classical", "Big Band", "Synth-pop", "Post-Modern", "Experimental", "Neo-Romantic"],
-                    "artist" => "Ennio Morricone",
-                    "label" => "RCA",
-                    "tracks" => [
-                        ["title" => "'E Spingole Francese", "duration" => "3:02"],
-                        ["title" => "Parlami D'Amore Mariù", "duration" => "2:22"],
-                        ["title" => "Tu, Ca Nun Chiagne!", "duration" => "2:21"],
-                        ["title" => "Io Che Amo Solo Te", "duration" => "2:39"],
-                        ["title" => "Tu Non Mi Lascerai", "duration" => "3:10"],
-                        ["title" => "Che Cosa C'È", "duration" => "2:31"],
-                        ["title" => "Amorevole", "duration" => "5:28"],
-                        ["title" => "Maria Marì", "duration" => "3:25"],
-                        ["title" => "Bocca Nel Buio", "duration" => "2:36"],
-                        ["title" => "Come Le Rose", "duration" => "2:46"],
-                        ["title" => "Fascination", "duration" => "2:44"],
-                        ["title" => "Scetate", "duration" => "4:56"],
-                        ["title" => "Piove (Ciao, Ciao Bambina)", "duration" => "2:28"],
-                        ["title" => "Ninì Tirabusciò", "duration" => "1:26"]
-                    ]
-                ],
-                [
-                    "title" => "Elisa Fiorillo - How Can I Forget You",
-                    "price" => 1.60,
-                    "image" => "elisa_fiorillo_how_can_i_forget_u.jpg",
-                    "year" => 1988,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => ["Synth-pop", "Disco"],
-                    "artist" => "Elisa Fiorillo",
-                    "label" => "Chrysalis",
-                    "tracks" => [
-                        ["title" => "How Can I Forget You (Dance Mix)", "duration" => "5:40"],
-                        ["title" => "How Can I Forget You (Dub Version)", "duration" => "5:15"],
-                        ["title" => "More Than Love", "duration" => "3:44"]
-                    ]
-                ],
-                [
-                    "title" => "Bronski Beat - Hit That Perfect Beat (12'' Version)",
-                    "price" => 2.50,
-                    "image" => "bronski_beat_hit_that_perfect_beat.jpg",
-                    "year" => 1985,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => "Synth-pop",
-                    "artist" => "Bronski Beat",
-                    "label" => "MCA Records",
-                    "tracks" => [
-                        ["title" => "Hit That Perfect Beat (Remix)", "duration" => "8:26"],
-                        ["title" => "Hit That Perfect Beat (Original Mix)", "duration" => "6:25"],
-                        ["title" => "Hit That Perfect Beat (Dub)", "duration" => "7:10"]
-                    ]
-                ],
-                [
-                    "title" => "Bee Gees - Idea",
-                    "price" => 9.30,
-                    "image" => "bee_gees_idea.jpg",
-                    "year" => 1968,
-                    "genres" => ["Rock", "Pop"],
-                    "styles" => ["Soft Rock", "Pop Rock"],
-                    "artist" => "Bee Gees",
-                    "label" => "Polydor",
-                    "tracks" => [
-                        ["title" => "Let There Be Love", "duration" => "3:28"],
-                        ["title" => "Kitty Can", "duration" => "2:31"],
-                        ["title" => "In The Summer Of His Years", "duration" => "3:05"],
-                        ["title" => "Indian Gin & Whisky Dry", "duration" => "1:55"],
-                        ["title" => "Down To Earth", "duration" => "2:28"],
-                        ["title" => "Such A Shame", "duration" => "2:28"],
-                        ["title" => "Idea", "duration" => "2:51"],
-                        ["title" => "When The Swallows Fly", "duration" => "2:22"],
-                        ["title" => "I've Decided To Join The Airforce", "duration" => "2:06"],
-                        ["title" => "I Started A Joke", "duration" => "3:03"],
-                        ["title" => "Kilburn Towers", "duration" => "2:14"],
-                        ["title" => "Swan Song", "duration" => "2:55"]
-                    ]
-                ],
-                [
-                    "title" => "Tear For Fears - Elemental",
-                    "price" => 1.30,
-                    "image" => "tears_for_fears_elemental.jpg",
-                    "year" => 1993,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Pop Rock", "Synth-pop"],
-                    "artist" => "Tears For Fears",
-                    "label" => "Mercury",
-                    "tracks" => [
-                        ["title" => "Elemental", "duration" => "5:31"],
-                        ["title" => "Cold", "duration" => "5:06"],
-                        ["title" => "Break It Down Again", "duration" => "4:32"],
-                        ["title" => "Mr. Pessimist", "duration" => "6:17"],
-                        ["title" => "Dog's A Best Friend's Dog", "duration" => "3:38"],
-                        ["title" => "Fish Out Of Water", "duration" => "5:07"],
-                        ["title" => "Gas Giants", "duration" => "2:41"],
-                        ["title" => "Power", "duration" => "5:50"],
-                        ["title" => "Brian Wilson Said", "duration" => "4:22"],
-                        ["title" => "Goodnight Song", "duration" => "3:53"]
-                    ]
-                ],
-                [
-                    "title" => "Giovanni Allevi - Joy",
-                    "price" => 0.90,
-                    "image" => "giovanni_allevi_joy.jpg",
-                    "year" => 2006,
-                    "genres" => ["Jazz", "Classical"],
-                    "styles" => ["Modern", "Neo-Classical", "Contemporary Jazz"],
-                    "artist" => "Giovanni Allevi",
-                    "label" => "Ricordi",
-                    "tracks" => [
-                        ["title" => "Panic", "duration" => "4:40"],
-                        ["title" => "Portami Via", "duration" => "4:10"],
-                        ["title" => "Downtown", "duration" => "4:33"],
-                        ["title" => "Water Dance", "duration" => "4:11"],
-                        ["title" => "Viaggio In Aereo", "duration" => "2:33"],
-                        ["title" => "Follow You", "duration" => "5:31"],
-                        ["title" => "Vento D'Europa", "duration" => "5:27"],
-                        ["title" => "L'Orologio Degli Dèi", "duration" => "6:27"],
-                        ["title" => "Back To Life", "duration" => "4:39"],
-                        ["title" => "Jazzmatic", "duration" => "3:43"],
-                        ["title" => "Il Bacio", "duration" => "3:33"],
-                        ["title" => "New Renaissance", "duration" => "3:37"]
-                    ]
-                ],
-                [
-                    "title" => "Marcella Bella - Nel Mio Cielo Puro",
-                    "price" => 12.40,
-                    "image" => "marcella_bella_nel_mio_cielo_puro.jpg",
-                    "year" => 1984,
-                    "genres" => "Pop",
-                    "styles" => "Chanson",
-                    "artist" => "Marcella Bella",
-                    "label" => "CBS",
-                    "tracks" => [
-                        ["title" => "Nel Mio Cielo Puro", "duration" => "3:55"],
-                        ["title" => "Febbre D'Amore", "duration" => "3:53"],
-                        ["title" => "Gianni E Giulio", "duration" => "4:30"],
-                        ["title" => "Dolce Luna (Parte 2)", "duration" => "4:38"],
-                        ["title" => "Alla Pari", "duration" => "4:10"],
-                        ["title" => "Prigioniera", "duration" => "4:00"],
-                        ["title" => "Ahi Ahi", "duration" => "5:10"],
-                        ["title" => "Scusa Ci Sto", "duration" => "2:50"]
-                    ]
-                ],
-                [
-                    "title" => "The Blow Monkeys - Springtime For The World",
-                    "price" => 6.50,
-                    "image" => "the_blow_monkeys_springtime_for_the_world.jpg",
-                    "year" => 1990,
+                    "title" => "Alien Signal - Circularity EP",
+                    "price" => 17.50,
+                    "image" => "alien_signal_circularity.jpg",
+                    "year" => 2023,
                     "genres" => "Electronic",
-                    "styles" => ["Synth-pop", "Downtempo"],
-                    "artist" => "The Blow Monkeys",
-                    "label" => "RCA",
+                    "styles" => ["House", "Progressive House", "Trance", "Progressive Trance"],
+                    "artist" => "Alien Signal",
+                    "label" => "Superluminal",
                     "tracks" => [
-                        ["title" => "In Too Deep", "duration" => "4:33"],
-                        ["title" => "Springtime For The World", "duration" => "3:25"],
-                        ["title" => "Vibe Alive!", "duration" => "2:50"],
-                        ["title" => "Reflections '89", "duration" => "2:57"],
-                        ["title" => "Be Not Afraid", "duration" => "6:54"],
-                        ["title" => "If You Love Somebody", "duration" => "5:08"],
-                        ["title" => "La Passionara", "duration" => "4:43"],
-                        ["title" => "Let The People Dance", "duration" => "3:43"],
-                        ["title" => "Fruits Of The Earth", "duration" => "4:43"],
-                        ["title" => "As The Dust Settles", "duration" => "6:02"]
+                        ["title" => "Nebula III", "duration" => "7:12"],
+                        ["title" => "Jupiter Come", "duration" => "6:47"],
+                        ["title" => "Uranus", "duration" => "5:50"],
+                        ["title" => "Souvien Tois (Electro Trip)", "duration" => "6:45"]
                     ]
                 ],
                 [
-                    "title" => "Various - Astramix",
-                    "price" => 4.50,
-                    "image" => "various_astramix.jpg",
-                    "year" => 1983,
-                    "genres" => ["Electronic", "Funk / Soul"],
-                    "styles" => ["Italo-Disco", "Disco"],
-                    "artist" => "Various",
-                    "label" => "System Music",
+                    "title" => "Battiato - L'Arca Di Noè",
+                    "price" => 23.00,
+                    "image" => "battiato_arca_di_noe.jpg",
+                    "year" => 1982,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["New Wave"],
+                    "artist" => "Battiato",
+                    "label" => "EMI",
                     "tracks" => [
-                        ["title" => "Stefano Pulga - Love Taker", "duration" => "3:26"],
-                        ["title" => "Deborah Kinley - Guerilla", "duration" => "3:17"],
-                        ["title" => "Sphinx - Bad Girl", "duration" => "2:44"],
-                        ["title" => "Endgames - First, Last, For Everything", "duration" => "2:11"],
-                        ["title" => "Sahara - Turn Another Page", "duration" => "2:40"],
-                        ["title" => "Samoa Park - Tubular Affair", "duration" => "3:46"],
-                        ["title" => "Raynard J. - Takin' Me To Paradise", "duration" => "3:33"],
-                        ["title" => "Kano - Ikeya-Seki", "duration" => "1:06"],
-                        ["title" => "Kex - Go Go Go", "duration" => "4:29"],
-                        ["title" => "Unique - What I Got Is What You Need", "duration" => "4:33"],
-                        ["title" => "Mezzoforte - Garden Party", "duration" => "2:18"],
-                        ["title" => "Club Rap - But !", "duration" => "1:56"]
+                        ["title" => "Radio Varsavia", "duration" => "6:42"],
+                        ["title" => "Clamori", "duration" => "4:56"],
+                        ["title" => "L'Esodo", "duration" => "7:10"],
+                        ["title" => "Scalo A Grado", "duration" => "6:14"],
+                        ["title" => "La Torre", "duration" => "5:20"],
+                        ["title" => "New Frontiers", "duration" => "7:10"],
+                        ["title" => "Voglio Vederti Danzare", "duration" => "8:30"]
+                    ]
+                ],
+                [
+                    "title" => "Nativo - Guysss EP",
+                    "price" => 16.99,
+                    "image" => "nativo_guys.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Electro", "Abstract"],
+                    "artist" => "Nativo",
+                    "label" => "Incoherent Debts",
+                    "tracks" => [
+                        ["title" => "Guysss", "duration" => "6:12"],
+                        ["title" => "Pianeta Ursula", "duration" => "5:47"],
+                        ["title" => "Formaggio Pad", "duration" => "6:50"],
+                        ["title" => "Peccato", "duration" => "6:10"]
+                    ]
+                ],
+                [
+                    "title" => "Eric Random - Wire Me Up",
+                    "price" => 20.99,
+                    "image" => "eric_random_wire_me_up.jpg",
+                    "year" => 2019,
+                    "genres" => "Electronic",
+                    "styles" => "EBM",
+                    "artist" => "Eric Random",
+                    "label" => "SLEEPERS",
+                    "tracks" => [
+                        ["title" => "Nothing Is True", "duration" => "7:30"],
+                        ["title" => "Target", "duration" => "7:45"],
+                        ["title" => "Stealth", "duration" => "6:15"],
+                        ["title" => "Monochrome", "duration" => "7:07"],
+                        ["title" => "Commence Countdown", "duration" => "8:10"],
+                        ["title" => "Skid Row", "duration" => "7:40"],
+                        ["title" => "You Seem The Same", "duration" => "8:08"],
+                        ["title" => "The Louder You Scream", "duration" => "7:14"],
+                        ["title" => "Touch Sensative", "duration" => "6:30"],
+                        ["title" => "Hypnophobia", "duration" => "7:22"],
+                        ["title" => "Systematic", "duration" => "8:08"],
+                        ["title" => "The Outsider", "duration" => "7:44"]
+                    ]
+                ],
+                [
+                    "title" => "The Notorius B.I.G. - Greatest Hits",
+                    "price" => 46.00,
+                    "image" => "the_notorius_big_greatest_hits.jpg",
+                    "year" => 2023,
+                    "genres" => "Hip Hop",
+                    "styles" => ["Gangsta", "Hardcore Hip-Hop"],
+                    "artist" => "The Notorius B.I.G.",
+                    "label" => "Bad Boy Entertainment",
+                    "tracks" => [
+                        ["title" => "Juicy", "duration" => "5:01"],
+                        ["title" => "Big Poppa", "duration" => "4:10"],
+                        ["title" => "Hypnotize", "duration" => "3:50"],
+                        ["title" => "One More Chance/Stay With Me (Remix)", "duration" => "4:29"],
+                        ["title" => "Get Money", "duration" => "4:34"],
+                        ["title" => "Warning", "duration" => "3:39"],
+                        ["title" => "Dead Wrong", "duration" => "4:57"],
+                        ["title" => "Who Shot Ya", "duration" => "5:17"],
+                        ["title" => "Ten Crack Commandments", "duration" => "3:24"],
+                        ["title" => "Notorius Thugs", "duration" => "6:07"],
+                        ["title" => "Notorius B.I.G.", "duration" => "3:12"],
+                        ["title" => "Nasty Girl", "duration" => "4:46"],
+                        ["title" => "Unbelievable", "duration" => "3:40"],
+                        ["title" => "Niggas Bleed", "duration" => "4:52"],
+                        ["title" => "Running Your Mouth", "duration" => "3:33"],
+                        ["title" => "Want That Old Thing Back", "duration" => "4:58"],
+                        ["title" => "Fuck You Tonight", "duration" => "5:44"]
+                    ]
+                ],
+                [
+                    "title" => "Christian AB - Red Tears",
+                    "price" => 17.70,
+                    "image" => "christian_ab_red_tears.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "Christian AB",
+                    "label" => "La Nota Del Diablo",
+                    "tracks" => [
+                        ["title" => "Dr. Darkness", "duration" => "6:40"],
+                        ["title" => "Hearing Voices (Again)", "duration" => "6:47"],
+                        ["title" => "Red Tears", "duration" => "5:50"],
+                        ["title" => "Machina Drummer", "duration" => "6:10"]
+                    ]
+                ],
+                [
+                    "title" => "Marshall Jefferson Presents Truth - Open Hour",
+                    "price" => 10.00,
+                    "image" => "marshall_jefferson_presents_truth_open_hour.jpg",
+                    "year" => 1988,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House"],
+                    "artist" => "Marshall Jefferson",
+                    "label" => "Big Beat",
+                    "tracks" => [
+                        ["title" => "Open Our Eyes (Celestial Mix)", "duration" => "7:09"],
+                        ["title" => "Open Our Eyes (The Enlightenment)", "duration" => "6:00"],
+                        ["title" => "Open Our Eyes (Spiritual Mix)", "duration" => "7:01"],
+                        ["title" => "Open Our Eyes (Marshall's Elevated Dub)", "duration" => "6:19"]
+                    ]
+                ],
+                [
+                    "title" => "Djedjotronic - Smog On The Dancefloor EP",
+                    "price" => 18.99,
+                    "image" => "djedjotronic_smog_on_the_dancefloor.jpg",
+                    "year" => 2023,
+                    "genres" => "Electronic",
+                    "styles" => ["EBM", "Electro"],
+                    "artist" => "Djedjotronic",
+                    "label" => "Italo Moderni",
+                    "tracks" => [
+                        ["title" => "Smog On The Dancefloor Feat. Rein", "duration" => "5:40"],
+                        ["title" => "Frozen", "duration" => "5:47"],
+                        ["title" => "Circus", "duration" => "6:50"],
+                        ["title" => "Not Real", "duration" => "6:45"]
+                    ]
+                ],
+                [
+                    "title" => "Unknown Artist - I Was A Dj / Promesse",
+                    "price" => 17.99,
+                    "image" => "unknown_artist_i_was_a_dj.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["Italo-Disco", "Electro"],
+                    "artist" => "Unknown Artist",
+                    "label" => "R&C Records",
+                    "tracks" => [
+                        ["title" => "I Was A Dj", "duration" => "6:48"],
+                        ["title" => "Promesse", "duration" => "6:06"]
                     ]
                 ],
                 [
@@ -243,678 +224,6 @@ return [
                         ["title" => "Vibes", "duration" => "3:44"],
                         ["title" => "What Does It Take", "duration" => "3:33"],
                         ["title" => "Unity", "duration" => "3:24"]
-                    ]
-                ],
-                [
-                    "title" => "Rachel - Love Emergency",
-                    "price" => 4.50,
-                    "image" => "rachel_love_emergency.jpg",
-                    "year" => 1987,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "Rachel",
-                    "label" => "Atlantic",
-                    "tracks" => [
-                        ["title" => "Love Emergency (Club Mix)", "duration" => "8:03"],
-                        ["title" => "Love Emergency (Radio Mix)", "duration" => "4:13"],
-                        ["title" => "Love Emergency (Dub Mix)", "duration" => "6:12"]
-                    ]
-                ],
-                [
-                    "title" => "KCC Featuring Emile - Groove Thing",
-                    "price" => 2.00,
-                    "image" => "kcc_featuring_emile_groove_thing.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House"],
-                    "artist" => "Emile",
-                    "label" => "Azuli Records",
-                    "tracks" => [
-                        ["title" => "Groove Thing (Vocal Mix)", "duration" => "5:03"],
-                        ["title" => "Groove Thing (Instrumental Mix)", "duration" => "8:13"],
-                        ["title" => "Groove Thing (Pucci Mix)", "duration" => "4:12"],
-                        ["title" => "Groove Thing (60 Mix)", "duration" => "5:12"]
-                    ]
-                ],
-                [
-                    "title" => "The Beloved - Rock To The Rhythm Of Love",
-                    "price" => 4.50,
-                    "image" => "the_beloved_rock_to_the_rhythm_of_love.jpg",
-                    "year" => 1993,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House", "Euro House", "Synth-pop"],
-                    "artist" => "The Beloved",
-                    "label" => "Atlantic",
-                    "tracks" => [
-                        ["title" => "Rock To The Rhythm Of Love (South Pacific Mix)", "duration" => "6:35"],
-                        ["title" => "Rock To The Rhythm Of Love (Jungle Dub)", "duration" => "4:32"],
-                        ["title" => "Rock To The Rhythm Of Love (Conscience Album Version)", "duration" => "4:35"],
-                        ["title" => "Rock To The Rhythm Of Love (The MURK Ride)", "duration" => "5:25"],
-                        ["title" => "Rock To The Rhythm Of Love (Swinging London Mix)", "duration" => "9:04"]
-                    ]
-                ],
-                [
-                    "title" => "Yazz - Wanted",
-                    "price" => 0.90,
-                    "image" => "yazz_wanted.jpg",
-                    "year" => 1988,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Downtempo", "Euro House", "Acid House"],
-                    "artist" => "Yazz",
-                    "label" => "Big Life",
-                    "tracks" => [
-                        ["title" => "The Only Way Is Up", "duration" => "4:26"],
-                        ["title" => "Where Has All The Love Gone", "duration" => "4:30"],
-                        ["title" => "Got To Share", "duration" => "4:58"],
-                        ["title" => "Fine Time", "duration" => "4:42"],
-                        ["title" => "Stand Up For Your Love Rights", "duration" => "5:00"],
-                        ["title" => "Wanted On The Floor", "duration" => "4:57"],
-                        ["title" => "Something Special", "duration" => "5:04"],
-                        ["title" => "Systematic People", "duration" => "3:26"],
-                        ["title" => "Turn It Up", "duration" => "4:36"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "Welcome To The Jungle - Record Store",
-            "address" => "Via Monte Zebio, 44A",
-            "logo" => "welcome_to_the_jungle.png",
-            "description" => "The store is at the service of fans by offering the sale and service of equipment tested and guaranteed, from turntables, amplifiers, recorders to speakers, vintage and new.",
-            "images" => [
-                "welcome_to_the_jungle_1.jpg",
-                "welcome_to_the_jungle_2.jpg",
-                "welcome_to_the_jungle_3.jpg",
-                "welcome_to_the_jungle_4.jpg",
-                "welcome_to_the_jungle_5.jpg",
-                "welcome_to_the_jungle_6.jpg",
-                "welcome_to_the_jungle_7.jpg",
-                "welcome_to_the_jungle_8.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "Count Basie - Hall Of Fame",
-                    "price" => 20.00,
-                    "image" => "count_basie_hall_of_fame.jpg",
-                    "year" => 1979,
-                    "genres" => "Jazz",
-                    "styles" => ["Big Band", "Swing"],
-                    "artist" => "Count Basie",
-                    "label" => "Verve Records",
-                    "tracks" => [
-                        ["title" => "Blues Inside Out", "duration" => "6:34"],
-                        ["title" => "Big Red", "duration" => "3:46"],
-                        ["title" => "Trick Or Treat", "duration" => "4:11"],
-                        ["title" => "Lady In Lace", "duration" => "4:32"],
-                        ["title" => "Flute Juice", "duration" => "3:05"],
-                        ["title" => "Lollypop", "duration" => "3:06"],
-                        ["title" => "Slats", "duration" => "4:40"],
-                        ["title" => "Move", "duration" => "3:24"],
-                        ["title" => "Dolphin Dip", "duration" => "3:10"],
-                        ["title" => "Stompin' And Jumpin'", "duration" => "2:45"],
-                        ["title" => "Low Life", "duration" => "5:11"]
-                    ]
-                ],
-                [
-                    "title" => "Pink Floyd - The Wall",
-                    "price" => 40.00,
-                    "image" => "pink_floyd_the_wall.jpg",
-                    "year" => 2016,
-                    "genres" => "Rock",
-                    "styles" => ["Prog Rock", "Classic Rock"],
-                    "artist" => "Pink Floyd",
-                    "label" => "Pink Floyd Records",
-                    "tracks" => [
-                        ["title" => "In The Flesh?", "duration" => "3:16"],
-                        ["title" => "The Thin Ice", "duration" => "2:27"],
-                        ["title" => "Another Brick In The Wall Part 1", "duration" => "3:11"],
-                        ["title" => "The Happiest Days Of Our Lives", "duration" => "1:46"],
-                        ["title" => "Another Brick In The Wall Part 2", "duration" => "3:59"],
-                        ["title" => "Mother", "duration" => "5:32"],
-                        ["title" => "Goodbye Blue Sky", "duration" => "2:45"],
-                        ["title" => "Empty Spaces", "duration" => "2:10"],
-                        ["title" => "Young Lust", "duration" => "3:25"],
-                        ["title" => "One Of My Turns", "duration" => "3:41"],
-                        ["title" => "Don't Leave Me Now", "duration" => "4:08"],
-                        ["title" => "Another Brick In The Wall Part 3", "duration" => "1:18"],
-                        ["title" => "Goodbye Cruel World", "duration" => "1:16"],
-                        ["title" => "Hey You", "duration" => "4:40"],
-                        ["title" => "Is There Anybody Out There?", "duration" => "2:44"],
-                        ["title" => "Nobody Home", "duration" => "3:26"],
-                        ["title" => "Vera", "duration" => "1:35"],
-                        ["title" => "Bring The Boys Back Home", "duration" => "1:21"],
-                        ["title" => "Comfortably Numb", "duration" => "6:23"],
-                        ["title" => "The Show Must Go On", "duration" => "1:36"],
-                        ["title" => "In The Flesh", "duration" => "4:15"],
-                        ["title" => "Run Like Hell", "duration" => "4:20"],
-                        ["title" => "Waiting For The Worms", "duration" => "4:04"],
-                        ["title" => "Stop", "duration" => "0:30"],
-                        ["title" => "The Trial", "duration" => "5:13"],
-                        ["title" => "Outside The Wall", "duration" => "1:41"]
-                    ]
-                ],
-                [
-                    "title" => "Led Zeppelin - Led Zeppelin III",
-                    "price" => 36.00,
-                    "image" => "led_zeppelin_led_zeppelin.jpg",
-                    "year" => 2014,
-                    "genres" => "Rock",
-                    "styles" => ["Classic Rock", "Hard Rock"],
-                    "artist" => "Led Zeppelin",
-                    "label" => "Atlantic",
-                    "tracks" => [
-                        ["title" => "Immigrant", "duration" => "2:26"],
-                        ["title" => "Friends", "duration" => "3:53"],
-                        ["title" => "Celebration Day", "duration" => "3:30"],
-                        ["title" => "Since I've Been Loving You", "duration" => "7:24"],
-                        ["title" => "Out On The Tiles", "duration" => "3:05"],
-                        ["title" => "Gallows Pole", "duration" => "4:07"],
-                        ["title" => "Tangerine", "duration" => "3:11"],
-                        ["title" => "That's The Way", "duration" => "5:37"],
-                        ["title" => "Bron-Y-Aur Stomp", "duration" => "4:17"],
-                        ["title" => "Hats Off To (Roy) Harper", "duration" => "3:45"]
-                    ]
-                ],
-                [
-                    "title" => "Ping Pong - Ping Pong",
-                    "price" => 20.00,
-                    "image" => "ping_pong_ping_pong.jpg",
-                    "year" => 2023,
-                    "genres" => ["Rock", "Electronic"],
-                    "styles" => ["New Wave", "No Wave", "Experimental", "Post-Punk", "EBM", "Rock & Roll", "Industrial"],
-                    "artist" => "Ping Pong",
-                    "label" => "Raw Culture",
-                    "tracks" => [
-                        ["title" => "Boeing", "duration" => "6:44"],
-                        ["title" => "Splay", "duration" => "5:25"],
-                        ["title" => "Spikeball", "duration" => "6:35"],
-                        ["title" => "Funny", "duration" => "5:46"],
-                        ["title" => "Zilch", "duration" => "7:16"],
-                        ["title" => "Match", "duration" => "4:54"],
-                        ["title" => "Welcome", "duration" => "9:27"],
-                        ["title" => "Future", "duration" => "4:09"]
-                    ]
-                ],
-                [
-                    "title" => "Nitzer Ebb - Let Your Body Learn / Control I'm Here",
-                    "price" => 11.00,
-                    "image" => "nitzer_ebb_let_your_body_learn.jpg",
-                    "year" => 2002,
-                    "genres" => "Electronic",
-                    "styles" => ["EBM", "Techno"],
-                    "artist" => "Nitzer Ebb",
-                    "label" => "NovaMute",
-                    "tracks" => [
-                        ["title" => "Let Your Body Learn (Terence Fixmer Remix)", "duration" => "6:22"],
-                        ["title" => "Control I'm Here (The Hacker Remix)", "duration" => "6:44"]
-                    ]
-                ],
-                [
-                    "title" => "DJ Sneak - Housekeepin",
-                    "price" => 4.00,
-                    "image" => "dj_sneak_housekeepin.jpg",
-                    "year" => 2004,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House"],
-                    "artist" => "DJ Sneak",
-                    "label" => "Magnetic Recordings",
-                    "tracks" => [
-                        ["title" => "Can't Wait", "duration" => "6:27"],
-                        ["title" => "Call Me", "duration" => "4:19"],
-                        ["title" => "Salsa Electrika", "duration" => "8:50"],
-                        ["title" => "Funky Rhythm", "duration" => "4:25"]
-                    ]
-                ],
-                [
-                    "title" => "Alison Limerick - Make It On My Own",
-                    "price" => 4.00,
-                    "image" => "alison_limerick_make_it_on_my_own.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Garage House"],
-                    "artist" => "Alison Limerick",
-                    "label" => "Arista",
-                    "tracks" => [
-                        ["title" => "Make It On My Own (High Rise Mix)", "duration" => "6:47"],
-                        ["title" => "Make It On My Own (Spagatone Mix)", "duration" => "8:26"],
-                        ["title" => "Make It On My Own (Rave Mix)", "duration" => "13:27"],
-                        ["title" => "Make It On My Own (7'' Version)", "duration" => "4:51"]
-                    ]
-                ],
-                [
-                    "title" => "House Of Gypsies - Samba",
-                    "price" => 5.00,
-                    "image" => "house_of_gypsies_samba.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "House Of Gypsies",
-                    "label" => "UMM",
-                    "tracks" => [
-                        ["title" => "Samba (Tee's Freeze Mix)", "duration" => "5:42"],
-                        ["title" => "Kool Life (Classic Dub)", "duration" => "5:51"],
-                        ["title" => "Samba (Extended Mix)", "duration" => "5:05"]
-                    ]
-                ],
-                [
-                    "title" => "Mark Morrison - Crazy",
-                    "price" => 3.00,
-                    "image" => "mark_morrison_crazy.jpg",
-                    "year" => 1996,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Funk / Soul"],
-                    "artist" => "Mark Morrison",
-                    "label" => "WEA",
-                    "tracks" => [
-                        ["title" => "Crazy (C&J Mix)", "duration" => "4:45"],
-                        ["title" => "Crazy (D'Influence '96 Mix)", "duration" => "3:54"],
-                        ["title" => "Crazy (Linslee's Mix)", "duration" => "4:36"],
-                        ["title" => "Crazy (Original Mix)", "duration" => "4:40"],
-                        ["title" => "Crazy (Mark!'s Full On Vocal Mix)", "duration" => "7:39"],
-                        ["title" => "Crazy (Pulse & Professor Stretch Main Mix)", "duration" => "7:38"]
-                    ]
-                ],
-                [
-                    "title" => "Daft Punk - Human After All",
-                    "price" => 32.00,
-                    "image" => "daft_punk_human_after_all.jpg",
-                    "year" => 2022,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Abstract", "Electro", "Experimental"],
-                    "artist" => "Daft Punk",
-                    "label" => "Virgin",
-                    "tracks" => [
-                        ["title" => "Human After All", "duration" => "5:20"],
-                        ["title" => "The Prime Time Of Your Life", "duration" => "4:23"],
-                        ["title" => "Robot Rock", "duration" => "4:26"],
-                        ["title" => "Steam Machine", "duration" => "5:21"],
-                        ["title" => "Make Love", "duration" => "4:49"],
-                        ["title" => "The Brainwasher", "duration" => "4:08"],
-                        ["title" => "On/Off", "duration" => "0:19"],
-                        ["title" => "Television Rules The Nation", "duration" => "4:46"],
-                        ["title" => "Technologic", "duration" => "4:43"],
-                        ["title" => "Emotion", "duration" => "6:57"]
-                    ]
-                ],
-                [
-                    "title" => "Lady Gaga - Lovegame - The Remixes",
-                    "price" => 50.00,
-                    "image" => "lady_gaga_lovegame_the_remixes.jpg",
-                    "year" => 2009,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => ["House", "Europop", "Electro", "Vocal"],
-                    "artist" => "Lady Gaga",
-                    "label" => "Streamline Records",
-                    "tracks" => [
-                        ["title" => "Lovegame (Dave Aude' Remix)", "duration" => "3:20"],
-                        ["title" => "Lovegame (Space Cowboy Remix)", "duration" => "6:13"],
-                        ["title" => "Lovegame (Robots To Mars Remix)", "duration" => "4:19"],
-                        ["title" => "Lovegame (Album Version)", "duration" => "5:55"],
-                        ["title" => "Lovegame (Instrumental)", "duration" => "2:49"],
-                        ["title" => "Lovegame (A Capella)", "duration" => "3:08"]
-                    ]
-                ],
-                [
-                    "title" => "Tiga & Zyntherius - Sunglasses At Night Remixed",
-                    "price" => 6.00,
-                    "image" => "tiga_&_zyntherius_sunglasses_at_night_remixed.jpg",
-                    "year" => 2002,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Electro", "Electroclash"],
-                    "artist" => "Tiga & Zyntherius",
-                    "label" => "International Deejay Gigolo Records",
-                    "tracks" => [
-                        ["title" => "Sunglasses At Night (TGV Remix)", "duration" => "7:45"],
-                        ["title" => "Sunglasses At Night (Naughty's 42dafloor Remix)", "duration" => "9:15"]
-                    ]
-                ],
-                [
-                    "title" => "The Cure - Disintegration",
-                    "price" => 55.00,
-                    "image" => "the_cure_disintegration.jpg",
-                    "year" => 1989,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Alternative Rock", "Goth Rock", "New Wave"],
-                    "artist" => "The Cure",
-                    "label" => "Polydor",
-                    "tracks" => [
-                        ["title" => "Plainsong", "duration" => "5:16"],
-                        ["title" => "Pictures Of You", "duration" => "7:28"],
-                        ["title" => "Closedown", "duration" => "4:21"],
-                        ["title" => "Love Song", "duration" => "3:31"],
-                        ["title" => "Lullaby", "duration" => "4:12"],
-                        ["title" => "Fascination Street", "duration" => "5:17"],
-                        ["title" => "Prayers For Rain", "duration" => "6:07"],
-                        ["title" => "The Same Deep Water As You", "duration" => "9:23"],
-                        ["title" => "Disintegration", "duration" => "8:24"],
-                        ["title" => "Untitled", "duration" => "6:30"]
-                    ]
-                ],
-                [
-                    "title" => "The Prodigy - Smack My Bitch Up",
-                    "price" => 22.00,
-                    "image" => "the_prodigy_smack_my_bitch_up.jpg",
-                    "year" => 1997,
-                    "genres" => "Electronic",
-                    "styles" => ["Breakbeat", "Drum n Bass", "Big Beat"],
-                    "artist" => "The Prodigy",
-                    "label" => "UDP",
-                    "tracks" => [
-                        ["title" => "Smack My Bitch Up (LP Version)", "duration" => "5:42"],
-                        ["title" => "No Man Army", "duration" => "4:44"],
-                        ["title" => "Smack My Bitch Up (DJ Hype Remix)", "duration" => "7:17"],
-                        ["title" => "Mindfields (Headrock Dub)", "duration" => "4:34"]
-                    ]
-                ],
-                [
-                    "title" => "Battiato - L'Arca Di Noè",
-                    "price" => 23.00,
-                    "image" => "battiato_arca_di_noe.jpg",
-                    "year" => 1982,
-                    "genres" => ["Electronic", "Rock", "Pop"],
-                    "styles" => ["New Wave"],
-                    "artist" => "Battiato",
-                    "label" => "EMI",
-                    "tracks" => [
-                        ["title" => "Radio Varsavia", "duration" => "6:42"],
-                        ["title" => "Clamori", "duration" => "4:56"],
-                        ["title" => "L'Esodo", "duration" => "7:10"],
-                        ["title" => "Scalo A Grado", "duration" => "6:14"],
-                        ["title" => "La Torre", "duration" => "5:20"],
-                        ["title" => "New Frontiers", "duration" => "7:10"],
-                        ["title" => "Voglio Vederti Danzare", "duration" => "8:30"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "Millerecords",
-            "address" => "Via Merulana, 91",
-            "logo" => "millerecords.png",
-            "description" => "Crossing the doors of Millerecords, historic record shop in Rome, you can breathe a smell of culture, vinyl, a world of music that accompanied the journey of man. From Gregorian Chant to the music of the twentieth century with all the ramifications of the tree of Music: Blues, Jazz, Soul, Rock and subgenres, Fusion, Disco, Punk, New Wave and many others developed by the same Root. In this sacred Temple, among the oldest record shops in Rome, you can find all kinds of Musical Alchemy: vinyl records 33-45-78 rpm, new and used CDs, music books, Rarities of Classical, Jazz, Rock and more.",
-            "images" => [
-                "millerecords_1.jpg",
-                "millerecords_2.jpg",
-                "millerecords_3.jpg",
-                "millerecords_4.jpg",
-                "millerecords_5.jpg",
-                "millerecords_6.jpg",
-                "millerecords_7.jpg",
-                "millerecords_8.jpg",
-                "millerecords_9.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "Massive Attack - Blue Lines",
-                    "price" => 36.00,
-                    "image" => "massive_attack_blue_lines.jpg",
-                    "year" => 2016,
-                    "genres" => "Electronic",
-                    "styles" => ["Trip Hop", "Downtempo"],
-                    "artist" => "Massive Attack",
-                    "label" => "Virgin",
-                    "tracks" => [
-                        ["title" => "Safe From Harm", "duration" => "5:16"],
-                        ["title" => "One Love", "duration" => "4:48"],
-                        ["title" => "Blue Lines", "duration" => "4:21"],
-                        ["title" => "Be Thankful For What You've Got", "duration" => "4:09"],
-                        ["title" => "Five Man Army", "duration" => "6:04"],
-                        ["title" => "Unfinished Sympathy", "duration" => "5:08"],
-                        ["title" => "Daydreaming", "duration" => "4:14"],
-                        ["title" => "Lately", "duration" => "4:26"],
-                        ["title" => "Hymn Of The Big Wheel", "duration" => "6:36"]
-                    ]
-                ],
-                [
-                    "title" => "Franco Battiato - La Voce Del Padrone",
-                    "price" => 40.00,
-                    "image" => "franco_battiato_la_voce_del_padrone.jpg",
-                    "year" => 2021,
-                    "genres" => ["Electronic", "Rock", "Pop"],
-                    "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
-                    "artist" => "Franco Battiato",
-                    "label" => "EMI",
-                    "tracks" => [
-                        ["title" => "Summer on a Solitary Beach", "duration" => "6:16"],
-                        ["title" => "Bandiera Bianca", "duration" => "4:58"],
-                        ["title" => "Gli Uccelli", "duration" => "4:40"],
-                        ["title" => "Cuccurucucu", "duration" => "6:09"],
-                        ["title" => "Segnali Di Vita", "duration" => "5:04"],
-                        ["title" => "Centro Di Gravità Permanente", "duration" => "7:08"],
-                        ["title" => "Sentimiento Nuevo", "duration" => "5:14"]
-                    ]
-                ],
-                [
-                    "title" => "The Cure - Greatest Hits",
-                    "price" => 48.00,
-                    "image" => "the_cure_greatest_hits.jpg",
-                    "year" => 2017,
-                    "genres" => ["Electronic", "Rock", "Pop"],
-                    "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
-                    "artist" => "The Cure",
-                    "label" => "Polydor",
-                    "tracks" => [
-                        ["title" => "Boys Don't Cry", "duration" => "2:42"],
-                        ["title" => "A Forest", "duration" => "4:44"],
-                        ["title" => "Let's Go To Bed", "duration" => "3:34"],
-                        ["title" => "The Walk", "duration" => "7:09"],
-                        ["title" => "The Lovecats", "duration" => "3:40"],
-                        ["title" => "Inbetween Days", "duration" => "2:58"],
-                        ["title" => "Close To Me", "duration" => "3:42"],
-                        ["title" => "Why Can't I Be You?", "duration" => "3:14"],
-                        ["title" => "Just Like Heaven", "duration" => "3:32"],
-                        ["title" => "Lullaby", "duration" => "4:11"],
-                        ["title" => "Lovesong", "duration" => "3:28"],
-                        ["title" => "Never Enough", "duration" => "4:28"],
-                        ["title" => "High", "duration" => "3:35"],
-                        ["title" => "Friday I'm In Love", "duration" => "3:35"],
-                        ["title" => "Mint Car", "duration" => "3:29"],
-                        ["title" => "Wrong Number", "duration" => "6:01"],
-                        ["title" => "Cut Here", "duration" => "4:10"],
-                        ["title" => "Just Say Yes", "duration" => "3:29"]
-                    ]
-                ],
-                [
-                    "title" => "Depeche Mode - Memento Mori",
-                    "price" => 57.00,
-                    "image" => "depeche_mode_memento_mori.jpg",
-                    "year" => 2023,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Synth-pop", "Alternative Rock"],
-                    "artist" => "Depeche Mode",
-                    "label" => "Sony Music",
-                    "tracks" => [
-                        ["title" => "My Cosmos Is Mine", "duration" => "5:14"],
-                        ["title" => "Wagging Tongue", "duration" => "3:24"],
-                        ["title" => "Ghosts Again", "duration" => "3:56"],
-                        ["title" => "Don't Say You Love Me", "duration" => "3:47"],
-                        ["title" => "My Favourite Stranger", "duration" => "3:54"],
-                        ["title" => "Soul With Me", "duration" => "4:12"],
-                        ["title" => "Caroline's Monkey", "duration" => "4:16"],
-                        ["title" => "Before We Drown", "duration" => "4:02"],
-                        ["title" => "People Are Good", "duration" => "4:21"],
-                        ["title" => "Always You", "duration" => "4:18"],
-                        ["title" => "Never Let Me Go", "duration" => "3:59"],
-                        ["title" => "Speak To Me", "duration" => "4:33"]
-                    ]
-                ],
-                [
-                    "title" => "Depeche Mode - The Best Of (Volume 1)",
-                    "price" => 52.00,
-                    "image" => "depeche_mode_the_best_of.jpg",
-                    "year" => 2019,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => ["Synth-pop", "New Wave"],
-                    "artist" => "Depeche Mode",
-                    "label" => "Sony Music",
-                    "tracks" => [
-                        ["title" => "Personal Jesus", "duration" => "6:14"],
-                        ["title" => "Just Can't Get Enough", "duration" => "5:24"],
-                        ["title" => "Everything Counts", "duration" => "5:56"],
-                        ["title" => "Enjoy The Silence", "duration" => "6:47"],
-                        ["title" => "Shake The Disease", "duration" => "4:54"],
-                        ["title" => "See You", "duration" => "5:12"],
-                        ["title" => "It's No Good", "duration" => "5:16"],
-                        ["title" => "Strangelove", "duration" => "6:02"],
-                        ["title" => "Suffer Well", "duration" => "4:30"],
-                        ["title" => "Dream On", "duration" => "6:18"],
-                        ["title" => "People Are People", "duration" => "5:59"],
-                        ["title" => "Martyr", "duration" => "4:30"],
-                        ["title" => "Walking In My Shoes", "duration" => "5:10"],
-                        ["title" => "I Feel You", "duration" => "4:40"],
-                        ["title" => "Precious", "duration" => "5:30"],
-                        ["title" => "Master And Servant", "duration" => "6:20"],
-                        ["title" => "New Life", "duration" => "6:48"],
-                        ["title" => "Never Let Me Down Again", "duration" => "5:30"]
-                    ]
-                ],
-                [
-                    "title" => "Technotronic - Get Up! (Before The Night Is Over)",
-                    "price" => 5.00,
-                    "image" => "technotronic_get_up.jpg",
-                    "year" => 1990,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno", "Hip-House"],
-                    "artist" => "Technotronic",
-                    "label" => "SBK Records",
-                    "tracks" => [
-                        ["title" => "Get Up! (Before The Night Is Over) (Def Mix)", "duration" => "8:12"],
-                        ["title" => "Get Up! (Before The Night Is Over) (LP Version)", "duration" => "4:47"],
-                        ["title" => "Get Up! (Before The Night Is Over) (7'' Edit)", "duration" => "3:30"],
-                        ["title" => "Get Up! (Before The Night Is Over) (Far East Mix)", "duration" => "5:58"],
-                        ["title" => "Pump Up The Jam (Techno Mix)", "duration" => "4:48"]
-                    ]
-                ],
-                [
-                    "title" => "Cerrone - Not Too Shabby (Jamie Lewis Mixes)",
-                    "price" => 18.00,
-                    "image" => "cerrone_not_too_shabby.jpg",
-                    "year" => 2005,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Disco"],
-                    "artist" => "Cerrone",
-                    "label" => "Purple Music",
-                    "tracks" => [
-                        ["title" => "Not Too Shabby (Jamie Lewis Goes Disco Mix)", "duration" => "6:12"],
-                        ["title" => "Not Too Shabby (Jamie Lewis Goes Frisco Dub)", "duration" => "5:47"]
-                    ]
-                ],
-                [
-                    "title" => "M People - Excited",
-                    "price" => 4.00,
-                    "image" => "m_people_excited.jpg",
-                    "year" => 1994,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House", "Garage House"],
-                    "artist" => "M People",
-                    "label" => "RCA",
-                    "tracks" => [
-                        ["title" => "Excited (MK Mix)", "duration" => "8:32"],
-                        ["title" => "Excited (MK T Mix)", "duration" => "8:10"],
-                        ["title" => "Excited (M People Master Mix)", "duration" => "5:00"],
-                        ["title" => "Excited (MK Snow-Call Dub)", "duration" => "7:33"],
-                        ["title" => "Excited (M People Dub)", "duration" => "5:00"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "Ultrasuoni Records Roma",
-            "address" => "Via dei Marsi, 24a",
-            "logo" => "ultrasuoni.jpg",
-            "description" => "Ultrasuoni Records is a record shop based in Rome specialized in electronic music.",
-            "images" => [
-                "ultrasuoni_records_1.jpg",
-                "ultrasuoni_records_2.jpg",
-                "ultrasuoni_records_3.jpg",
-                "ultrasuoni_records_4.jpg",
-                "ultrasuoni_records_5.jpg",
-                "ultrasuoni_records_6.jpg",
-                "ultrasuoni_records_7.jpg",
-                "ultrasuoni_records_8.jpg",
-                "ultrasuoni_records_9.jpg",
-                "ultrasuoni_records_10.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "Alien Signal - Circularity EP",
-                    "price" => 17.50,
-                    "image" => "alien_signal_circularity.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Progressive House", "Trance", "Progressive Trance"],
-                    "artist" => "Alien Signal",
-                    "label" => "Superluminal",
-                    "tracks" => [
-                        ["title" => "Nebula III", "duration" => "7:12"],
-                        ["title" => "Jupiter Come", "duration" => "6:47"],
-                        ["title" => "Uranus", "duration" => "5:50"],
-                        ["title" => "Souvien Tois (Electro Trip)", "duration" => "6:45"]
-                    ]
-                ],
-                [
-                    "title" => "Nativo - Guysss EP",
-                    "price" => 16.99,
-                    "image" => "nativo_guys.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Electro", "Abstract"],
-                    "artist" => "Nativo",
-                    "label" => "Incoherent Debts",
-                    "tracks" => [
-                        ["title" => "Guysss", "duration" => "6:12"],
-                        ["title" => "Pianeta Ursula", "duration" => "5:47"],
-                        ["title" => "Formaggio Pad", "duration" => "6:50"],
-                        ["title" => "Peccato", "duration" => "6:10"]
-                    ]
-                ],
-                [
-                    "title" => "Christian AB - Red Tears",
-                    "price" => 17.70,
-                    "image" => "christian_ab_red_tears.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "Christian AB",
-                    "label" => "La Nota Del Diablo",
-                    "tracks" => [
-                        ["title" => "Dr. Darkness", "duration" => "6:40"],
-                        ["title" => "Hearing Voices (Again)", "duration" => "6:47"],
-                        ["title" => "Red Tears", "duration" => "5:50"],
-                        ["title" => "Machina Drummer", "duration" => "6:10"]
-                    ]
-                ],
-                [
-                    "title" => "Djedjotronic - Smog On The Dancefloor EP",
-                    "price" => 18.99,
-                    "image" => "djedjotronic_smog_on_the_dancefloor.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["EBM", "Electro"],
-                    "artist" => "Djedjotronic",
-                    "label" => "Italo Moderni",
-                    "tracks" => [
-                        ["title" => "Smog On The Dancefloor Feat. Rein", "duration" => "5:40"],
-                        ["title" => "Frozen", "duration" => "5:47"],
-                        ["title" => "Circus", "duration" => "6:50"],
-                        ["title" => "Not Real", "duration" => "6:45"]
-                    ]
-                ],
-                [
-                    "title" => "Unknown Artist - I Was A Dj / Promesse",
-                    "price" => 17.99,
-                    "image" => "unknown_artist_i_was_a_dj.jpg",
-                    "year" => 2023,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => ["Italo-Disco", "Electro"],
-                    "artist" => "Unknown Artist",
-                    "label" => "R&C Records",
-                    "tracks" => [
-                        ["title" => "I Was A Dj", "duration" => "6:48"],
-                        ["title" => "Promesse", "duration" => "6:06"]
                     ]
                 ],
                 [
@@ -1003,6 +312,36 @@ return [
                     ]
                 ],
                 [
+                    "title" => "Depeche Mode - The Best Of (Volume 1)",
+                    "price" => 52.00,
+                    "image" => "depeche_mode_the_best_of.jpg",
+                    "year" => 2019,
+                    "genres" => ["Electronic", "Pop"],
+                    "styles" => ["Synth-pop", "New Wave"],
+                    "artist" => "Depeche Mode",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "Personal Jesus", "duration" => "6:14"],
+                        ["title" => "Just Can't Get Enough", "duration" => "5:24"],
+                        ["title" => "Everything Counts", "duration" => "5:56"],
+                        ["title" => "Enjoy The Silence", "duration" => "6:47"],
+                        ["title" => "Shake The Disease", "duration" => "4:54"],
+                        ["title" => "See You", "duration" => "5:12"],
+                        ["title" => "It's No Good", "duration" => "5:16"],
+                        ["title" => "Strangelove", "duration" => "6:02"],
+                        ["title" => "Suffer Well", "duration" => "4:30"],
+                        ["title" => "Dream On", "duration" => "6:18"],
+                        ["title" => "People Are People", "duration" => "5:59"],
+                        ["title" => "Martyr", "duration" => "4:30"],
+                        ["title" => "Walking In My Shoes", "duration" => "5:10"],
+                        ["title" => "I Feel You", "duration" => "4:40"],
+                        ["title" => "Precious", "duration" => "5:30"],
+                        ["title" => "Master And Servant", "duration" => "6:20"],
+                        ["title" => "New Life", "duration" => "6:48"],
+                        ["title" => "Never Let Me Down Again", "duration" => "5:30"]
+                    ]
+                ],
+                [
                     "title" => "Claudio Coccoluto - Trip",
                     "price" => 32.99,
                     "image" => "claudio_coccoluto_trip.jpg",
@@ -1041,24 +380,6 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Redray - Cosmic Knowledge",
-                    "price" => 15.99,
-                    "image" => "redray_cosmic_knowledge.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["Acid House", "Electro", "House"],
-                    "artist" => "Redray",
-                    "label" => "Unlimited Happiness",
-                    "tracks" => [
-                        ["title" => "Cosmic Knowledge", "duration" => "7:13"],
-                        ["title" => "Indian Warrior", "duration" => "7:14"],
-                        ["title" => "Gnood", "duration" => "6:10"],
-                        ["title" => "I'll Be There", "duration" => "7:33"],
-                        ["title" => "Eazy Street", "duration" => "8:13"],
-                        ["title" => "Starlink", "duration" => "5:40"]
-                    ]
-                ],
-                [
                     "title" => "Digregorius - Nocturnalia",
                     "price" => 26.99,
                     "image" => "digregorius_nocturnalia.jpg",
@@ -1076,20 +397,6 @@ return [
                         ["title" => "Menguante Creciente", "duration" => "7:45"],
                         ["title" => "A La Puerta Del Tempio Sin Vocal", "duration" => "8:20"],
                         ["title" => "Bello Como Tabula Parlante Incluye E Sigilo Y Escala", "duration" => "7:45"]
-                    ]
-                ],
-                [
-                    "title" => "DJ Overdose - Waste No Time",
-                    "price" => 14.99,
-                    "image" => "dj_overdose_waste_no_time.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => "Electro",
-                    "artist" => "DJ Overdose",
-                    "label" => "Going Bananas",
-                    "tracks" => [
-                        ["title" => "Waste No Time", "duration" => "7:14"],
-                        ["title" => "Express", "duration" => "8:30"]
                     ]
                 ],
                 [
@@ -1130,227 +437,6 @@ return [
                         ["title" => "Optica - Dolcevita", "duration" => "5:12"],
                         ["title" => "Optica - Hashidity", "duration" => "6:53"],
                         ["title" => "Optica - Macrorobotic", "duration" => "7:23"]
-                    ]
-                ],
-                [
-                    "title" => "Nonetheless - Atto EP",
-                    "price" => 17.50,
-                    "image" => "nonetheless_atto.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["IDM", "Downtempo"],
-                    "artist" => "Nonetheless",
-                    "label" => "Neubau",
-                    "tracks" => [
-                        ["title" => "Oboanova", "duration" => "7:40"],
-                        ["title" => "Gore", "duration" => "7:15"],
-                        ["title" => "Behind Walls", "duration" => "6:42"],
-                        ["title" => "Sumber", "duration" => "7:33"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "Blutopia Roma",
-            "address" => "Via del Pigneto, 116",
-            "logo" => "blutopia.jpg",
-            "description" => "Sale records (vinyl/ cd), books, videos (new and used), listening space, reading and consultation, lab.",
-            "images" => [
-                "blutopia_1.jpg",
-                "blutopia_2.jpg",
-                "blutopia_3.jpg",
-                "blutopia_4.jpg",
-                "blutopia_5.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "The Clash - London Calling",
-                    "price" => 28.00,
-                    "image" => "the_clash_london_calling.jpg",
-                    "year" => 2015,
-                    "genres" => "Rock",
-                    "styles" => ["New Wave", "Punk"],
-                    "artist" => "The Clash",
-                    "label" => "Sony Music",
-                    "tracks" => [
-                        ["title" => "London Calling", "duration" => "3:18"],
-                        ["title" => "Brand New Cadillac", "duration" => "2:09"],
-                        ["title" => "Jimmy Jazz", "duration" => "3:55"],
-                        ["title" => "Hateful", "duration" => "2:47"],
-                        ["title" => "Rudie Can't Fail", "duration" => "3:27"],
-                        ["title" => "Spanish Bombs", "duration" => "3:18"],
-                        ["title" => "The Right Profile", "duration" => "3:53"],
-                        ["title" => "Lost In The Supermarket", "duration" => "3:47"],
-                        ["title" => "Clampdown", "duration" => "3:50"],
-                        ["title" => "The Guns Of Brixton", "duration" => "3:12"],
-                        ["title" => "Wrong 'Em Boyo", "duration" => "3:10"],
-                        ["title" => "Death Or Glory", "duration" => "3:55"],
-                        ["title" => "Koka Kola", "duration" => "1:49"],
-                        ["title" => "The Card Cheat", "duration" => "3:50"],
-                        ["title" => "Lover's Rock", "duration" => "4:01"],
-                        ["title" => "Four Horsemen", "duration" => "3:00"],
-                        ["title" => "I'm Not Down", "duration" => "3:00"],
-                        ["title" => "Revolution Rock", "duration" => "5:36"],
-                        ["title" => "Train In Vain", "duration" => "3:10"]
-                    ]
-                ],
-                [
-                    "title" => "Lucio Dalla - Lucio Dalla",
-                    "price" => 33.00,
-                    "image" => "lucio_dalla_lucio_dalla.jpg",
-                    "year" => 2023,
-                    "genres" => "Pop",
-                    "styles" => ["Psychedelic Rock", "Rhythm & Blues"],
-                    "artist" => "Lucio Dalla",
-                    "label" => "Sony Music",
-                    "tracks" => [
-                        ["title" => "L'ultima Luna", "duration" => "4:28"],
-                        ["title" => "Stella Di Mare", "duration" => "5:19"],
-                        ["title" => "La Signora", "duration" => "5:45"],
-                        ["title" => "Milano", "duration" => "6:37"],
-                        ["title" => "Anna E Marco", "duration" => "6:20"],
-                        ["title" => "Tango", "duration" => "5:11"],
-                        ["title" => "Cosa Sarà", "duration" => "4:55"],
-                        ["title" => "L'anno Che Verrà", "duration" => "5:48"]
-                    ]
-                ],
-                [
-                    "title" => "Frank Sinatra - The Sinatra Christmas Album",
-                    "price" => 10.00,
-                    "image" => "frank_sinatra_the_sinatra_christmas_album.jpg",
-                    "year" => 1986,
-                    "genres" => ["Pop", "Jazz"],
-                    "styles" => ["Big Band", "Holiday"],
-                    "artist" => "Frank Sinatra",
-                    "label" => "Capitol Records",
-                    "tracks" => [
-                        ["title" => "Jingle Bells", "duration" => "1:57"],
-                        ["title" => "The Christmas Song", "duration" => "2:25"],
-                        ["title" => "Mistletoe And Holly", "duration" => "2:14"],
-                        ["title" => "I'll Be Home For Christmas", "duration" => "3:09"],
-                        ["title" => "The Christmas Waltz", "duration" => "3:00"],
-                        ["title" => "Have Yourself A Merry Little Christmas", "duration" => "5:11"],
-                        ["title" => "Cosa Sarà", "duration" => "3:25"],
-                        ["title" => "The First No&euml;l", "duration" => "2:35"],
-                        ["title" => "Hark! The Herald Angels Sing", "duration" => "2:21"],
-                        ["title" => "O Little Town Of Bethlehem", "duration" => "2:05"],
-                        ["title" => "Adeste Fideles", "duration" => "2:35"],
-                        ["title" => "It Came Upon A Midnight Clear", "duration" => "2:25"],
-                        ["title" => "Silent Night", "duration" => "2:25"]
-                    ]
-                ],
-                [
-                    "title" => "The Cure - Lovesong",
-                    "price" => 20.00,
-                    "image" => "the_cure_lovesong.jpg",
-                    "year" => 1989,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Alternative Rock", "New Wave", "Synth-pop"],
-                    "artist" => "The Cure",
-                    "label" => "Fiction Records",
-                    "tracks" => [
-                        ["title" => "Lovesong (Extended Mix)", "duration" => "6:17"],
-                        ["title" => "2 Late", "duration" => "2:39"],
-                        ["title" => "Fear Of Ghosts", "duration" => "6:49"]
-                    ]
-                ],
-                [
-                    "title" => "Simple Minds - New Gold Dream",
-                    "price" => 8.00,
-                    "image" => "simple_minds_new_gold_dream.jpg",
-                    "year" => 1982,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["New Wave", "Synth-pop"],
-                    "artist" => "Simple Minds",
-                    "label" => "Virgin",
-                    "tracks" => [
-                        ["title" => "Someone Somewhere In Summertime", "duration" => "4:35"],
-                        ["title" => "Colours Fly And Catherine Wheel", "duration" => "3:49"],
-                        ["title" => "Promised You A Miracle", "duration" => "4:26"],
-                        ["title" => "Big Sleep", "duration" => "4:59"],
-                        ["title" => "Somebody Up There Likes You", "duration" => "4:58"],
-                        ["title" => "New Gold Dream (81-82-83-84)", "duration" => "5:40"],
-                        ["title" => "Glittering Prize", "duration" => "4:33"],
-                        ["title" => "Hunter And The Hunted", "duration" => "5:54"],
-                        ["title" => "King Is White And In The Crowd", "duration" => "6:57"]
-                    ]
-                ],
-                [
-                    "title" => "Positive Noise - Give Me Passion",
-                    "price" => 5.00,
-                    "image" => "positive_noise_give_me_passion.jpg",
-                    "year" => 1981,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["New Wave", "Synth-pop"],
-                    "artist" => "Positive Noise",
-                    "label" => "Statik Records",
-                    "tracks" => [
-                        ["title" => "Give Me Passion", "duration" => "7:17"],
-                        ["title" => "Ghosts", "duration" => "6:30"]
-                    ]
-                ],
-                [
-                    "title" => "Simple Minds - Sister Feelings Call",
-                    "price" => 3.00,
-                    "image" => "simple_minds_sister_feelings_call.jpg",
-                    "year" => 1981,
-                    "genres" => "Electronic",
-                    "styles" => ["New Wave", "Synth-pop"],
-                    "artist" => "Simple Minds",
-                    "label" => "Virgin",
-                    "tracks" => [
-                        ["title" => "Theme For Great Cities", "duration" => "5:50"],
-                        ["title" => "The American", "duration" => "3:50"],
-                        ["title" => "20th Century Promised Land", "duration" => "4:23"],
-                        ["title" => "Wonderful In Young Life", "duration" => "5:20"],
-                        ["title" => "League Of Nations", "duration" => "4:56"],
-                        ["title" => "Careful In Career", "duration" => "5:08"],
-                        ["title" => "Sound In 70 Cities", "duration" => "5:04"]
-                    ]
-                ],
-                [
-                    "title" => "Marshall Jefferson Presents Truth - Open Hour",
-                    "price" => 10.00,
-                    "image" => "marshall_jefferson_presents_truth_open_hour.jpg",
-                    "year" => 1988,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House"],
-                    "artist" => "Marshall Jefferson",
-                    "label" => "Big Beat",
-                    "tracks" => [
-                        ["title" => "Open Our Eyes (Celestial Mix)", "duration" => "7:09"],
-                        ["title" => "Open Our Eyes (The Enlightenment)", "duration" => "6:00"],
-                        ["title" => "Open Our Eyes (Spiritual Mix)", "duration" => "7:01"],
-                        ["title" => "Open Our Eyes (Marshall's Elevated Dub)", "duration" => "6:19"]
-                    ]
-                ],
-                [
-                    "title" => "Inner City - Good Life",
-                    "price" => 5.00,
-                    "image" => "inner_city_good_life.jpg",
-                    "year" => 1988,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno"],
-                    "artist" => "Inner City",
-                    "label" => "10 Records",
-                    "tracks" => [
-                        ["title" => "Good Life (Master Reese Edit)", "duration" => "3:59"],
-                        ["title" => "Good Life (Instrumental)", "duration" => "5:12"]
-                    ]
-                ],
-                [
-                    "title" => "Duran Duran - Burning The Ground",
-                    "price" => 2.00,
-                    "image" => "duran_duran_burning_the_ground.jpg",
-                    "year" => 1989,
-                    "genres" => ["Electronic", "Pop"],
-                    "styles" => ["House", "Synth-pop"],
-                    "artist" => "Duran Duran",
-                    "label" => "EMI",
-                    "tracks" => [
-                        ["title" => "Burning The Ground", "duration" => "6:59"],
-                        ["title" => "Decadance", "duration" => "6:12"]
                     ]
                 ]
             ]
@@ -1396,19 +482,21 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Kraftwerk - Early Live In Germany",
-                    "price" => 19.99,
-                    "image" => "kraftwerk_early_live_in_germany.jpg",
-                    "year" => 2022,
+                    "title" => "Kraftwerk - Die Mensch-Maschine",
+                    "price" => 9.16,
+                    "image" => "kraftwerk_die_mensch_maschine.jpg",
+                    "year" => 1978,
                     "genres" => "Electronic",
-                    "styles" => "Experimental",
+                    "styles" => ["Electro", "Synth-Pop", "Disco"],
                     "artist" => "Kraftwerk",
-                    "label" => "Outsider Records",
+                    "label" => "Capitol Records",
                     "tracks" => [
-                        ["title" => "Vom Himmel Hoch", "duration" => "5:48"],
-                        ["title" => "Ruckzuck", "duration" => "6:59"],
-                        ["title" => "Stratovarius (AKA Heavy Metal Kids)", "duration" => "4:50"],
-                        ["title" => "Megaherz (AKA Improvisation 1)", "duration" => "7:17"]
+                        ["title" => "Die Roboter", "duration" => "6:11"],
+                        ["title" => "Spacelab", "duration" => "5:51"],
+                        ["title" => "Metropolis", "duration" => "5:59"],
+                        ["title" => "Dan Modell", "duration" => "3:38"],
+                        ["title" => "Neonlicht", "duration" => "9:03"],
+                        ["title" => "Die Mensch · Maschine", "duration" => "5:28"]
                     ]
                 ],
                 [
@@ -1428,34 +516,233 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Radiohead - The Year Of The Mud",
-                    "price" => 29.99,
-                    "image" => "radiohead_the_year_of_the_mud.jpg",
-                    "year" => 2023,
-                    "genres" => "Rock",
-                    "styles" => ["Alternative Rock","Indie Rock"],
-                    "artist" => "Radiohead",
-                    "label" => "Cat Wreck Rec.",
+                    "title" => "House Of Gypsies - Samba",
+                    "price" => 5.00,
+                    "image" => "house_of_gypsies_samba.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => "House",
+                    "artist" => "House Of Gypsies",
+                    "label" => "UMM",
                     "tracks" => [
-                        ["title" => "Lucky", "duration" => "5:48"],
-                        ["title" => "My Iron Lunk", "duration" => "6:59"],
-                        ["title" => "Planet Telex", "duration" => "8:30"],
+                        ["title" => "Samba (Tee's Freeze Mix)", "duration" => "5:42"],
+                        ["title" => "Kool Life (Classic Dub)", "duration" => "5:51"],
+                        ["title" => "Samba (Extended Mix)", "duration" => "5:05"]
+                    ]
+                ],
+                [
+                    "title" => "LFO - Peel Session TX 20/10/90",
+                    "price" => 23.00,
+                    "image" => "lfo_peel_session_tx.jpg",
+                    "year" => 2019,
+                    "genres" => "Electronic",
+                    "styles" => ["IDM", "Techno"],
+                    "artist" => "LFO",
+                    "label" => "Warp Records",
+                    "tracks" => [
+                        ["title" => "Take Control", "duration" => "7:01"],
+                        ["title" => "To The Limit", "duration" => "6:15"],
+                        ["title" => "Rob's Nightmare", "duration" => "6:30"],
+                        ["title" => "Lost World", "duration" => "5:30"]
+                    ]
+                ],
+                [
+                    "title" => "Tear For Fears - Elemental",
+                    "price" => 1.30,
+                    "image" => "tears_for_fears_elemental.jpg",
+                    "year" => 1993,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Pop Rock", "Synth-pop"],
+                    "artist" => "Tears For Fears",
+                    "label" => "Mercury",
+                    "tracks" => [
+                        ["title" => "Elemental", "duration" => "5:31"],
+                        ["title" => "Cold", "duration" => "5:06"],
+                        ["title" => "Break It Down Again", "duration" => "4:32"],
+                        ["title" => "Mr. Pessimist", "duration" => "6:17"],
+                        ["title" => "Dog's A Best Friend's Dog", "duration" => "3:38"],
+                        ["title" => "Fish Out Of Water", "duration" => "5:07"],
+                        ["title" => "Gas Giants", "duration" => "2:41"],
+                        ["title" => "Power", "duration" => "5:50"],
+                        ["title" => "Brian Wilson Said", "duration" => "4:22"],
+                        ["title" => "Goodnight Song", "duration" => "3:53"]
+                    ]
+                ],
+                [
+                    "title" => "Daft Punk - Human After All",
+                    "price" => 32.00,
+                    "image" => "daft_punk_human_after_all.jpg",
+                    "year" => 2022,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Abstract", "Electro", "Experimental"],
+                    "artist" => "Daft Punk",
+                    "label" => "Virgin",
+                    "tracks" => [
+                        ["title" => "Human After All", "duration" => "5:20"],
+                        ["title" => "The Prime Time Of Your Life", "duration" => "4:23"],
+                        ["title" => "Robot Rock", "duration" => "4:26"],
+                        ["title" => "Steam Machine", "duration" => "5:21"],
+                        ["title" => "Make Love", "duration" => "4:49"],
+                        ["title" => "The Brainwasher", "duration" => "4:08"],
+                        ["title" => "On/Off", "duration" => "0:19"],
+                        ["title" => "Television Rules The Nation", "duration" => "4:46"],
+                        ["title" => "Technologic", "duration" => "4:43"],
+                        ["title" => "Emotion", "duration" => "6:57"]
+                    ]
+                ],
+                [
+                    "title" => "Aphex Twin - Selected Ambient Works 85-92",
+                    "price" => 27.50,
+                    "image" => "aphex_twin_selected_ambient_works_85_92.jpg",
+                    "year" => 2021,
+                    "genres" => "Electronic",
+                    "styles" => ["IDM", "Experimental", "Techno", "Electro", "Ambient"],
+                    "artist" => "Aphex Twin",
+                    "label" => "Apollo",
+                    "tracks" => [
+                        ["title" => "Xtal", "duration" => "4:51"],
+                        ["title" => "Tha", "duration" => "9:01"],
+                        ["title" => "Pulsewidth", "duration" => "3:47"],
+                        ["title" => "Ageispolis", "duration" => "5:21"],
+                        ["title" => "I", "duration" => "1:13"],
+                        ["title" => "Green Calx", "duration" => "6:02"],
+                        ["title" => "Heliosphan", "duration" => "4:51"],
+                        ["title" => "We Are The Music Makers", "duration" => "7:42"],
+                        ["title" => "Schottkey 7th Path", "duration" => "5:07"],
+                        ["title" => "Ptolemy", "duration" => "7:12"],
+                        ["title" => "Hedphelym", "duration" => "6:02"],
+                        ["title" => "Delphium", "duration" => "5:36"],
+                        ["title" => "Actium", "duration" => "7:35"]
+                    ]
+                ],
+                [
+                    "title" => "The Beatles - Love Songs",
+                    "price" => 60.00,
+                    "image" => "the_beatles_love_songs.jpg",
+                    "year" => 1977,
+                    "genres" => ["Pop", "Rock"],
+                    "styles" => ["Soft Rock", "Pop Rock"],
+                    "artist" => "The Beatles",
+                    "label" => "Capitol Records",
+                    "tracks" => [
+                        ["title" => "Yesterday", "duration" => "2:04"],
+                        ["title" => "I'll Follow The Sun", "duration" => "1:48"],
+                        ["title" => "I Need You", "duration" => "2:28"],
+                        ["title" => "Girl", "duration" => "2:26"],
+                        ["title" => "In My Life", "duration" => "2:23"],
+                        ["title" => "Words Of Love", "duration" => "2:10"],
+                        ["title" => "Here, There And Everywhere", "duration" => "2:26"],
+                        ["title" => "Something", "duration" => "3:03"],
+                        ["title" => "And I Love her", "duration" => "2:28"],
+                        ["title" => "If I Fell", "duration" => "2:19"],
+                        ["title" => "I'll Be Back", "duration" => "2:22"],
+                        ["title" => "Tell Me What You See", "duration" => "2:35"],
+                        ["title" => "Yes It Is", "duration" => "2:40"],
+                        ["title" => "Michelle", "duration" => "2:42"],
+                        ["title" => "It's Only Love", "duration" => "1:53"],
+                        ["title" => "You're Going To Lose That Girl", "duration" => "2:18"],
+                        ["title" => "Every Little Thing", "duration" => "2:01"],
+                        ["title" => "For No One", "duration" => "2:00"],
+                        ["title" => "She's Leaving Home", "duration" => "3:36"],
+                        ["title" => "The Long And Winding Road", "duration" => "3:40"],
+                        ["title" => "This Boy", "duration" => "2:11"],
+                        ["title" => "Norwegian Wood (This Bird Has Flown)", "duration" => "2:00"],
+                        ["title" => "You've Got To Hide Your Love Away", "duration" => "2:08"],
+                        ["title" => "I Will", "duration" => "1:53"],
+                        ["title" => "P.S. I Love You", "duration" => "2:02"]
+                    ]
+                ],
+                [
+                    "title" => "The Blow Monkeys - Springtime For The World",
+                    "price" => 6.50,
+                    "image" => "the_blow_monkeys_springtime_for_the_world.jpg",
+                    "year" => 1990,
+                    "genres" => "Electronic",
+                    "styles" => ["Synth-pop", "Downtempo"],
+                    "artist" => "The Blow Monkeys",
+                    "label" => "RCA",
+                    "tracks" => [
+                        ["title" => "In Too Deep", "duration" => "4:33"],
+                        ["title" => "Springtime For The World", "duration" => "3:25"],
+                        ["title" => "Vibe Alive!", "duration" => "2:50"],
+                        ["title" => "Reflections '89", "duration" => "2:57"],
+                        ["title" => "Be Not Afraid", "duration" => "6:54"],
+                        ["title" => "If You Love Somebody", "duration" => "5:08"],
+                        ["title" => "La Passionara", "duration" => "4:43"],
+                        ["title" => "Let The People Dance", "duration" => "3:43"],
+                        ["title" => "Fruits Of The Earth", "duration" => "4:43"],
+                        ["title" => "As The Dust Settles", "duration" => "6:02"]
+                    ]
+                ],
+                [
+                    "title" => "Various - Astramix",
+                    "price" => 4.50,
+                    "image" => "various_astramix.jpg",
+                    "year" => 1983,
+                    "genres" => ["Electronic", "Funk / Soul"],
+                    "styles" => ["Italo-Disco", "Disco"],
+                    "artist" => "Various",
+                    "label" => "System Music",
+                    "tracks" => [
+                        ["title" => "Stefano Pulga - Love Taker", "duration" => "3:26"],
+                        ["title" => "Deborah Kinley - Guerilla", "duration" => "3:17"],
+                        ["title" => "Sphinx - Bad Girl", "duration" => "2:44"],
+                        ["title" => "Endgames - First, Last, For Everything", "duration" => "2:11"],
+                        ["title" => "Sahara - Turn Another Page", "duration" => "2:40"],
+                        ["title" => "Samoa Park - Tubular Affair", "duration" => "3:46"],
+                        ["title" => "Raynard J. - Takin' Me To Paradise", "duration" => "3:33"],
+                        ["title" => "Kano - Ikeya-Seki", "duration" => "1:06"],
+                        ["title" => "Kex - Go Go Go", "duration" => "4:29"],
+                        ["title" => "Unique - What I Got Is What You Need", "duration" => "4:33"],
+                        ["title" => "Mezzoforte - Garden Party", "duration" => "2:18"],
+                        ["title" => "Club Rap - But !", "duration" => "1:56"]
+                    ]
+                ],
+                [
+                    "title" => "Led Zeppelin - Led Zeppelin III",
+                    "price" => 36.00,
+                    "image" => "led_zeppelin_led_zeppelin.jpg",
+                    "year" => 2014,
+                    "genres" => "Rock",
+                    "styles" => ["Classic Rock", "Hard Rock"],
+                    "artist" => "Led Zeppelin",
+                    "label" => "Atlantic",
+                    "tracks" => [
+                        ["title" => "Immigrant", "duration" => "2:26"],
+                        ["title" => "Friends", "duration" => "3:53"],
+                        ["title" => "Celebration Day", "duration" => "3:30"],
+                        ["title" => "Since I've Been Loving You", "duration" => "7:24"],
+                        ["title" => "Out On The Tiles", "duration" => "3:05"],
+                        ["title" => "Gallows Pole", "duration" => "4:07"],
+                        ["title" => "Tangerine", "duration" => "3:11"],
+                        ["title" => "That's The Way", "duration" => "5:37"],
+                        ["title" => "Bron-Y-Aur Stomp", "duration" => "4:17"],
+                        ["title" => "Hats Off To (Roy) Harper", "duration" => "3:45"]
+                    ]
+                ],
+                [
+                    "title" => "Radiohead - OK Computer",
+                    "price" => 29.99,
+                    "image" => "radiohead_ok_computer.jpg",
+                    "year" => 1997,
+                    "genres" => ["Rock", "Electronic"],
+                    "styles" => "Alternative Rock",
+                    "artist" => "Radiohead",
+                    "label" => "Parlophone",
+                    "tracks" => [
+                        ["title" => "Airbag", "duration" => "5:48"],
+                        ["title" => "Paranoid Android", "duration" => "6:59"],
+                        ["title" => "Subterranean Homesick Alien", "duration" => "8:30"],
                         ["title" => "Exit Music", "duration" => "7:22"],
-                        ["title" => "The Bends", "duration" => "8:10"],
-                        ["title" => "Nice Dream", "duration" => "7:30"],
-                        ["title" => "Paranoid Android", "duration" => "8:28"],
+                        ["title" => "Let Down", "duration" => "8:10"],
+                        ["title" => "Karma Police", "duration" => "7:30"],
+                        ["title" => "Fitter Happier", "duration" => "8:28"],
                         ["title" => "Karma Police", "duration" => "6:22"],
-                        ["title" => "Creep", "duration" => "7:17"],
+                        ["title" => "Electioneering", "duration" => "7:17"],
                         ["title" => "Climbing Up The Walls", "duration" => "6:20"],
                         ["title" => "No Surprises", "duration" => "5:15"],
-                        ["title" => "Talk Show Host", "duration" => "7:33"],
-                        ["title" => "Bones", "duration" => "8:10"],
-                        ["title" => "Just", "duration" => "7:14"],
-                        ["title" => "Fake Plastic Tree", "duration" => "8:12"],
-                        ["title" => "You", "duration" => "7:39"],
-                        ["title" => "The Turist", "duration" => "8:12"],
-                        ["title" => "High And Dry", "duration" => "7:02"],
-                        ["title" => "Street Spirit", "duration" => "7:15"]
+                        ["title" => "Lucky", "duration" => "7:33"],
+                        ["title" => "The Tourist", "duration" => "8:10"]
                     ]
                 ],
                 [
@@ -1485,6 +772,30 @@ return [
                     ]
                 ],
                 [
+                    "title" => "Depeche Mode - Memento Mori",
+                    "price" => 57.00,
+                    "image" => "depeche_mode_memento_mori.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock"],
+                    "styles" => ["Synth-pop", "Alternative Rock"],
+                    "artist" => "Depeche Mode",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "My Cosmos Is Mine", "duration" => "5:14"],
+                        ["title" => "Wagging Tongue", "duration" => "3:24"],
+                        ["title" => "Ghosts Again", "duration" => "3:56"],
+                        ["title" => "Don't Say You Love Me", "duration" => "3:47"],
+                        ["title" => "My Favourite Stranger", "duration" => "3:54"],
+                        ["title" => "Soul With Me", "duration" => "4:12"],
+                        ["title" => "Caroline's Monkey", "duration" => "4:16"],
+                        ["title" => "Before We Drown", "duration" => "4:02"],
+                        ["title" => "People Are Good", "duration" => "4:21"],
+                        ["title" => "Always You", "duration" => "4:18"],
+                        ["title" => "Never Let Me Go", "duration" => "3:59"],
+                        ["title" => "Speak To Me", "duration" => "4:33"]
+                    ]
+                ],
+                [
                     "title" => "Transllusion - Mind Over Positive And Negative Dimensional Matter",
                     "price" => 14.98,
                     "image" => "transllusion_mind_over_positive_and_negative_dimension_matter.jpg",
@@ -1500,17 +811,25 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Convextion - R-CNVX1",
-                    "price" => 14.99,
-                    "image" => "convextion_r_cnvx1.jpg",
-                    "year" => 2023,
+                    "title" => "Ricardo Villalobos - Thé Au Harem D'Archimède",
+                    "price" => 7.99,
+                    "image" => "ricardo_villalobos_thé_au_harem_d_archimede.jpg",
+                    "year" => 2004,
                     "genres" => "Electronic",
-                    "styles" => ["Techno","Minimal","Dub Techno"],
-                    "artist" => "Convextion",
-                    "label" => "a.r.t.less",
+                    "styles" => "Minimal Techno",
+                    "artist" => "Ricardo Villalobos",
+                    "label" => "Perlon",
                     "tracks" => [
-                        ["title" => "Venus In Spurs", "duration" => "7:48"],
-                        ["title" => "Crawling And Hungry", "duration" => "6:44"]
+                        ["title" => "Hireklon", "duration" => "14:46"],
+                        ["title" => "Serpentin", "duration" => "9:46"],
+                        ["title" => "For All Seasons", "duration" => "4:29"],
+                        ["title" => "Théorème D'Archimède", "duration" => "6:54"],
+                        ["title" => "Hello Hallo", "duration" => "8:09"],
+                        ["title" => "Temenarc 2", "duration" => "6:02"],
+                        ["title" => "Temenarc 1", "duration" => "7:27"],
+                        ["title" => "Stereobox", "duration" => "5:13"],
+                        ["title" => "Miami", "duration" => "8:58"],
+                        ["title" => "True To Myself", "duration" => "14:16"]
                     ]
                 ],
                 [
@@ -1521,7 +840,7 @@ return [
                     "genres" => ["Electronic","Hip Hop"],
                     "styles" => ["Instrumental","Funk","Trip Hop"],
                     "artist" => "Leo Anibaldi",
-                    "label" => "Neo Life",
+                    "label" => "Cannibald Records",
                     "tracks" => [
                         ["title" => "Cafrica", "duration" => "3:10"],
                         ["title" => "Ariboo", "duration" => "5:30"],
@@ -1596,41 +915,6 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Vasco Rossi - ... Ma Cosa Vuoi Che Sia Una Canzone",
-                    "price" => 5.00,
-                    "image" => "vasco_rossi_ma_cosa_vuoi_che_sia_una_canzone.jpg",
-                    "year" => 2006,
-                    "genres" => "Rock",
-                    "styles" => "Pop Rock",
-                    "artist" => "Vasco Rossi",
-                    "label" => "Corriere Della Sera",
-                    "tracks" => [
-                        ["title" => "La Nostra Relazione", "duration" => "3:00"],
-                        ["title" => "...E Poi Mi Parli Di Una Vita Insieme", "duration" => "4:27"],
-                        ["title" => "Silvia", "duration" => "3:31"],
-                        ["title" => "Tu Che Dormivi Piano", "duration" => "4:17"],
-                        ["title" => "Jenny", "duration" => "7:11"],
-                        ["title" => "Ambarabaciccicoccò", "duration" => "3:38"],
-                        ["title" => "Ed Il Tempo Crea Eroi", "duration" => "3:28"],
-                        ["title" => "Ciao", "duration" => "1:22"]
-                    ]
-                ],
-                [
-                    "title" => "Starfighters - Power Crazy",
-                    "price" => 5.99,
-                    "image" => "starfighters_power_crazy.jpg",
-                    "year" => 1981,
-                    "genres" => "Rock",
-                    "styles" => "Hard Rock",
-                    "artist" => "Starfighters",
-                    "label" => "Jive",
-                    "tracks" => [
-                        ["title" => "Power Crazy", "duration" => "2:52"],
-                        ["title" => "Get Out While You Can (Live)", "duration" => "3:25"],
-                        ["title" => "I Want You (Live)", "duration" => "4:20"]
-                    ]
-                ],
-                [
                     "title" => "Todd Terry - Sound Design Part 1",
                     "price" => 9.99,
                     "image" => "todd_terry_sound_design_part_1.jpg",
@@ -1654,7 +938,7 @@ return [
                     "genres" => "Electronic",
                     "styles" => ["House", "Deep House", "Breaks"],
                     "artist" => "Gemini",
-                    "label" => "Chiwax Classic Edition",
+                    "label" => "Rawax",
                     "tracks" => [
                         ["title" => "Campanula", "duration" => "6:55"],
                         ["title" => "Lifted Life", "duration" => "6:35"],
@@ -1664,35 +948,6 @@ return [
                         ["title" => "In Neutral", "duration" => "8:10"],
                         ["title" => "?", "duration" => "7:25"],
                         ["title" => "De Bass", "duration" => "6:40"]
-                    ]
-                ],
-                [
-                    "title" => "Feneel - Big Ass",
-                    "price" => 4.99,
-                    "image" => "feneel_big_ass.jpg",
-                    "year" => 1996,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "Feneel",
-                    "label" => "Ground Move Records",
-                    "tracks" => [
-                        ["title" => "Big Ass (Hard Version)", "duration" => "4:56"],
-                        ["title" => "Big Ass (Sensual Version)", "duration" => "6:08"],
-                        ["title" => "Big Ass (Black Sun Version)", "duration" => "3:14"]
-                    ]
-                ],
-                [
-                    "title" => "Atex - Senseless Soul",
-                    "price" => 5.99,
-                    "image" => "atex_senseless_soul.jpg",
-                    "year" => 1998,
-                    "genres" => "Electronic",
-                    "styles" => ["House","Trance"],
-                    "artist" => "Atex",
-                    "label" => "Nerve",
-                    "tracks" => [
-                        ["title" => "Senseless Soul (Wizard House Edit)", "duration" => "6:28"],
-                        ["title" => "Senseless Soul (Witsch Club Edit)", "duration" => "8:37"]
                     ]
                 ],
                 [
@@ -1711,22 +966,6 @@ return [
                         ["title" => "Chill Out Space", "duration" => "5:03"],
                         ["title" => "Closed Worlds", "duration" => "6:35"]
                     ]
-                ],
-                [
-                    "title" => "Frédéric De Backer - Untitled",
-                    "price" => 4.99,
-                    "image" => "frederic_de_backer_untitled.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => ["Techno","Trance", "House"],
-                    "artist" => "Frédéric De Backer",
-                    "label" => "S.O.B. (Sound Of The Bomb)",
-                    "tracks" => [
-                        ["title" => "Dance - Acid Drop (Piano Mix)", "duration" => "4:36"],
-                        ["title" => "Human Nation - Pleasure", "duration" => "4:46"],
-                        ["title" => "Black Lips - Recharge", "duration" => "4:48"],
-                        ["title" => "Piano's Party - Spacial", "duration" => "3:12"]
-                    ]
                 ]
             ]
         ],
@@ -1744,18 +983,145 @@ return [
             ],
             "vinyls" => [
                 [
-                    "title" => "Underground Science - COMA",
-                    "price" => 14.99,
-                    "image" => "underground_science_coma.jpg",
-                    "year" => 1994,
+                    "title" => "Ricardo Villalobos - Empirical House LP",
+                    "price" => 31.99,
+                    "image" => "ricardo_villalobos_empirical_house_lp.jpg",
+                    "year" => 2017,
                     "genres" => "Electronic",
-                    "styles" => ["Techno", "Trance"],
-                    "artist" => "Underground Science",
-                    "label" => "Lo Voltage",
+                    "styles" => ["Deep House", "Minimal Techno"],
+                    "artist" => "Ricardo Villalobos",
+                    "label" => "[a:rpia:r]",
                     "tracks" => [
-                        ["title" => "Coma", "duration" => "5:30"],
-                        ["title" => "The Tempest", "duration" => "6:59"],
-                        ["title" => "Uranus", "duration" => "7:55"]
+                        ["title" => "Widodo", "duration" => "11:59"],
+                        ["title" => "Bakasecc", "duration" => "12:28"],
+                        ["title" => "Subpad", "duration" => "12:24"],
+                        ["title" => "Empirical House", "duration" => "13:26"]
+                    ]
+                ],
+                [
+                    "title" => "Ennio Morricone - Gli Arrangiamenti E L'Orchestra Di Ennio Morricone",
+                    "price" => 25.00,
+                    "image" => "gli_arrangiamenti_e_l'orchestra_di_ennio_morricone.jpg",
+                    "year" => 1983,
+                    "genres" => ["Electronic", "Jazz", "Pop", "Classical"],
+                    "styles" => ["Neo-Classical", "Big Band", "Synth-pop", "Post-Modern", "Experimental", "Neo-Romantic"],
+                    "artist" => "Ennio Morricone",
+                    "label" => "RCA",
+                    "tracks" => [
+                        ["title" => "'E Spingole Francese", "duration" => "3:02"],
+                        ["title" => "Parlami D'Amore Mariù", "duration" => "2:22"],
+                        ["title" => "Tu, Ca Nun Chiagne!", "duration" => "2:21"],
+                        ["title" => "Io Che Amo Solo Te", "duration" => "2:39"],
+                        ["title" => "Tu Non Mi Lascerai", "duration" => "3:10"],
+                        ["title" => "Che Cosa C'È", "duration" => "2:31"],
+                        ["title" => "Amorevole", "duration" => "5:28"],
+                        ["title" => "Maria Marì", "duration" => "3:25"],
+                        ["title" => "Bocca Nel Buio", "duration" => "2:36"],
+                        ["title" => "Come Le Rose", "duration" => "2:46"],
+                        ["title" => "Fascination", "duration" => "2:44"],
+                        ["title" => "Scetate", "duration" => "4:56"],
+                        ["title" => "Piove (Ciao, Ciao Bambina)", "duration" => "2:28"],
+                        ["title" => "Ninì Tirabusciò", "duration" => "1:26"]
+                    ]
+                ],
+                [
+                    "title" => "D.J. Pierre - Love Trax",
+                    "price" => 4.99,
+                    "image" => "dj_pierre_love_trax.jpg",
+                    "year" => 1992,
+                    "genres" => "Electronic",
+                    "styles" => ["House", "Deep House"],
+                    "artist" => "D.J. Pierre",
+                    "label" => "Strictly Rhythm",
+                    "tracks" => [
+                        ["title" => "Love Izz", "duration" => "5:55"],
+                        ["title" => "Happyness", "duration" => "6:45"],
+                        ["title" => "Distorted Luv", "duration" => "13:19"]
+                    ]
+                ],
+                [
+                    "title" => "Giovanni Allevi - Joy",
+                    "price" => 0.90,
+                    "image" => "giovanni_allevi_joy.jpg",
+                    "year" => 2006,
+                    "genres" => ["Jazz", "Classical"],
+                    "styles" => ["Modern", "Neo-Classical", "Contemporary Jazz"],
+                    "artist" => "Giovanni Allevi",
+                    "label" => "Ricordi",
+                    "tracks" => [
+                        ["title" => "Panic", "duration" => "4:40"],
+                        ["title" => "Portami Via", "duration" => "4:10"],
+                        ["title" => "Downtown", "duration" => "4:33"],
+                        ["title" => "Water Dance", "duration" => "4:11"],
+                        ["title" => "Viaggio In Aereo", "duration" => "2:33"],
+                        ["title" => "Follow You", "duration" => "5:31"],
+                        ["title" => "Vento D'Europa", "duration" => "5:27"],
+                        ["title" => "L'Orologio Degli Dèi", "duration" => "6:27"],
+                        ["title" => "Back To Life", "duration" => "4:39"],
+                        ["title" => "Jazzmatic", "duration" => "3:43"],
+                        ["title" => "Il Bacio", "duration" => "3:33"],
+                        ["title" => "New Renaissance", "duration" => "3:37"]
+                    ]
+                ],
+                [
+                    "title" => "The XX - Coexist",
+                    "price" => 42.00,
+                    "image" => "the_xx_coexist.jpg",
+                    "year" => 2023,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["Alternative Rock", "Indie Rock"],
+                    "artist" => "The XX",
+                    "label" => "Young Turks",
+                    "tracks" => [
+                        ["title" => "Angels", "duration" => "6:30"],
+                        ["title" => "Chained", "duration" => "7:00"],
+                        ["title" => "Fiction", "duration" => "6:57"],
+                        ["title" => "Try", "duration" => "5:40"],
+                        ["title" => "Reunion", "duration" => "7:07"],
+                        ["title" => "Sunset", "duration" => "5:08"],
+                        ["title" => "Missing", "duration" => "7:14"],
+                        ["title" => "Tides", "duration" => "8:10"],
+                        ["title" => "Unfold", "duration" => "7:20"],
+                        ["title" => "Swept Away", "duration" => "6:01"],
+                        ["title" => "Our Song", "duration" => "5:50"]
+                    ]
+                ],
+                [
+                    "title" => "Pink Floyd - The Wall",
+                    "price" => 40.00,
+                    "image" => "pink_floyd_the_wall.jpg",
+                    "year" => 2016,
+                    "genres" => "Rock",
+                    "styles" => ["Prog Rock", "Classic Rock"],
+                    "artist" => "Pink Floyd",
+                    "label" => "Pink Floyd Records",
+                    "tracks" => [
+                        ["title" => "In The Flesh?", "duration" => "3:16"],
+                        ["title" => "The Thin Ice", "duration" => "2:27"],
+                        ["title" => "Another Brick In The Wall Part 1", "duration" => "3:11"],
+                        ["title" => "The Happiest Days Of Our Lives", "duration" => "1:46"],
+                        ["title" => "Another Brick In The Wall Part 2", "duration" => "3:59"],
+                        ["title" => "Mother", "duration" => "5:32"],
+                        ["title" => "Goodbye Blue Sky", "duration" => "2:45"],
+                        ["title" => "Empty Spaces", "duration" => "2:10"],
+                        ["title" => "Young Lust", "duration" => "3:25"],
+                        ["title" => "One Of My Turns", "duration" => "3:41"],
+                        ["title" => "Don't Leave Me Now", "duration" => "4:08"],
+                        ["title" => "Another Brick In The Wall Part 3", "duration" => "1:18"],
+                        ["title" => "Goodbye Cruel World", "duration" => "1:16"],
+                        ["title" => "Hey You", "duration" => "4:40"],
+                        ["title" => "Is There Anybody Out There?", "duration" => "2:44"],
+                        ["title" => "Nobody Home", "duration" => "3:26"],
+                        ["title" => "Vera", "duration" => "1:35"],
+                        ["title" => "Bring The Boys Back Home", "duration" => "1:21"],
+                        ["title" => "Comfortably Numb", "duration" => "6:23"],
+                        ["title" => "The Show Must Go On", "duration" => "1:36"],
+                        ["title" => "In The Flesh", "duration" => "4:15"],
+                        ["title" => "Run Like Hell", "duration" => "4:20"],
+                        ["title" => "Waiting For The Worms", "duration" => "4:04"],
+                        ["title" => "Stop", "duration" => "0:30"],
+                        ["title" => "The Trial", "duration" => "5:13"],
+                        ["title" => "Outside The Wall", "duration" => "1:41"]
                     ]
                 ],
                 [
@@ -1772,6 +1138,78 @@ return [
                         ["title" => "One Bedroom Apartment", "duration" => "7:21"],
                         ["title" => "Detroit Express", "duration" => "5:09"],
                         ["title" => "Return Of The Speaker People (Kausto's Sudden Aphasia Mix)", "duration" => "5:46"]
+                    ]
+                ],
+                [
+                    "title" => "Bob Dylan - Under The Red Sky",
+                    "price" => 9.99,
+                    "image" => "bob_dylan_under_the_red_sky.jpg",
+                    "year" => 1990,
+                    "genres" => ["Pop", "Rock"],
+                    "styles" => "Rock & Roll",
+                    "artist" => "Bob Dylan",
+                    "label" => "CBS",
+                    "tracks" => [
+                        ["title" => "Wiggle Wiggle", "duration" => "2:09"],
+                        ["title" => "Under The Red Sky", "duration" => "4:08"],
+                        ["title" => "Unbelievable", "duration" => "4:05"],
+                        ["title" => "Born In Time", "duration" => "3:38"],
+                        ["title" => "T.V. Talkin' Song", "duration" => "3:01"],
+                        ["title" => "10.000 Men", "duration" => "4:21"],
+                        ["title" => "2x2", "duration" => "3:36"],
+                        ["title" => "God Knows", "duration" => "3:02"],
+                        ["title" => "Handy Dandy", "duration" => "4:01"],
+                        ["title" => "Cat's In The Well", "duration" => "3:20"]
+                    ]
+                ],
+                [
+                    "title" => "Franco Battiato - La Voce Del Padrone",
+                    "price" => 40.00,
+                    "image" => "franco_battiato_la_voce_del_padrone.jpg",
+                    "year" => 2021,
+                    "genres" => ["Electronic", "Rock", "Pop"],
+                    "styles" => ["New Wave", "Pop Rock", "Synth-pop"],
+                    "artist" => "Franco Battiato",
+                    "label" => "EMI",
+                    "tracks" => [
+                        ["title" => "Summer on a Solitary Beach", "duration" => "6:16"],
+                        ["title" => "Bandiera Bianca", "duration" => "4:58"],
+                        ["title" => "Gli Uccelli", "duration" => "4:40"],
+                        ["title" => "Cuccurucucu", "duration" => "6:09"],
+                        ["title" => "Segnali Di Vita", "duration" => "5:04"],
+                        ["title" => "Centro Di Gravità Permanente", "duration" => "7:08"],
+                        ["title" => "Sentimiento Nuevo", "duration" => "5:14"]
+                    ]
+                ],
+                [
+                    "title" => "The Clash - London Calling",
+                    "price" => 28.00,
+                    "image" => "the_clash_london_calling.jpg",
+                    "year" => 2015,
+                    "genres" => "Rock",
+                    "styles" => ["New Wave", "Punk"],
+                    "artist" => "The Clash",
+                    "label" => "Sony Music",
+                    "tracks" => [
+                        ["title" => "London Calling", "duration" => "3:18"],
+                        ["title" => "Brand New Cadillac", "duration" => "2:09"],
+                        ["title" => "Jimmy Jazz", "duration" => "3:55"],
+                        ["title" => "Hateful", "duration" => "2:47"],
+                        ["title" => "Rudie Can't Fail", "duration" => "3:27"],
+                        ["title" => "Spanish Bombs", "duration" => "3:18"],
+                        ["title" => "The Right Profile", "duration" => "3:53"],
+                        ["title" => "Lost In The Supermarket", "duration" => "3:47"],
+                        ["title" => "Clampdown", "duration" => "3:50"],
+                        ["title" => "The Guns Of Brixton", "duration" => "3:12"],
+                        ["title" => "Wrong 'Em Boyo", "duration" => "3:10"],
+                        ["title" => "Death Or Glory", "duration" => "3:55"],
+                        ["title" => "Koka Kola", "duration" => "1:49"],
+                        ["title" => "The Card Cheat", "duration" => "3:50"],
+                        ["title" => "Lover's Rock", "duration" => "4:01"],
+                        ["title" => "Four Horsemen", "duration" => "3:00"],
+                        ["title" => "I'm Not Down", "duration" => "3:00"],
+                        ["title" => "Revolution Rock", "duration" => "5:36"],
+                        ["title" => "Train In Vain", "duration" => "3:10"]
                     ]
                 ],
                 [
@@ -1854,7 +1292,7 @@ return [
                     "genres" => ["Rock", "Pop"],
                     "styles" => "Pop Rock",
                     "artist" => "Rex Smith",
-                    "label" => "Columbia",
+                    "label" => "CBS",
                     "tracks" => [
                         ["title" => "Camouflage", "duration" => "7:50"],
                         ["title" => "New Romeo", "duration" => "6:35"],
@@ -1876,7 +1314,7 @@ return [
                     "genres" => "Electronic",
                     "styles" => ["Minimal", "Experimental"],
                     "artist" => "Riccardo",
-                    "label" => "Metropolita Recordings",
+                    "label" => "Metropolita recordings",
                     "tracks" => [
                         ["title" => "Giraffe", "duration" => "8:29"],
                         ["title" => "Giraffe (Dubmix)", "duration" => "6:24"],
@@ -1932,134 +1370,6 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Egal 3 - Story E.P.",
-                    "price" => 6.99,
-                    "image" => "egal_3_story.jpg",
-                    "year" => 2014,
-                    "genres" => "Electronic",
-                    "styles" => ["Minimal", "Techno"],
-                    "artist" => "Egal 3",
-                    "label" => "The Rabbit Hole",
-                    "tracks" => [
-                        ["title" => "DumDrum", "duration" => "5:40"],
-                        ["title" => "Rush Hour", "duration" => "7:40"],
-                        ["title" => "Story", "duration" => "5:03"]
-                    ]
-                ],
-                [
-                    "title" => "Samuel Rohrer - Codes Of Nature",
-                    "price" => 22.98,
-                    "image" => "samuel_rohrer_codes_of_nature.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["Minimal", "Electroacoustic", "Experimental", "Abstract", "Breakbeat", "Ambient"],
-                    "artist" => "Samuel Rohrer",
-                    "label" => "Arjunamusic",
-                    "tracks" => [
-                        ["title" => "Body Of Lies", "duration" => "7:40"],
-                        ["title" => "Scapegoat Principle", "duration" => "8:10"],
-                        ["title" => "Fourth Density", "duration" => "8:03"],
-                        ["title" => "The Banality Of Evil", "duration" => "10:26"],
-                        ["title" => "Talking To Nature Spirits", "duration" => "9:58"],
-                        ["title" => "Resurrection", "duration" => "5:23"]
-                    ]
-                ],
-                [
-                    "title" => "Pellegrino & Zodyaco - Malìa",
-                    "price" => 16.99,
-                    "image" => "pellegrino_&_zodyaco_malia.jpg",
-                    "year" => 2023,
-                    "genres" => ["Jazz", "Latin", "Funk / Soul"],
-                    "styles" => ["Disco", "Funk", "Fusion"],
-                    "artist" => "Pellegrino & Zodyaco",
-                    "label" => "Early Sounds Recordings",
-                    "tracks" => [
-                        ["title" => "Malìa", "duration" => "3:48"],
-                        ["title" => "Malìa (Caribbean Escapade)", "duration" => "4:08"]
-                    ]
-                ],
-                [
-                    "title" => "Nudge - Distruzione Vol. 1",
-                    "price" => 9.99,
-                    "image" => "nudge_distruzione_vol_1.jpg",
-                    "year" => 2016,
-                    "genres" => "Hip Hop",
-                    "styles" => "House",
-                    "artist" => "Nudge",
-                    "label" => "P!STA Records",
-                    "tracks" => [
-                        ["title" => "Patience", "duration" => "5:05"],
-                        ["title" => "Busted", "duration" => "4:22"],
-                        ["title" => "Song4AMan", "duration" => "2:28"]
-                    ]
-                ],
-                [
-                    "title" => "Roc Hard - I Want Cha",
-                    "price" => 3.50,
-                    "image" => "roc_hard_i_want_cha.jpg",
-                    "year" => 1993,
-                    "genres" => ["Hip Hop", "Electronic"],
-                    "styles" => ["House", "Boom Bap"],
-                    "artist" => "Roc Hard",
-                    "label" => "Trumpin! Records",
-                    "tracks" => [
-                        ["title" => "I Want Cha (Enzo Club Mix)", "duration" => "7:03"],
-                        ["title" => "I Want Cha (Roc-U-Mentry Mix)", "duration" => "6:14"],
-                        ["title" => "I Want Cha (Roc 2 Tha Beats Mix)", "duration" => "6:16"]
-                    ]
-                ],
-                [
-                    "title" => "Pierce - False Prophecy",
-                    "price" => 5.99,
-                    "image" => "pierce_false_prophecy.jpg",
-                    "year" => 2007,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno", "Tech House"],
-                    "artist" => "Pierce",
-                    "label" => "BeatModul Records",
-                    "tracks" => [
-                        ["title" => "False Prophecy (Original Mix)", "duration" => "7:13"],
-                        ["title" => "False Prophecy (Karri-O Remix)", "duration" => "6:31"],
-                        ["title" => "False Prophecy (Tech Mix)", "duration" => "7:22"],
-                        ["title" => "False Prophecy (Synthappella)", "duration" => "1:37"]
-                    ]
-                ],
-                [
-                    "title" => "Matti Turunen - Elokuu EP",
-                    "price" => 9.99,
-                    "image" => "matti_turen_elokuu_ep.jpg",
-                    "year" => 2012,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno", "Electro", "Acid"],
-                    "artist" => "Matti Turunen",
-                    "label" => "Muhk",
-                    "tracks" => [
-                        ["title" => "Elokuu", "duration" => "7:14"],
-                        ["title" => "Things You Do", "duration" => "6:36"],
-                        ["title" => "Stars", "duration" => "7:10"]
-                    ]
-                ],
-                [
-                    "title" => "97.4 - Roots 82",
-                    "price" => 14.99,
-                    "image" => "97.4_roots_82.jpg",
-                    "year" => 2016,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Techno", "Electro", "Acid"],
-                    "artist" => "97.4",
-                    "label" => "Eklo",
-                    "tracks" => [
-                        ["title" => "Rue des Anciens", "duration" => "5:14"],
-                        ["title" => "Collé 2000", "duration" => "6:30"],
-                        ["title" => "Celeri Rave", "duration" => "7:30"],
-                        ["title" => "La Dodo Lé la", "duration" => "6:40"],
-                        ["title" => "Grand Matin", "duration" => "8:10"],
-                        ["title" => "Savate Yab", "duration" => "8:05"],
-                        ["title" => "Planet Samoussa", "duration" => "6:50"],
-                        ["title" => "La Cour des Miracles", "duration" => "6:33"]
-                    ]
-                ],
-                [
                     "title" => "Seuil - Transition Naturelle",
                     "price" => 9.99,
                     "image" => "seuil_transition_naturelle.jpg",
@@ -2076,719 +1386,10 @@ return [
                     ]
                 ]
             ]
-        ],
-
-        [
-            "name" => "Discoteca Laziale",
-            "address" => "Via Giovanni Giolitti, 263",
-            "logo" => "discoteca_laziale.jpg",
-            "description" => "Disco Laziale. Music, books, entertainment. Historical record store, born in Rome in 1967.",
-            "images" => [
-                "discoteca_laziale_1.jpg",
-                "discoteca_laziale_2.jpg",
-                "discoteca_laziale_3.jpg",
-                "discoteca_laziale_4.jpg",
-                "discoteca_laziale_5.jpg",
-                "discoteca_laziale_6.jpg",
-                "discoteca_laziale_7.jpg",
-                "discoteca_laziale_8.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "Neud Photo - Echoes",
-                    "price" => 17.99,
-                    "image" => "neud_photo_echoes.jpg",
-                    "year" => 2023,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => "Electro",
-                    "artist" => "Neud Photo",
-                    "label" => "Lonewolf",
-                    "tracks" => [
-                        ["title" => "Replica", "duration" => "6:30"],
-                        ["title" => "Silent Blast", "duration" => "5:59"],
-                        ["title" => "Lotus Eaters", "duration" => "6:45"],
-                        ["title" => "Gun Runner", "duration" => "7:10"],
-                        ["title" => "Flash Pleasure", "duration" => "8:20"]
-                    ]
-                ],
-                [
-                    "title" => "Hydroplane - Selected Songs 1997-2003",
-                    "price" => 41.99,
-                    "image" => "hydroplane_selected_songs_1997_2003.jpg",
-                    "year" => 2023,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Indie Rock", "Indie Pop", "Experimental"],
-                    "artist" => "Hydroplane",
-                    "label" => "World Of Echo",
-                    "tracks" => [
-                        ["title" => "We Crossed The Atlantic", "duration" => "3:53"],
-                        ["title" => "The Love You Bring", "duration" => "7:00"],
-                        ["title" => "When I Was Howard Hughes", "duration" => "2:48"],
-                        ["title" => "Failed Adventure", "duration" => "3:38"],
-                        ["title" => "Stars", "duration" => "1:55"],
-                        ["title" => "Grand Central", "duration" => "4:26"],
-                        ["title" => "International Exiles", "duration" => "4:53"],
-                        ["title" => "Merry-Go-Round", "duration" => "3:54"],
-                        ["title" => "Radios Appear", "duration" => "3:32"],
-                        ["title" => "City Terminus", "duration" => "5:09"],
-                        ["title" => "Min Min Light", "duration" => "4:03"],
-                        ["title" => "Oregon Snow", "duration" => "3:39"],
-                        ["title" => "Cherry Lake", "duration" => "2:08"],
-                        ["title" => "Blackout", "duration" => "4:25"],
-                        ["title" => "Please Don't Say Goodbye", "duration" => "3:04"],
-                        ["title" => "Museum Station", "duration" => "4:29"],
-                        ["title" => "Blue Train", "duration" => "2:54"],
-                        ["title" => "You Were There", "duration" => "3:44"],
-                        ["title" => "Something Better Beginning", "duration" => "2:59"]
-                    ]
-                ],
-                [
-                    "title" => "Kano - Turn It Up",
-                    "price" => 15.99,
-                    "image" => "kano_turn_it_up.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["Deep House", "Italo House", "Italo-Disco"],
-                    "artist" => "Kano",
-                    "label" => "Full Time Production",
-                    "tracks" => [
-                        ["title" => "Turn It Up (Danny Krivit Extended Edit)", "duration" => "7:15"],
-                        ["title" => "Turn It Up (Les Inferno Dude Boogie Remix)", "duration" => "5:26"],
-                        ["title" => "Turn It Up (Fresco Edits Remix)", "duration" => "6:20"],
-                        ["title" => "Unconditional Lover (Dr Packer Remix)", "duration" => "7:00"]
-                    ]
-                ],
-                [
-                    "title" => "Kid Machine - The Lone Wolf",
-                    "price" => 14.50,
-                    "image" => "kid_machine_the_lone_wolf.jpg",
-                    "year" => 2020,
-                    "genres" => "Electronic",
-                    "styles" => ["Electro", "EBM", "Italo-Disco"],
-                    "artist" => "Kid Machine",
-                    "label" => "Aspecto Humano",
-                    "tracks" => [
-                        ["title" => "Atomik War", "duration" => "6:15"],
-                        ["title" => "Lone Wolf", "duration" => "7:10"],
-                        ["title" => "Stolen Dream", "duration" => "6:30"],
-                        ["title" => "U.M.A.N.O", "duration" => "7:00"],
-                        ["title" => "Intelligent Design", "duration" => "7:40"]
-                    ]
-                ],
-                [
-                    "title" => "Eric Random - Wire Me Up",
-                    "price" => 20.99,
-                    "image" => "eric_random_wire_me_up.jpg",
-                    "year" => 2019,
-                    "genres" => "Electronic",
-                    "styles" => "EBM",
-                    "artist" => "Eric Random",
-                    "label" => "SLEEPERS",
-                    "tracks" => [
-                        ["title" => "Nothing Is True", "duration" => "7:30"],
-                        ["title" => "Target", "duration" => "7:45"],
-                        ["title" => "Stealth", "duration" => "6:15"],
-                        ["title" => "Monochrome", "duration" => "7:07"],
-                        ["title" => "Commence Countdown", "duration" => "8:10"],
-                        ["title" => "Skid Row", "duration" => "7:40"],
-                        ["title" => "You Seem The Same", "duration" => "8:08"],
-                        ["title" => "The Louder You Scream", "duration" => "7:14"],
-                        ["title" => "Touch Sensative", "duration" => "6:30"],
-                        ["title" => "Hypnophobia", "duration" => "7:22"],
-                        ["title" => "Systematic", "duration" => "8:08"],
-                        ["title" => "The Outsider", "duration" => "7:44"]
-                    ]
-                ],
-                [
-                    "title" => "Eva Rhythmic - Silver Dragon",
-                    "price" => 16.99,
-                    "image" => "eva_rhythmic_silver_dragon.jpg",
-                    "year" => 2023,
-                    "genres" => "Electronic",
-                    "styles" => ["Downtempo", "Experimental"],
-                    "artist" => "Eva Rhythmic",
-                    "label" => "Positive Mutation",
-                    "tracks" => [
-                        ["title" => "Sentimental", "duration" => "7:14"],
-                        ["title" => "Silver Dragon", "duration" => "7:30"],
-                        ["title" => "Humano", "duration" => "6:40"],
-                        ["title" => "Your Feet Are Blue", "duration" => "7:10"]
-                    ]
-                ],
-                [
-                    "title" => "Aphex Twin - Selected Ambient Works 85-92",
-                    "price" => 27.50,
-                    "image" => "aphex_twin_selected_ambient_works_85_92.jpg",
-                    "year" => 2021,
-                    "genres" => "Electronic",
-                    "styles" => ["IDM", "Experimental", "Techno", "Electro", "Ambient"],
-                    "artist" => "Aphex Twin",
-                    "label" => "Apollo",
-                    "tracks" => [
-                        ["title" => "Xtal", "duration" => "4:51"],
-                        ["title" => "Tha", "duration" => "9:01"],
-                        ["title" => "Pulsewidth", "duration" => "3:47"],
-                        ["title" => "Ageispolis", "duration" => "5:21"],
-                        ["title" => "I", "duration" => "1:13"],
-                        ["title" => "Green Calx", "duration" => "6:02"],
-                        ["title" => "Heliosphan", "duration" => "4:51"],
-                        ["title" => "We Are The Music Makers", "duration" => "7:42"],
-                        ["title" => "Schottkey 7th Path", "duration" => "5:07"],
-                        ["title" => "Ptolemy", "duration" => "7:12"],
-                        ["title" => "Hedphelym", "duration" => "6:02"],
-                        ["title" => "Delphium", "duration" => "5:36"],
-                        ["title" => "Actium", "duration" => "7:35"]
-                    ]
-                ],
-                [
-                    "title" => "Nicolini - Goods / Human Experiment",
-                    "price" => 15.50,
-                    "image" => "nicolini_goods_human_experiment.jpg",
-                    "year" => 2022,
-                    "genres" => "Electronic",
-                    "styles" => ["Dub", "Experimental"],
-                    "artist" => "Nicolini",
-                    "label" => "South Of North",
-                    "tracks" => [
-                        ["title" => "Goods", "duration" => "5:39"],
-                        ["title" => "Human Experiment", "duration" => "4:32"]
-                    ]
-                ],
-                [
-                    "title" => "Lucio Dalla & Gianni Morandi - In Europa",
-                    "price" => 12.99,
-                    "image" => "lucio_dalla_&_gianni_morandi_in_europa.jpg",
-                    "year" => 1989,
-                    "genres" => "Pop",
-                    "styles" => ["Ballad", "Psychedelic Rock", "Rhythm & Blues"],
-                    "artist" => "Lucio Dalla & Gianni Morandi",
-                    "label" => "Ariola",
-                    "tracks" => [
-                        ["title" => "Vita", "duration" => "6:39"],
-                        ["title" => "Il Motore Del 2000", "duration" => "7:14"],
-                        ["title" => "Amore Piccolino", "duration" => "8:10"],
-                        ["title" => "Pomeriggio In Ufficio", "duration" => "5:30"],
-                        ["title" => "Che Cosa Resterà Di Me", "duration" => "6:22"],
-                        ["title" => "Dimmi Dimmi", "duration" => "5:45"],
-                        ["title" => "Chiedi Chi Erano I Beatles", "duration" => "5:36"],
-                        ["title" => "Cuori Di Gesù", "duration" => "7:20"],
-                        ["title" => "Il Cielo", "duration" => "6:30"],
-                        ["title" => "Felicità", "duration" => "7:07"]
-                    ]
-                ],
-                [
-                    "title" => "Bob Dylan - Under The Red Sky",
-                    "price" => 9.99,
-                    "image" => "bob_dylan_under_the_red_sky.jpg",
-                    "year" => 1990,
-                    "genres" => ["Pop", "Rock"],
-                    "styles" => "Rock & Roll",
-                    "artist" => "Bob Dylan",
-                    "label" => "CBS",
-                    "tracks" => [
-                        ["title" => "Wiggle Wiggle", "duration" => "2:09"],
-                        ["title" => "Under The Red Sky", "duration" => "4:08"],
-                        ["title" => "Unbelievable", "duration" => "4:05"],
-                        ["title" => "Born In Time", "duration" => "3:38"],
-                        ["title" => "T.V. Talkin' Song", "duration" => "3:01"],
-                        ["title" => "10.000 Men", "duration" => "4:21"],
-                        ["title" => "2x2", "duration" => "3:36"],
-                        ["title" => "God Knows", "duration" => "3:02"],
-                        ["title" => "Handy Dandy", "duration" => "4:01"],
-                        ["title" => "Cat's In The Well", "duration" => "3:20"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "Groove Lab Records",
-            "address" => "Via Luigi Vanvitelli, 39",
-            "logo" => "groove_lab_records.jpg",
-            "description" => "Young independent record and vinyl shop in Testaccio, specialized in electronic music of all kinds.",
-            "images" => [
-                "groove_lab_records_1.jpg",
-                "groove_lab_records_2.jpg",
-                "groove_lab_records_3.jpg",
-                "groove_lab_records_4.jpg",
-                "groove_lab_records_5.jpg",
-                "groove_lab_records_6.jpg",
-                "groove_lab_records_7.jpg",
-                "groove_lab_records_8.jpg",
-                "groove_lab_records_9.jpg",
-                "groove_lab_records_10.jpg",
-                "groove_lab_records_11.jpg",
-                "groove_lab_records_12.jpg",
-                "groove_lab_records_13.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "Elvis Presley - Elvis Sings For Children And Grownups Too!",
-                    "price" => 15.00,
-                    "image" => "elvis_presley_elvis_sings_for_children_and_grownups_too.jpg",
-                    "year" => 1978,
-                    "genres" => ["Pop", "Rock"],
-                    "styles" => ["Rock & Roll", "Classic Rock"],
-                    "artist" => "Elvis Presley",
-                    "label" => "RCA Victor",
-                    "tracks" => [
-                        ["title" => "(Let Me Be Your) Teddy Bear", "duration" => "1:46"],
-                        ["title" => "Wooden Heart", "duration" => "2:02"],
-                        ["title" => "Five Sleepyheads", "duration" => "1:30"],
-                        ["title" => "Puppet On A String", "duration" => "2:39"],
-                        ["title" => "Angel", "duration" => "2:36"],
-                        ["title" => "Old MacDonald", "duration" => "2:04"],
-                        ["title" => "How Would You Like To Be", "duration" => "3:26"],
-                        ["title" => "Cotton Candy Land", "duration" => "1:33"],
-                        ["title" => "Old Shep", "duration" => "4:08"],
-                        ["title" => "Big Boots", "duration" => "1:30"],
-                        ["title" => "Have a Happy", "duration" => "2:20"]
-                    ]
-                ],
-                [
-                    "title" => "The Beatles - Love Songs",
-                    "price" => 60.00,
-                    "image" => "the_beatles_love_songs.jpg",
-                    "year" => 1977,
-                    "genres" => ["Pop", "Rock"],
-                    "styles" => ["Soft Rock", "Pop Rock"],
-                    "artist" => "The Beatles",
-                    "label" => "Capitol Records",
-                    "tracks" => [
-                        ["title" => "Yesterday", "duration" => "2:04"],
-                        ["title" => "I'll Follow The Sun", "duration" => "1:48"],
-                        ["title" => "I Need You", "duration" => "2:28"],
-                        ["title" => "Girl", "duration" => "2:26"],
-                        ["title" => "In My Life", "duration" => "2:23"],
-                        ["title" => "Words Of Love", "duration" => "2:10"],
-                        ["title" => "Here, There And Everywhere", "duration" => "2:26"],
-                        ["title" => "Something", "duration" => "3:03"],
-                        ["title" => "And I Love her", "duration" => "2:28"],
-                        ["title" => "If I Fell", "duration" => "2:19"],
-                        ["title" => "I'll Be Back", "duration" => "2:22"],
-                        ["title" => "Tell Me What You See", "duration" => "2:35"],
-                        ["title" => "Yes It Is", "duration" => "2:40"],
-                        ["title" => "Michelle", "duration" => "2:42"],
-                        ["title" => "It's Only Love", "duration" => "1:53"],
-                        ["title" => "You're Going To Lose That Girl", "duration" => "2:18"],
-                        ["title" => "Every Little Thing", "duration" => "2:01"],
-                        ["title" => "For No One", "duration" => "2:00"],
-                        ["title" => "She's Leaving Home", "duration" => "3:36"],
-                        ["title" => "The Long And Winding Road", "duration" => "3:40"],
-                        ["title" => "This Boy", "duration" => "2:11"],
-                        ["title" => "Norwegian Wood (This Bird Has Flown)", "duration" => "2:00"],
-                        ["title" => "You've Got To Hide Your Love Away", "duration" => "2:08"],
-                        ["title" => "I Will", "duration" => "1:53"],
-                        ["title" => "P.S. I Love You", "duration" => "2:02"]
-                    ]
-                ],
-                [
-                    "title" => "Patty Pravo / Grace Jones - Tutto Il Mondo È Casa Mia / La Vie En Rose",
-                    "price" => 1.20,
-                    "image" => "patty_pravo_grace_jones_tutto_il_mondo_è_casa_mia.jpg",
-                    "year" => 1977,
-                    "genres" => ["Pop", "Rock", "Funk / Soul"],
-                    "styles" => ["Disco", "Pop Rock"],
-                    "artist" => "Patty Pravo / Grace Jones",
-                    "label" => "Ricordi",
-                    "tracks" => [
-                        ["title" => "Patty Pravo - Tutto Il Mondo È Casa Mia", "duration" => "3:58"],
-                        ["title" => "Grace Jones - La Vie En Rose", "duration" => "3:35"]
-                    ]
-                ],
-                [
-                    "title" => "Tony Esposito - Il Villaggio Globale",
-                    "price" => 9.00,
-                    "image" => "tony_esposito_il_villaggio_globale.jpg",
-                    "year" => 1990,
-                    "genres" => ["Electronic", "Funk / Soul", "Folk"],
-                    "styles" => ["Italo-Disco", "Downtempo"],
-                    "artist" => "Tony Esposito",
-                    "label" => "Ricordi",
-                    "tracks" => [
-                        ["title" => "Babylon", "duration" => "6:40"],
-                        ["title" => "No Voice No Noice", "duration" => "7:10"],
-                        ["title" => "Giochi Non Giochi?", "duration" => "6:30"],
-                        ["title" => "For The Children Know", "duration" => "5:45"],
-                        ["title" => "Alma Mi Alma", "duration" => "6:26"],
-                        ["title" => "Novecento Aufwiedersehen", "duration" => "7:07"],
-                        ["title" => "Cantomaria", "duration" => "5:40"],
-                        ["title" => "Malimba", "duration" => "8:08"]
-                    ]
-                ],
-                [
-                    "title" => "Renzo Arbore - Cacao Meravigliao",
-                    "price" => 3.00,
-                    "image" => "renzo_arbore_cacao_meravigliao.jpg",
-                    "year" => 1988,
-                    "genres" => ["Electronic", "Latin"],
-                    "styles" => ["Italo-Disco", "Samba"],
-                    "artist" => "Renzo Arbore",
-                    "label" => "Fonit Cetra",
-                    "tracks" => [
-                        ["title" => "Cacao Meravigliao", "duration" => "6:00"],
-                        ["title" => "Cocco Rock", "duration" => "4:30"]
-                    ]
-                ],
-                [
-                    "title" => "Italian Disco Boys - Mazurkadiscodoble",
-                    "price" => 9.00,
-                    "image" => "italian_disco_boys_mazurkadiscodoble.jpg",
-                    "year" => 1983,
-                    "genres" => ["Electronic", "Latin", "Folk"],
-                    "styles" => ["Italo-Disco", "Italodance", "Liscio"],
-                    "artist" => "Italian Disco Boys",
-                    "label" => "New Eco",
-                    "tracks" => [
-                        ["title" => "Discodoble", "duration" => "3:18"],
-                        ["title" => "España Cani", "duration" => "2:07"],
-                        ["title" => "Malagueña", "duration" => "1:05"],
-                        ["title" => "Limon Limonero", "duration" => "1:00"],
-                        ["title" => "Ramon Segura", "duration" => "1:10"],
-                        ["title" => "El Relicario", "duration" => "0:20"],
-                        ["title" => "Moliendo Cafè", "duration" => "0:30"],
-                        ["title" => "Discomazurka", "duration" => "3:06"],
-                        ["title" => "La Doccia", "duration" => "1:05"],
-                        ["title" => "Celecre Mazurka Variata", "duration" => "1:30"],
-                        ["title" => "Sulle Rive Del Weser", "duration" => "0:55"],
-                        ["title" => "Cesarina", "duration" => "0:55"],
-                        ["title" => "Antilope", "duration" => "0:57"],
-                        ["title" => "La Mazurka Della Nonna", "duration" => "0:57"]
-                    ]
-                ],
-                [
-                    "title" => "D.J. Pierre - Love Trax",
-                    "price" => 4.99,
-                    "image" => "dj_pierre_love_trax.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Deep House"],
-                    "artist" => "D.J. Pierre",
-                    "label" => "Strictly Rhythm",
-                    "tracks" => [
-                        ["title" => "Love Izz", "duration" => "5:55"],
-                        ["title" => "Happyness", "duration" => "6:45"],
-                        ["title" => "Distorted Luv", "duration" => "13:19"]
-                    ]
-                ],
-                [
-                    "title" => "DJ Duke Presents Freedom - Loving You",
-                    "price" => 4.50,
-                    "image" => "dj_duke_presents_freedom_loving_you.jpg",
-                    "year" => 1994,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "DJ Duke",
-                    "label" => "Power Music Records",
-                    "tracks" => [
-                        ["title" => "Loving You (Untitled U.S. Mix 1)", "duration" => "6:55"],
-                        ["title" => "Loving You (Untitled U.S. Mix 2)", "duration" => "6:45"],
-                        ["title" => "Loving You (Untitled Euro Mix 1)", "duration" => "7:07"],
-                        ["title" => "Loving You (Untitled Euro Mix 2)", "duration" => "7:08"]
-                    ]
-                ],
-                [
-                    "title" => "Urban Rhythm - Jump Around / Makes You Feel Alright",
-                    "price" => 1.50,
-                    "image" => "urban_rhythm_jump_around_makes_you_feel_alright.jpg",
-                    "year" => 1992,
-                    "genres" => "Electronic",
-                    "styles" => ["House", "Breaks"],
-                    "artist" => "Urban Rhythm",
-                    "label" => "Strictly Rhythm",
-                    "tracks" => [
-                        ["title" => "Jump Around (Pumpinitinyajeep Mix)", "duration" => "5:21"],
-                        ["title" => "Jump Around (B-Boy Anthem)", "duration" => "2:39"],
-                        ["title" => "Makes You Feel Alright (House2House Mix)", "duration" => "5:35"],
-                        ["title" => "Makes You Feel Alright (Urban Rhythm Mix)", "duration" => "4:48"],
-                        ["title" => "Makes You Feel Alright (Just A Beat)", "duration" => "2:28"]
-                    ]
-                ],
-                [
-                    "title" => "Criminal Element Orchestra - Everybody (Ultimate State Mix)",
-                    "price" => 1.00,
-                    "image" => "criminal_element_orchestra_everybody_ultimate_state_mix.jpg",
-                    "year" => 1990,
-                    "genres" => "Electronic",
-                    "styles" => "House",
-                    "artist" => "Criminal Element Orchestra",
-                    "label" => "Deconstruction",
-                    "tracks" => [
-                        ["title" => "Everybody (Ultimate State Mix)", "duration" => "6:30"],
-                        ["title" => "Everybody (Ultimate Instrumental Mix)", "duration" => "7:14"]
-                    ]
-                ]
-            ]
-        ],
-
-        [
-            "name" => "DischixFiaschi",
-            "address" => "Via Valsolda, 57",
-            "logo" => "dischi_x_fiaschi.jpg",
-            "description" => "In the midst of the COVID-19 pandemic, the first Record&Wine Shop in Montesacro is born: an underground corner. We are waiting for you!",
-            "images" => [
-                "dischixfiaschi_1.jpg",
-                "dischixfiaschi_2.jpg",
-                "dischixfiaschi_3.jpg",
-                "dischixfiaschi_4.jpg",
-                "dischixfiaschi_5.jpg",
-                "dischixfiaschi_6.jpg",
-                "dischixfiaschi_7.jpg",
-                "dischixfiaschi_8.jpg",
-                "dischixfiaschi_9.jpg"
-            ],
-            "vinyls" => [
-                [
-                    "title" => "The Notorius B.I.G. - Greatest Hits",
-                    "price" => 46.00,
-                    "image" => "the_notorius_big_greatest_hits.jpg",
-                    "year" => 2023,
-                    "genres" => "Hip Hop",
-                    "styles" => ["Gangsta", "Hardcore Hip-Hop"],
-                    "artist" => "The Notorius B.I.G.",
-                    "label" => "Bad Boy Entertainment",
-                    "tracks" => [
-                        ["title" => "Juicy", "duration" => "5:01"],
-                        ["title" => "Big Poppa", "duration" => "4:10"],
-                        ["title" => "Hypnotize", "duration" => "3:50"],
-                        ["title" => "One More Chance/Stay With Me (Remix)", "duration" => "4:29"],
-                        ["title" => "Get Money", "duration" => "4:34"],
-                        ["title" => "Warning", "duration" => "3:39"],
-                        ["title" => "Dead Wrong", "duration" => "4:57"],
-                        ["title" => "Who Shot Ya", "duration" => "5:17"],
-                        ["title" => "Ten Crack Commandments", "duration" => "3:24"],
-                        ["title" => "Notorius Thugs", "duration" => "6:07"],
-                        ["title" => "Notorius B.I.G.", "duration" => "3:12"],
-                        ["title" => "Nasty Girl", "duration" => "4:46"],
-                        ["title" => "Unbelievable", "duration" => "3:40"],
-                        ["title" => "Niggas Bleed", "duration" => "4:52"],
-                        ["title" => "Running Your Mouth", "duration" => "3:33"],
-                        ["title" => "Want That Old Thing Back", "duration" => "4:58"],
-                        ["title" => "Fuck You Tonight", "duration" => "5:44"]
-                    ]
-                ],
-                [
-                    "title" => "LFO - Peel Session TX 20/10/90",
-                    "price" => 23.00,
-                    "image" => "lfo_peel_session_tx.jpg",
-                    "year" => 2019,
-                    "genres" => "Electronic",
-                    "styles" => ["IDM", "Techno"],
-                    "artist" => "LFO",
-                    "label" => "Warp Records",
-                    "tracks" => [
-                        ["title" => "Take Control", "duration" => "7:01"],
-                        ["title" => "To The Limit", "duration" => "6:15"],
-                        ["title" => "Rob's Nightmare", "duration" => "6:30"],
-                        ["title" => "Lost World", "duration" => "5:30"]
-                    ]
-                ],
-                [
-                    "title" => "The Notorius B.I.G. - Ready To Die",
-                    "price" => 35.00,
-                    "image" => "the_notorius_big_ready_to_die.jpg",
-                    "year" => 2021,
-                    "genres" => "Hip Hop",
-                    "styles" => ["Gangsta", "Boom Bap"],
-                    "artist" => "LFO",
-                    "label" => "Bad Boy Entertainment",
-                    "tracks" => [
-                        ["title" => "Intro", "duration" => "3:23"],
-                        ["title" => "Things Done Changed", "duration" => "3:58"],
-                        ["title" => "Gimme The Loot", "duration" => "5:04"],
-                        ["title" => "Machine Gun Funk", "duration" => "4:15"],
-                        ["title" => "Warning", "duration" => "3:40"],
-                        ["title" => "Ready To Die", "duration" => "4:43"],
-                        ["title" => "One More Chance", "duration" => "4:43"],
-                        ["title" => "#!*@ Me (Interlude)", "duration" => "1:31"],
-                        ["title" => "The What", "duration" => "3:57"],
-                        ["title" => "Juicy", "duration" => "5:02"],
-                        ["title" => "Everyday Struggle", "duration" => "5:19"],
-                        ["title" => "Me & My B*tch", "duration" => "4:00"],
-                        ["title" => "Big Poppa", "duration" => "4:12"],
-                        ["title" => "Respect", "duration" => "5:21"],
-                        ["title" => "Friend Of Mine", "duration" => "3:28"],
-                        ["title" => "Unbelievable", "duration" => "3:43"],
-                        ["title" => "Suicidal Thoughts", "duration" => "2:50"],
-                        ["title" => "Who Shot Ya", "duration" => "5:19"],
-                        ["title" => "Just Playing (Dreams)", "duration" => "2:43"]
-                    ]
-                ],
-                [
-                    "title" => "The XX - Coexist",
-                    "price" => 42.00,
-                    "image" => "the_xx_coexist.jpg",
-                    "year" => 2023,
-                    "genres" => ["Electronic", "Rock", "Pop"],
-                    "styles" => ["Alternative Rock", "Indie Rock"],
-                    "artist" => "The XX",
-                    "label" => "Young",
-                    "tracks" => [
-                        ["title" => "Angels", "duration" => "6:30"],
-                        ["title" => "Chained", "duration" => "7:00"],
-                        ["title" => "Fiction", "duration" => "6:57"],
-                        ["title" => "Try", "duration" => "5:40"],
-                        ["title" => "Reunion", "duration" => "7:07"],
-                        ["title" => "Sunset", "duration" => "5:08"],
-                        ["title" => "Missing", "duration" => "7:14"],
-                        ["title" => "Tides", "duration" => "8:10"],
-                        ["title" => "Unfold", "duration" => "7:20"],
-                        ["title" => "Swept Away", "duration" => "6:01"],
-                        ["title" => "Our Song", "duration" => "5:50"]
-                    ]
-                ],
-                [
-                    "title" => "The Beatles - Yellow Submarine",
-                    "price" => 36.00,
-                    "image" => "the_beatles_yellow_submarine.jpg",
-                    "year" => 2012,
-                    "genres" => ["Rock", "Pop"],
-                    "styles" => ["Pop Rock", "Psychedelic Rock"],
-                    "artist" => "The Beatles",
-                    "label" => "Apple Records",
-                    "tracks" => [
-                        ["title" => "Yellow Submarine", "duration" => "7:30"],
-                        ["title" => "Only A Northern Song", "duration" => "7:15"],
-                        ["title" => "All Together Now", "duration" => "6:57"],
-                        ["title" => "Hey Bulldog", "duration" => "5:44"],
-                        ["title" => "It's All Too Much", "duration" => "7:14"],
-                        ["title" => "All You Need Is Love", "duration" => "5:48"]
-                    ]
-                ],
-                [
-                    "title" => "Frank Sinatra - Frank Sinatra Inimitabile",
-                    "price" => 8.00,
-                    "image" => "frank_sinatra_frank_sinatra_inimitabile.jpg",
-                    "year" => 1974,
-                    "genres" => ["Jazz", "Pop", "Folk"],
-                    "styles" => ["Chanson", "Easy Listening"],
-                    "artist" => "Frank Sinatra",
-                    "label" => "Variety",
-                    "tracks" => [
-                        ["title" => "Little White Lies", "duration" => "2:00"],
-                        ["title" => "Pistol Packim'mama", "duration" => "2:18"],
-                        ["title" => "Speak Low", "duration" => "2:06"],
-                        ["title" => "My Ideal", "duration" => "2:35"],
-                        ["title" => "Woody Wood Pecker Song", "duration" => "2:04"],
-                        ["title" => "Almost Like Being In Love", "duration" => "1:40"],
-                        ["title" => "Jingle Bells", "duration" => "1:35"],
-                        ["title" => "You Do", "duration" => "1:56"],
-                        ["title" => "Tree In The Meadow", "duration" => "2:55"],
-                        ["title" => "Love Somebody", "duration" => "1:49"],
-                        ["title" => "How Soon", "duration" => "2:27"],
-                        ["title" => "Serenade Of The Bells", "duration" => "2:04"]
-                    ]
-                ],
-                [
-                    "title" => "Franco Battiato - Orizzonti Perduti",
-                    "price" => 32.00,
-                    "image" => "franco_battiato_orizzonti_perduti.jpg",
-                    "year" => 2017,
-                    "genres" => ["Electronic", "Pop", "Rock"],
-                    "styles" => ["Pop Rock", "Synth-pop"],
-                    "artist" => "Franco Battiato",
-                    "label" => "Universal Music Group",
-                    "tracks" => [
-                        ["title" => "La Stagione Dell'Amore", "duration" => "3:46"],
-                        ["title" => "Tramonto Occidentale", "duration" => "3:13"],
-                        ["title" => "Zone Depresse", "duration" => "3:28"],
-                        ["title" => "Un'Altra Vita", "duration" => "3:42"],
-                        ["title" => "Mal D'Africa", "duration" => "3:51"],
-                        ["title" => "La Musica è Stanca", "duration" => "3:52"],
-                        ["title" => "Gente In Progresso", "duration" => "3:28"],
-                        ["title" => "Campane Tibetane", "duration" => "3:13"]
-                    ]
-                ],
-                [
-                    "title" => "Rockets - Live",
-                    "price" => 25.00,
-                    "image" => "rockets_live.jpg",
-                    "year" => 1980,
-                    "genres" => ["Electronic", "Pop", "Rock"],
-                    "styles" => ["Space Rock", "Synth-pop"],
-                    "artist" => "Rockets",
-                    "label" => "Rockland Records",
-                    "tracks" => [
-                        ["title" => "Beta-Gamma", "duration" => "1:15"],
-                        ["title" => "Anastasis", "duration" => "4:55"],
-                        ["title" => "Future Woman", "duration" => "7:05"],
-                        ["title" => "Drums Solo", "duration" => "8:25"],
-                        ["title" => "Sci-Fi Boogie", "duration" => "3:32"],
-                        ["title" => "Prologue", "duration" => "2:08"],
-                        ["title" => "Guitar Visions", "duration" => "4:12"],
-                        ["title" => "On The Road Again", "duration" => "10:25"],
-                        ["title" => "Electric Delight", "duration" => "6:24"]
-                    ]
-                ],
-                [
-                    "title" => "Planet P - Planet P",
-                    "price" => 7.00,
-                    "image" => "planet_p_planet_p.jpg",
-                    "year" => 1983,
-                    "genres" => ["Electronic", "Reggae", "Rock"],
-                    "styles" => ["Pop Rock", "Soft Rock", "Synth-pop"],
-                    "artist" => "Planet P",
-                    "label" => "Geffen Records",
-                    "tracks" => [
-                        ["title" => "Static", "duration" => "4:04"],
-                        ["title" => "King For A Day", "duration" => "3:57"],
-                        ["title" => "I Won't Wake Up", "duration" => "3:46"],
-                        ["title" => "Top Of The World", "duration" => "4:34"],
-                        ["title" => "Armageddon", "duration" => "4:20"],
-                        ["title" => "Why Me?", "duration" => "4:06"],
-                        ["title" => "Power Tools", "duration" => "3:59"],
-                        ["title" => "Send It In A Letter", "duration" => "3:52"],
-                        ["title" => "Adam And Eve", "duration" => "3:36"],
-                        ["title" => "Only You And Me", "duration" => "3:22"]
-                    ]
-                ],
-                [
-                    "title" => "Helen Terry - Blue Notes",
-                    "price" => 7.00,
-                    "image" => "helen_terry_blue_notes.jpg",
-                    "year" => 1986,
-                    "genres" => ["Electronic", "Rock"],
-                    "styles" => ["Pop Rock", "Downtempo", "Synth-pop"],
-                    "artist" => "Helen Terry",
-                    "label" => "Virgin Dischi S.R.L.",
-                    "tracks" => [
-                        ["title" => "Act Of Mercy", "duration" => "3:36"],
-                        ["title" => "Come On And Find Me", "duration" => "4:12"],
-                        ["title" => "Love Money And Sex", "duration" => "3:38"],
-                        ["title" => "Right In Front Of You", "duration" => "3:43"],
-                        ["title" => "Forbidden Fruit", "duration" => "4:08"],
-                        ["title" => "All Night Makes It Right", "duration" => "4:08"],
-                        ["title" => "The Perfect Kiss", "duration" => "3:18"],
-                        ["title" => "Feelin' Your Heart", "duration" => "4:32"],
-                        ["title" => "Close Watch", "duration" => "3:19"],
-                        ["title" => "Stuttering", "duration" => "4:00"]
-                    ]
-                ],
-                [
-                    "title" => "Double - Dou3le",
-                    "price" => 5.00,
-                    "image" => "double_dou3le.jpg",
-                    "year" => 1987,
-                    "genres" => "Electronic",
-                    "styles" => ["Downtempo", "Synth-pop"],
-                    "artist" => "Double",
-                    "label" => "Polydor",
-                    "tracks" => [
-                        ["title" => "Fire In Disguise", "duration" => "5:29"],
-                        ["title" => "Gliding", "duration" => "5:05"],
-                        ["title" => "Lakes In The Desert", "duration" => "4:43"],
-                        ["title" => "Circles", "duration" => "5:18"],
-                        ["title" => "Prove Your Love", "duration" => "3:52"],
-                        ["title" => "(You Don't Let Me Get) Close Enough", "duration" => "4:47"],
-                        ["title" => "Silent Mountain", "duration" => "4:42"],
-                        ["title" => "Devis Ball", "duration" => "4:29"],
-                        ["title" => "Wrong", "duration" => "1:52"],
-                        ["title" => "Megarhythmdance", "duration" => "5:16"]
-                    ]
-                ]
-            ]
         ]
+
     ],
+
 
     "labels" => [
         "RCA" => [
@@ -2802,39 +1403,6 @@ return [
                             On September 26, 2011, Sony Music Entertainment reorganized the RCA Records group into its own label banner. Therefore, the labels under that group, Jive, Arista, LaFace and J Records, were all merged into RCA, bringing all of its artists from these aforementioned four imprints to the RCA family. Furthermore, reissues from Jive, Arista, J and LaFace by Sony will be handled by RCA as well.",
             "location" => "United States Of America",
             "follower" => 3.2
-        ],
-        "Chrysalis" => [
-            "name" => "Chrysalis",
-            "image" => "chrysalis.jpg",
-            "description" => "The roots of Chrysalis stretch back to a tiny flat in West London in 1967, when former university social secretaries, Chris Wright, then 22, and Terry Ellis, 23, linked their flair for managing and booking bands to form the Ellis Wright Agency.
-                            After a couple of experiences trying to release their bands records via other companies, Wright and Ellis began thinking in terms of their own label. In 1968, they signed a licensing deal with Island Records with the proviso that, should Wright and Ellis' acts log an agreed number of hits, then the pair would be awarded a label in their own right. The appropriate tally was logged within a year, and a new independent record company Chrysalis, an amalgam of Wright's first name and Ellis' last name was born.
-                            After buying out Terry Ellis in 1985, Chris Wright sold the Chrysalis Records label to EMI in 1991. EMI was bought out by Universal Music Group in 2012; in 2013, they sold the Parlophone Label Group, which includes Chrysalis, to Warner Music Group. In May 2016 the label was sold to a consortium, Blue Raincoat Music, which included co-founder Chris Wright as Non-Executive Chairman; Blue Raincoat relaunched Chrysalis with both catalogue artists and new signings in 2020 as part of a partnership with Reservoir Media Management at which time Ellis left the company. Global distribution is via Secretly Distribution.",
-            "location" => "United Kingdom",
-            "follower" => 3.6
-        ],
-        "MCA Records" => [
-            "name" => "MCA Records",
-            "image" => "mca_records.jpg",
-            "description" => "Music Corporation of America (MCA) was founded in Chicago in 1924 as a talent agency by Dr. Jules Stein and Mr. William R. Goodheart, Jr. and began to produce TV shows in the late 40s. In 1958 MCA acquired the Universal Studios property and also Paramount's pre-1948 film library for its MCA TV division.
-                            In 1962, MCA's principal corporation, MCA Inc., acquired Decca Records, Inc. (the American Decca company), which had Brunswick and Coral imprints. 'British Decca' then licensed recordings from American Decca for release on the Brunswick and Coral labels in the UK, until February 1968, when British Decca began using the yellow swirl MCA Records brand for these releases. American Decca followed suit, turning completely into MCA Records in 1973. In the following years (and decades) MCA Inc. purchased several other labels (ABC Records, Geffen Records etc.) and formed the MCA Music Entertainment Group around MCA Records.
-                            In New Zealand the MCA Records labels were launched in late 1969. The Australian distributor was Astor Records Pty. Ltd. (also known as Astor Radios, Radiograms And Television) and it took over the label from 1 January 1970, the New Zealand distributor was Pye Ltd.
-                            In the UK and much of Europe, MCA Records signed a licensing deal with EMI Records Ltd. circa September 1973, which came into effect on 1st January 1974, thus ending MCA's 40-year relationship with The Decca Record Company Limited.
-                            International distribution (outside of US) was handled by WEA from 1 January 1984 onwards (with some countries not moving to WEA until late 1984 because of existing deals), and then by BMG from 1 April, 1991, onwards.
-                            This label includes many releases branded 'MCA' or 'MCA Records', regardless of which MCA corporate entity, if any, is mentioned as trademark owner, copyright owner, or point of contact. However, there are many other MCA brands and companies, and some releases may be found there instead of (or in addition to) this label, depending on circumstances. These or other corporate entities such as MCA Records, Inc., Music Corp. of America Inc., or MCA Inc. may appear on releases with the 'MCA' or 'MCA Records' brands. Corporate groups may also be credited, including MCA Music Group, the MCA Entertainment Group, and the MCA Music Entertainment Group, as well as divisions of MCA Music Publishing like MCA Communications, Inc. and many regional 'MCA Music' corporations which may be conflated with the aforementioned MCA Music Entertainment corporations.",
-            "location" => "United Kingdom",
-            "follower" => 4.2
-        ],
-        "Polydor" => [
-            "name" => "Polydor",
-            "image" => "polydor.jpg",
-            "description" => "Few labels can boast as long, prestigious and varied a musical history as Polydor Records. From the 60s 'beat boom' onwards, through the eras of progressive rock, disco and punk, the label has been in the vanguard of every significant new musical development, while today the likes of the Lady Gaga, HAIM, Ellie Goulding and Lana Del Rey maintain Polydor's enviable cutting-edge reputation.
-                            Founded in Germany in 1946 as the popular music arm of the long-established Deutsche Grammophon label, the UK division of Polydor was not established until ten years later perfectly timed to coincide with the rock'n'roll revolution that was transforming the musical landscape and establishing youth culture for the first time as a significant phenomenon. Initially, the label concentrated on releasing continental-made recordings but with Germany a popular touring destination for the emerging British 'beat' groups, there were rich pickings to be had. In August 1961, German Polydor released a single called My Bonnie by Tony Sheridan and The Beat Boys. Nobody realised it at the time, but the record was destined to change the face of popular music, for the backing group was none other than the Beatles. Recorded in Hamburg during the band's legendary three month residency at that city's Top Ten Club, My Bonnie was the first official release by the group and was reissued two years later, when it briefly charted in Britain during the first flush of 'Beatlemania'. Polydor went on to place itself at the centre of the creative melting-pot that was British music in the 1960s by signing a series of adventurous production deals with some of the most dynamic pop entrepreneurs. At the time the approach was highly unusual, but it established a model that has since been much-copied. Giorgio Gomelsky, who had discovered the Rolling Stones and managed the Yardbirds, brought in Julie Driscoll and Brian Auger. Kit Lambert and Chris Stamp brought in the The Who, and via their Track Records imprint, Jimi Hendrix, the Crazy World of Arthur Brown and Thunderclap Newman. And Robert Stigwood brought two big-hitters to the label with the Bee Gees and Cream.
-                            Between them, they created an enviable pop and rock roster of British-based talent that left the competition trailing in its wake. At the same time, Polydor developed its American connections to become a significant soul and r'n'b powerhouse. Among the acts who came through Polydor was the Godfather of Soul himself, James Brown, while the UK license to the Stax and Atlantic labels gave them Otis Redding, Aretha Franklin and a host of other top names. In the 1970s, a combination of enlightened deals with entrepreneurs such as Stigwood and the adventurous policy of the label's in-house A'n'R team, built an impressively broad-based roster. Progressive rock was represented by the likes of the late, great Irish guitarist Rory Gallagher, Jack Bruce and Eric Clapton, both solo and with Derek and the Dominos. Glam rock was represented by Slade and the Rubettes. Then there was a Swedish group who won the Eurovision song contest in 1974 and went on to dominate the charts all over the world for years to come. They went by the name of Abba and their greatest hits Gold album still sells strongly to this day.
-                            Via Robert Stigwood's RSO stable, Polydor also led the way in disco, with the Bee Gees and the chart-topping Saturday Night Fever soundtrack. At one point in 1977-78, Polydor/RSO held the number one slot in the American charts for 23 consecutive weeks, with six different singles. At the same time, Polydor was in the forefront of the punk revolution, signing the Jam, Siouxsie and the Banshees and Sham 69, among others.
-                            Into the 1980s, the dance-funk of Level 42, The Wonder Stuff and Paul Weller's Style Council added further diversity to the roster. In the 1990s the label became even more eclectic. Credible singer-songwriters such as Van Morrison and Eagle-Eye Cherry were signed alongside Britpop heroes Cast and Shed Seven. Former Stones Roses frontman Ian Brown launched a solo career on the label, while the Lighthouse Family and Boyzone flew the flag for the mainstream. Polydor's link with the Interscope, Geffen and A'n'M labels also brought on board an impressive roster of American talent, including Eminem, 50 Cent, Lady Gaga, Will.i.am and Imagine Dragons as well as the Nirvana catalogue.
-                            Into the new millennium, the label continues to boast plenty of big pop names from Ellie Goulding to The Rolling Stones. But it has also built an adventurous roster to revive the potent excitement of the halcyon days of the 1960s. From the realm of contemporary British music came the trailblazing Mercury Music Prize-winners The Klaxons, while HAIM, The 1975, Lady Gaga and Lana Del Rey spearhead an impressive pop contingent.",
-            "location" => "United Kingdom",
-            "follower" => 1.2
         ],
         "Mercury" => [
             "name" => "Mercury",
@@ -2909,78 +1477,12 @@ return [
             "location" => "United States Of America",
             "follower" => 2.2
         ],
-        "Azuli Records" => [
-            "name" => "Azuli Records",
-            "image" => "azuli_records.jpg",
-            "description" => "House label founded in London in 1990 by David Piccioni and based above Black Market Records in Soho.
-                            Like several other London labels from the same era, early Azuli releases had a fake New York address on the labels e.g. Disco Elements - EP Vol 1.
-                            Azuli's UK Garage releases, with their black sleeves, started in 1997.
-                            The company behind the label from 2004 to April 2009, when Azuli went into liquidation, was Coolpool Ltd. aka Cool Pool Ltd..
-                            The back catalogue was purchased by Phoenix Music International Ltd.",
-            "location" => "United Kingdom",
-            "follower" => 1.5
-        ],
-        "Big Life" => [
-            "name" => "Big Life",
-            "image" => "big_life.jpg",
-            "description" => "Big Life Records was formed in 1986 by the partnership of Jazz Summers and Tim Parry.
-                            Summers was previously involved in the development of the group Wham! and Parry was guitarist in the group Blue Zoo. The duo also formed Big Life Management and its publishing arm, Big Life Music, in 1987.
-                            Big Life Records was a creative platform for the late 80's and early 90's 'underground' dance movement. Coldcut were one of the bands with Big Life, featuring guest vocalist Lisa Stansfield, which helped her build her career on this native cult success and sell 11 million records worldwide. Big Life helped establish a diverse stable of talent, such as: Soul II Soul, The Soup Dragons, Yazz, De La Soul, Coldcut, James Taylor Quartet, The Orb and more.
-                            Big Life Records achieved over 50 top 40 UK hits before closing its doors after ten years. However, the self-administered publishing and management work of Big Life Music remains active in the industry, with a wealth of hits from their catalogue appearing in the UK charts. Summers became manager of The Verve and Snow Patrol and has involvement with The Power Amp Music Fund.
-                            Raw TV Products, or Raw TV was a distributor, not a label, and used for catalogue reference - most notably on releases by The Soup Dragons.
-                            Exclusively distributed in the UK by PolyGram Record Operations starting June 1991.",
-            "location" => "United Kingdom",
-            "follower" => 1.5
-        ],
-        "Verve Records" => [
-            "name" => "Verve Records",
-            "image" => "verve_records.jpg",
-            "description" => "Verve Records was originally the product of the vision of jazz impresario Norman Granz (1918-2001). He formed the label in 1956 and moved all of the recordings released on his earlier Norgran Records and Clef Records labels to create the new Verve catalog.
-                            In December 1960, Granz sold the label to Metro-Goldwyn-Mayer, Inc., becoming a subsidiary of MGM Records in the process. During the 1960s, Verve expanded into comedy (Jonathan Winters, Mort Sahl, Phyllis Diller), pop (The Righteous Brothers), R&B (Howard Tate, Arthur Prysock), rock (The Velvet Underground, Frank Zappa and the Mothers Of Invention, Blues Project) and folk (Janis Ian, Richie Havens, Tim Hardin) music, eventually creating the Verve Folkways (later renamed Verve Forecast) label in 1966 for issuing more psychedelic-leaning rock as well as folk and blues material.
-                            Verve had million-selling jazz recordings during that decade from Stan Getz, Kai Winding, Astrud Gilberto, Ella Fitzgerald and Jimmy Smith among others under the studio/A&R direction of Creed Taylor.
-                            The MGM film studio sold its record division to Polydor in 1972, a move that brought Verve into the newly formed PolyGram and its family of record labels. Verve slowly became relegated to jazz reissues as MGM Records (and the non-jazz Verve output) was ultimately absorbed into Polydor by 1976. During this period, PolyGram had Mercury Records' EmArcy jazz catalog absorbed into Verve's holdings. In the late 1980s, PolyGram decided to reactivate the long-dormant label with both a reissue program and new artist signings. The revitalized label's new material and remastered classic recordings sold very well and it soon became PolyGram's front-line jazz division.
-                            With the 1999 merger of PolyGram with Vivendi Universal creating the Universal Music Group, Verve Records became the hub of the The Verve Music Group, which also encompasses the influential GRP, Impulse! and Blue Thumb Records labels as well as overseeing the jazz catalog holdings of a number of UMG-owned labels, including Commodore, Chess, Brunswick (pre-1958), Argo (2), Cadet Records, Dot Records, Coral, Decca, ABC-Paramount, A&M Records, Mercury, Philips and Polydor.",
-            "location" => "United States Of America",
-            "follower" => 3.3
-        ],
         "Pink Floyd Records" => [
             "name" => "Pink Floyd Records",
             "image" => "pink_floyd_records.jpg",
             "description" => "Label used for Pink Floyd reissues since 2016. While Parlophone/Warner Music continues to distribute the band's back catalogue in Europe, international rights belong to Sony Music Entertainment.",
             "location" => "United Kingdom",
             "follower" => 4.2
-        ],
-        "Raw Culture" => [
-            "name" => "Raw Culture",
-            "image" => "raw_culture.jpg",
-            "description" => "Electronic music label based in Rome, Italy, run by Giovanni Inglese.",
-            "location" => "Italy",
-            "follower" => 1.3
-        ],
-        "NovaMute" => [
-            "name" => "NovaMute",
-            "image" => "novamute.jpg",
-            "description" => "Techno and electronica label started with 12'' releases in 1991. Originally run by Mick Paterson, Pepe Jansz and Seth Hodder.
-                            In the US the releases in the early 90s were released in partnership with Tommy Boy Music, and feature a 'NMCD' prefix on their catalog number. When Mute set up a stand-alone North American office in the mid-90s, the numbering series continued in sequence with the prefix changed to 'NovaMute'.",
-            "location" => "United Kingdom",
-            "follower" => 1.4
-        ],
-        "Magnetic Recordings" => [
-            "name" => "Magnetic Recordings",
-            "image" => "magnetic_recordings.jpg",
-            "description" => "Record label launched by DJ Sneak.",
-            "location" => "Canada",
-            "follower" => 1.5
-        ],
-        "Arista" => [
-            "name" => "Arista",
-            "image" => "arista.jpg",
-            "description" => "US label launched in November 1974 by Clive Davis, in corporation with Columbia Pictures Industries, Inc. (CPI).
-                            According to Billboard Magazine, the label was named for the New York high school honor society.
-                            In 1979 the label's parent company, Arista Records, Inc. was acquired by Bertelsmann AG (parent of German label Ariola) and from 1983 co-owned by RCA. The co-ownership continued until 1987, when Bertelmann acquired full ownership once again. Through a series of mergers, the Arista label is now owned by Sony Music Entertainment.
-                            In September 2011, Sony announced that Arista, its subsidiary LaFace, Jive and J Records were all absorbed by RCA Records, bringing all of its artists to the RCA family. On July 17, 2018, Arista revived under the Sony Music banner, making it one of the four flagship labels under SME.",
-            "location" => "United States Of America",
-            "follower" => 2.3
         ],
         "UMM" => [
             "name" => "UMM",
@@ -2991,42 +1493,12 @@ return [
             "location" => "Italy",
             "follower" => 3.5
         ],
-        "WEA" => [
-            "name" => "WEA",
-            "image" => "wea.jpg",
-            "description" => "WEA is an acronym for Warner Elektra Atlantic. The acronym was introduced in early 1972 when Warner Communications' international music division Kinney Record Group International was renamed WEA International Inc.. All subsidiary companies outside the US eventually changed their names from Kinney to WEA, too.",
-            "location" => "United States Of America",
-            "follower" => 1.3
-        ],
         "Virgin" => [
             "name" => "Virgin",
             "image" => "virgin.jpg",
             "description" => "Started by Richard Branson in the early 1970s as an independent label based in London, UK. The record company Virgin Records Ltd. and subsidiaries which used the Virgin brand was sold to Thorn Emi Plc on 1 June 1992, the various Virgin trademarks however remained the property of Virgin Enterprises Ltd., since 2012 the imprint has been licensed from Virgin Enterprises Ltd. and is used by various companies that form part of the Universal Music Group.",
             "location" => "United Kingdom",
             "follower" => 3.5
-        ],
-        "Streamline Records" => [
-            "name" => "Streamline Records",
-            "image" => "streamline_records.jpg",
-            "description" => "Streamline Records is an imprint that operates under Interscope Records. It was founded in 2007 by Vincent Herbert whom signed artists such as Lady Gaga and Tamar Braxton both to Interscope and Epic.",
-            "location" => "United States Of America",
-            "follower" => 1.1
-        ],
-        "International Deejay Gigolo Records" => [
-            "name" => "International Deejay Gigolo Records",
-            "image" => "international_deejay_gigolo_records.jpg",
-            "description" => "International Deejay Gigolos is a German electronic music record label run by Hell (Helmut Geier).
-                            Started 1996 in Munich as an affiliate of Disko B, Gigolo quickly established itself as an independent label specialized in Electro, House and Techno with 80's Synth-Pop, New Wave and Disco influences.
-                            The first releases contain Arnold Schwarzenegger as part of the logo. The releases were later pasted over and finally had to be taken off the market. Sid Vicious was then used as part of the label logo. Amanda Lepore was also used frequently on records' labels.",
-            "location" => "Germany",
-            "follower" => 1.1
-        ],
-        "UDP" => [
-            "name" => "UDP",
-            "image" => "udp.jpg",
-            "description" => "Italian House label",
-            "location" => "Italy",
-            "follower" => 0.7
         ],
         "EMI" => [
             "name" => "EMI",
@@ -3045,21 +1517,6 @@ return [
                             Also please do not confuse with the Japanese SonyMusic.",
             "location" => "United States Of America",
             "follower" => 3.7
-        ],
-        "SBK Records" => [
-            "name" => "SBK Records",
-            "image" => "sbk_records.jpg",
-            "description" => "Co-founded by Charles Koppelman, Select Records head Martin Bandier and Stephen Swid who purchased the music publishing unit of CBS Records in 1986. The trio founded SBK (4) as a production company in 1989 prior to selling it to EMI and launching the Capitol Records-distributed label.
-                            It was consolidated with Chrysalis and EMI Records USA to create EMI Record Group USA in 1994.",
-            "location" => "United States Of America",
-            "follower" => 2.8
-        ],
-        "Purple Music" => [
-            "name" => "Purple Music",
-            "image" => "purple_music.jpg",
-            "description" => "Garage label from Switzerland. Works with Jamie Lewis and Louis Benedetti.",
-            "location" => "Switzerland",
-            "follower" => 0.8
         ],
         "Superluminal" => [
             "name" => "Superluminal",
@@ -3111,6 +1568,290 @@ return [
             "description" => "Dutch label, devoted to repress of old classic tracks of various genres (Electro, Italo Disco, House).",
             "location" => "Netherlands",
             "follower" => 1.8
+        ],
+        "NOUN Records" => [
+            "name" => "NOUN Records",
+            "image" => "noun_records.jpg",
+            "description" => "Sub label of Undersound Recordings devoted to electronic music in 10” format.",
+            "location" => "United Kingdom",
+            "follower" => 3.3
+        ],
+        "EYA Records" => [
+            "name" => "EYA Records",
+            "image" => "eya_records.jpg",
+            "description" => "UK Label founded in 2018 by Jos.",
+            "location" => "United Kingdom",
+            "follower" => 3.4
+        ],
+        "Danza Tribale" => [
+            "name" => "Danza Tribale",
+            "image" => "danza_tribale.jpg",
+            "description" => "Label run by Adiel.",
+            "location" => "Italy",
+            "follower" => 0.9
+        ],
+        "The Dub" => [
+            "name" => "The Dub",
+            "image" => "the_dub.jpg",
+            "description" => "Italian house label founded in 1997 by Claudio Coccoluto.",
+            "location" => "Italy",
+            "follower" => 4.9
+        ],
+        "Party Tricks" => [
+            "name" => "Party Tricks",
+            "image" => "party_tricks.jpg",
+            "description" => "'Tricks that never fail to amuse at parties'.",
+            "location" => "Germany",
+            "follower" => 2.1
+        ],
+        "My Own Jupiter" => [
+            "name" => "My Own Jupiter",
+            "image" => "my_own_jupiter.jpg",
+            "description" => "Multidisciplinary art platform by Edurne and Nicolas Lutz.",
+            "location" => "Germany",
+            "follower" => 4.1
+        ],
+        "re:discovery records" => [
+            "name" => "re:discovery records",
+            "image" => "re_discovery_records.jpg",
+            "description" => "Electronic label focused on the various sounds of underground chill out music.
+                            The goal of the label is to share favorite lesser known music. Ones that we
+                            feel are timeless and ones we want to share with a new generation. Also some
+                            unreleased music from this time as well. The secondary goal is to help bring
+                            back the chill out rooms where eclectic DJ's thrived with music like this.
+                            Chill out rooms not restricted by any constant BPM or any pressure to
+                            mix perfectly. A freeform style of DJing where a DJ could express his collection
+                            in the fullest and the atmosphere was warm, relaxing, futuristic and welcoming.",
+            "location" => "United Kingdom",
+            "follower" => 3.2
+        ],
+        "Tresor" => [
+            "name" => "Tresor",
+            "image" => "tresor.jpg",
+            "description" => "Berlin-based techno label started in July 1991 by Dimitri Hegemann, taking its name from the techno club set up in an underground vault following the fall of the Berlin Wall.
+                            Formerly a division of Interfisch Records.",
+            "location" => "Germany",
+            "follower" => 4.4
+        ],
+        "SLEEPERS" => [
+            "name" => "SLEEPERS",
+            "image" => "sleepers.jpg",
+            "description" => "Underground vinyl only label devoted to analog music.",
+            "location" => "Germany",
+            "follower" => 3.5
+        ],
+        "Bad Boy Entertainment" => [
+            "name" => "Bad Boy Entertainment",
+            "image" => "bad_boy_entertainment.jpg",
+            "description" => "Sean Combs founded Bad Boy Entertainment in 1991, and began working with Clive Davis and Arista (BMG) in 1993. The two companies formed Bad Boy Records as a 50/50 joint venture.
+                            In 2002, Combs acquired Arista's 50% of their Bad Boy Records joint venture and walks with its complete roster and catalog. Universal acquired a 50% stake in Bad Boy Entertainment for $30 million in February of 2003. Diddy celebrated a new distribution partnership with Universal by releasing an overview of his label, Bad Boy's 10th Anniversary...The Hits, in March of 2004.
+                            In 2006, Bad Boy worked out a deal with Warner Music Group, which owned about a 50% share of the label.
+                            In 2009, Bad Boy left Warner Music Group, and signed a new deal with UMG's Interscope Records. The catalog remained with Warner Music Group.
+                            In 2015, Bad Boy signed another deal with Epic Records, which is currently distributed by Sony Music Entertainment.",
+            "location" => "United States Of America",
+            "follower" => 3.3
+        ],
+        "Big Beat" => [
+            "name" => "Big Beat",
+            "image" => "big_beat.jpg",
+            "description" => "Big Beat is an American electronic and dance music record label based in New York City. It was originally founded as an independent record label in 1987, with an emphasis on house music and, later, hip hop, by a 22-year-old DJ, Craig Kallman, who initially ran the label from his parents' apartment.
+                            Big Beat was bought by Atlantic in 1992, then absorbed into it in 1998, while Kallman was promoted to Vice President of the parent company.
+                            The imprint was relaunched in 2010 as a primarily electronic music / dance music label, with Kallman and Gina Tucci as executives.",
+            "location" => "United States Of America",
+            "follower" => 3.0
+        ],
+        "Duophonic Ultra High Frequency Disks" => [
+            "name" => "Duophonic Ultra High Frequency Disks",
+            "image" => "duophonic_ultra_high_frequency_disks.jpg",
+            "description" => "Duophonic Ultra High Frequency Disks Limited (also known as Duophonic Records or Duophonic Super 45s) is a British independent record label formed by English-French rock band Stereolab in 1991. The label has two imprints: Duophonic Ultra High Frequency Disks for UK Stereolab releases licensed to various labels worldwide, and Duophonic Super 45s for releases of other artists and certain Stereolab UK-only releases. Duophonic's first release was Stereolab's debut EP Super 45 (1991), limited to 880 copies; of these, forty copies had handmade covers that were produced by Martin Pike in his father's garage.",
+            "location" => "United Kingdom",
+            "follower" => 2.4
+        ],
+        "Capitol Records" => [
+            "name" => "Capitol Records",
+            "image" => "capitol_records.jpg",
+            "description" => "The Capitol Records, Inc. company was founded on April 8, 1942 in Hollywood, California as 'Liberty Records' by the songwriters Johnny Mercer, Buddy G. De Sylva and record store owner Glenn Wallichs .
+                            On June 4 of the same year, the label is named 'Capitol' to avoid a conflict with the new yorker Liberty Music shops.
+                            By 1946, Capitol had sold 42 million records and was established as one of the Big Six studios.
+                            In January 1955, the British company Electric & Musical Industries Ltd. (EMI) acquired Capitol Records, Inc for $8.5 million. In 1979, Capitol was made part of the EMI Music 'Worldwide division.' In 2001, EMI Group Plc merged Capitol Records label with the Priority Records label.
+                            In the UK, Europe and Australasia EMI began releasing Capitol product in January 1956 after the licenses with The Decca Record Company Limited and other licensees expired.",
+            "location" => "United States Of America",
+            "follower" => 1.8
+        ],
+        "Loud Enough" => [
+            "name" => "Loud Enough",
+            "image" => "loud_enough.jpg",
+            "description" => "Label run by Marcolino.",
+            "location" => "Italy",
+            "follower" => 0.9
+        ],
+        "Warp Records" => [
+            "name" => "Warp Records",
+            "image" => "warp_records.jpg",
+            "description" => "Founded by Steve Beckett, Rob Mitchell (RIP 2001), and Robert Gordon, Warp (originally to be named Warped, but shortened for communication ease, and later expanded by the backronym 'We Are Reasonable People'), is one of the world's most respected, influential, and loved electronic/experimental dance labels. After many years in Sheffield, UK, they later moved to and are based in London, UK.
+                            Bleep.com, Warp's digital music sales site, was also pioneering in being amongst the first to provide high-quality variable bit rate MP3s for sale (later FLAC and other lossless formats). It joined a slew of attempts at selling music online, and included exclusive tracks, samplings of forthcoming albums, and rarities.",
+            "location" => "United Kingdom",
+            "follower" => 4.5
+        ],
+        "Apollo" => [
+            "name" => "Apollo",
+            "image" => "apollo.jpg",
+            "description" => "Apollo was founded in 1992 as the Ambient division of R & S Records.
+                            Sometimes copyrighted Apollo Records. For unofficial releases pretending to be originals of Apollo, please use Apollo instead.",
+            "location" => "United States Of America",
+            "follower" => 2.6
+        ],
+        "Parlophone" => [
+            "name" => "Parlophone",
+            "image" => "parlophone.jpg",
+            "description" => "Parlophone is an anglicization of the German Parlophon label, registered as a trademark in 1902 by Max Straus and Heinrich Zuntz of Salon Kinematograph Co. GmbH, later merged into Carl Lindström A.-G.. The first Parlophon records are pressed in 1910.
+                            By 1923, Parlophone proper appears in London administered by English Lindström branch known as The Parlophone Co. Ltd., Parlophon records were pressed in London and sold locally. By 1926 extended operations extended to press for export in Australia (#cat A) until the australian factory Parlophone Co. Ltd. was created somewhere the next year. These companies were subsequently taken over by Columbia Graphophone Company Ltd. in 1927, following its acquisition of Carl Lindström A.-G. in 1926, thus becoming a constituent part of Electric & Musical Industries Ltd. (EMI) when that company merged with The Gramophone Co. Ltd. in 1931.
+                            The label largely operated as a Jazz and Novelty label until manager, George Martin, signed the The Beatles in 1962. As a result of its subsequent success and profile, the label was earmarked for phasing out in 1973 in favour of EMI (the label), however the parlophone imprint continued to be used by registered trademark owner EMI Records Ltd. and affiliated companies.
+                            In September 2012 following the acquisition of EMI Group Ltd.'s US and Asian interests by Universal Music Group, Parlophone and the former EMI Records Ltd. were merged as the Parlophone Label Group (PLG Holdco Ltd.) and spun off to be sold.
+                            They were sold to Warner Music Group in March 2013.
+                            The Parlophone label is now owned by Parlophone Records Ltd., the re-named EMI Records Ltd., itself a subsidiary of Warner Music International.
+                            The Beatles were not part of the Parlophone Label Group and their catalogue was acquired by Universal.",
+            "location" => "United Kingdom",
+            "follower" => 3.2
+        ],
+        "KLF Communications" => [
+            "name" => "KLF Communications",
+            "image" => "klf_communications.jpg",
+            "description" => "Label formed in 1987 by Bill Drummond and Jimi Cauty as an outlet for their own work as Justified Ancients Of Mu Mu and later as The KLF. The label (and its owners) scored a surprise #1 hit in 1988 with 'Doctorin' The Tardis, a novelty single credited to The Timelords. But all involved survived this blow to their credibility and returned with a string of rave classics including the international hits 'What Time Is Love?' and '3 AM Eternal', as well as creating one of the earliest (and finest) ambient house LPs with 1990's 'Chill Out'.",
+            "location" => "Germany",
+            "follower" => 2.9
+        ],
+        "Perlon" => [
+            "name" => "Perlon",
+            "image" => "perlon.jpg",
+            "description" => "Perlon is a minimal techno/microhouse record label, founded in 1997 by Markus Nikolai, Thomas Franzmann (Zip) and Chris Rehberger at Frankfurt and currently based in Berlin. It is often recognized as one of the genre-defining labels in the world of minimalistic and experimental techno. All releases on Perlon are physical only (vinyl and CD), not available for downloading.
+                            Perlon catalog includes such artists as Ricardo Villalobos, Baby Ford, Stefan Goldmann, Akufen, Pantytec, Dandy Jack, A Guy Called Gerald, Wareika and many others. The label famously never accepts demos. The name of the label came from Nikolai. Originally it was a working title for one of the albums of Pile, his project with Zip and graphic designer Chris Rehberger, who later created famous Perlon logo and designed covers for a number of their releases.",
+            "location" => "Germany",
+            "follower" => 5.1
+        ],
+        "Cannibald Records" => [
+            "name" => "Cannibald Records",
+            "image" => "cannibald_records.jpg",
+            "description" => "Electronic music label based in Italy and founded in 2008 by Leo Anibaldi.",
+            "location" => "Italy",
+            "follower" => 0.8
+        ],
+        "Bordello A Parigi" => [
+            "name" => "Bordello A Parigi",
+            "image" => "bordello_a_parigi.jpg",
+            "description" => "Dutch label, distribution and record store founded by Otto Kraanen.",
+            "location" => "Netherlands",
+            "follower" => 3.9
+        ],
+        "Artificial Dance" => [
+            "name" => "Artificial Dance",
+            "image" => "artificial_dance.jpg",
+            "description" => "Artificial Dance is an independent label from Amsterdam, founded by Olf Van Elden aka Interstellar Funk in 2017.
+                            Exclusively distributed by Rush Hour Music.",
+            "location" => "Netherlands",
+            "follower" => 1.3
+        ],
+        "Freeze Records" => [
+            "name" => "Freeze Records",
+            "image" => "freeze_records.jpg",
+            "description" => "House, hip hop and dancehall record label founded in 1991 by Todd Terry and Will Socolov (who had established Fresh Records and Sleeping Bag Records in the mid-1980s).
+                            Freeze's label manager and executive producer was Steve Oaklander aka Steve-O.
+                            Manufactured and distributed early Roc-A-Fella Records including Jay-Z's first album.
+                            The label folded around 1997. Oaklander went on to run Playland Records.
+                            Freeze was revived in January 2013 in collaboration with Dutch label Clone.",
+            "location" => "United States Of America",
+            "follower" => 1.5
+        ],
+        "Rawax" => [
+            "name" => "Rawax",
+            "image" => "rawax.jpg",
+            "description" => "Record label from Frankfurt am Main, Germany.",
+            "location" => "Germany",
+            "follower" => 2.9
+        ],
+        "Music Man Records" => [
+            "name" => "Music Man Records",
+            "image" => "music_man_records.jpg",
+            "description" => "Belgian techno label.
+                            Well known techno label founded in 1989 as a subdivision of N.E.W.S. and is managed by Stefaan Vandenberghe.",
+            "location" => "Belgium",
+            "follower" => 3.1
+        ],
+        "[a:rpia:r]" => [
+            "name" => "[a:rpia:r]",
+            "image" => "arpiar.jpg",
+            "description" => "Electronic label based in Romania founded by Rhadoo, Petre Inspirescu & Raresh.",
+            "location" => "Romania",
+            "follower" => 3.3
+        ],
+        "Young Turks" => [
+            "name" => "Young Turks",
+            "image" => "young_turks.jpg",
+            "description" => "XL Recordings imprint turned independent label, partnered with XL, founded by Caius Pawson in Ladbroke Grove, London in 2005. 'Young Turks', was chosen after the Rod Stewart song Young Turks of the same name. Salvia Recordings absorbed into Young Turks in 2009.
+                            On 6th April 2021, the label announced on social media that it was changing its name to Young due to the association of 'Young Turks' with the 1915 Armenian Genocide.
+                            The label is also known for sporadically running/promoting club nights around London.",
+            "location" => "United Kingdom",
+            "follower" => 2.5
+        ],
+        "Shanti Records" => [
+            "name" => "Shanti Records",
+            "image" => "shanti_records.jpg",
+            "description" => "Roman Filippov aka FILQ has founded Shanti Records in Moscow in 2008.
+                            Label is related to a Moscow-based club Shanti.",
+            "location" => "Russia",
+            "follower" => 1.8
+        ],
+        "An Alien Recordings" => [
+            "name" => "An Alien Recordings",
+            "image" => "an_alien_recordings.jpg",
+            "description" => "UK electro, breakbeat, house and deep-techno label started in the late 90s by Andy Panayi and Alec Stone (A²).
+                            They also used to run a night, in various locations, in and around London called Alienation along with Rob Collman and Martin Whelan.",
+            "location" => "United Kingdom",
+            "follower" => 2.1
+        ],
+        "Libertine Records" => [
+            "name" => "Libertine Records",
+            "image" => "libertine_records.jpg",
+            "description" => "Electronic music label based in Berlin, Germany.",
+            "location" => "Germany",
+            "follower" => 3.8
+        ],
+        "Metropolita recordings" => [
+            "name" => "Metropolita recordings",
+            "image" => "metropolita_recordings.jpg",
+            "description" => "Electronic music label based in London, UK, founded by Riccardo Buccirossi alias Riccardo.",
+            "location" => "United Kingdom",
+            "follower" => 2.2
+        ],
+        "Club Vision Records" => [
+            "name" => "Club Vision Records",
+            "image" => "club_vision_records.jpg",
+            "description" => "Italian promoter (since October 2011) and label (since September 2016) from Cuneo.",
+            "location" => "Italy",
+            "follower" => 1.3
+        ],
+        "Melliflow" => [
+            "name" => "Melliflow",
+            "image" => "melliflow.jpg",
+            "description" => "Electronic music label based in Berlin, founded and curated by Vera & Alexandra.",
+            "location" => "Germany",
+            "follower" => 2.3
+        ],
+        "Tenax Recordings" => [
+            "name" => "Tenax Recordings",
+            "image" => "tenax_recordings.jpg",
+            "description" => "Italian tech-progressive house label.
+                            Member of Bustin' Loose Recordings.
+                            Founded in April 2004 by Alex Neri.",
+            "location" => "Italy",
+            "follower" => 2.0
+        ],
+        "Lowmoneymusiclove" => [
+            "name" => "Lowmoneymusiclove",
+            "image" => "lowmoneymusiclove.jpg",
+            "description" => "Friendship reflected through machines & records. Uniting the sound of past generations with the present. Label family includes Alexander Einetter, Avos (DJ Tjizza & Roderick Merkx) and Moses Mawila aka Frozilla. Founded in Frankfurt am Main & Amsterdam, based in Berlin.",
+            "location" => "Germany",
+            "follower" => 2.3
         ]
     ]
 ];
