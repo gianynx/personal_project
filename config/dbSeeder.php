@@ -188,20 +188,19 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Desaraé Wild - Give Me The Rhythm",
-                    "price" => 1.00,
-                    "image" => "desarae_wild_give_me_the_rhythm.jpg",
-                    "year" => 1989,
+                    "title" => "George Morel - Let's Groove",
+                    "price" => 3.45,
+                    "image" => "george_morel_lets_groove.jpg",
+                    "year" => 1996,
                     "genres" => "Electronic",
                     "styles" => "House",
-                    "artist" => "Desaraé Wild",
+                    "artist" => "George Morel",
                     "label" => "Strictly Rhythm",
                     "tracks" => [
-                        ["title" => "Give Me The Rhythm (Diamond Cut)", "duration" => "6:32"],
-                        ["title" => "Give Me The Rhythm (Euro-Passion Mix)", "duration" => "6:33"],
-                        ["title" => "Give Me The Rhythm (Elle 'Vogue' Mix)", "duration" => "6:05"],
-                        ["title" => "Give Me The Rhythm (Bang Bang Mix)", "duration" => "5:57"],
-                        ["title" => "Give Me The Rhythm (Radio Cut)", "duration" => "3:45"]
+                        ["title" => "Let's Groove (Morel Deep Club Mix)", "duration" => "6:53"],
+                        ["title" => "Let's Groove (Morel Groove Dub)", "duration" => "6:15"],
+                        ["title" => "Let's Groove (JM's Eastside Dub)", "duration" => "7:45"],
+                        ["title" => "Let's Groove (Morel Pop Mix)", "duration" => "5:53"]
                     ]
                 ],
                 [
@@ -364,19 +363,17 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Doug Beck - Lapse",
-                    "price" => 17.00,
-                    "image" => "doug_beck_lapse.jpg",
-                    "year" => 2023,
+                    "title" => "Richie Hawtin - The Tunnel / Twin Cities",
+                    "price" => 5.00,
+                    "image" => "richie_hawtin_the_tunnel_twin_cities.jpg",
+                    "year" => 2005,
                     "genres" => "Electronic",
-                    "styles" => ["Acid House", "Techno", "Breakbeat", "Trip Hop", "Darkwave"],
-                    "artist" => "Doug Beck",
-                    "label" => "Party Tricks",
+                    "styles" => ["Techno", "Minimal"],
+                    "artist" => "Richie Hawtin",
+                    "label" => "M_nus",
                     "tracks" => [
-                        ["title" => "Lapse", "duration" => "6:13"],
-                        ["title" => "In The Tunnel", "duration" => "8:09"],
-                        ["title" => "Here Kitty", "duration" => "6:30"],
-                        ["title" => "Steam", "duration" => "6:33"]
+                        ["title" => "The Tunnel", "duration" => "8:29"],
+                        ["title" => "Twin Cities", "duration" => "2:58"]
                     ]
                 ],
                 [
@@ -423,20 +420,19 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Optic Eye / Optica - Jake Stephenson Tribute EP",
-                    "price" => 19.43,
-                    "image" => "optic_eye_optica_jake_stephenson_tribute.jpg",
-                    "year" => 2023,
+                    "title" => "Dimbiman - Good Morning, Eyeball",
+                    "price" => 27.00,
+                    "image" => "dimbiman_good_morning_eyeball.jpg",
+                    "year" => 1997,
                     "genres" => "Electronic",
-                    "styles" => ["Trance", "Techno", "Ambient"],
-                    "artist" => "Optic Eye / Optica",
-                    "label" => "re:discovery records",
+                    "styles" => ["Tech House", "Minimal"],
+                    "artist" => "Dimbiman",
+                    "label" => "Perlon",
                     "tracks" => [
-                        ["title" => "Optic Eye - The Listening", "duration" => "5:20"],
-                        ["title" => "Optic Eye - Brain Of Morbius", "duration" => "6:15"],
-                        ["title" => "Optica - Dolcevita", "duration" => "5:12"],
-                        ["title" => "Optica - Hashidity", "duration" => "6:53"],
-                        ["title" => "Optica - Macrorobotic", "duration" => "7:23"]
+                        ["title" => "Good Morning, Eyeball", "duration" => "5:41"],
+                        ["title" => "Do The Bimbi", "duration" => "5:30"],
+                        ["title" => "Minsp", "duration" => "3:20"],
+                        ["title" => "Aloha", "duration" => "6:12"]
                     ]
                 ]
             ]
@@ -1598,12 +1594,14 @@ return [
             "location" => "Italy",
             "follower" => 4.9
         ],
-        "Party Tricks" => [
-            "name" => "Party Tricks",
-            "image" => "party_tricks.jpg",
-            "description" => "'Tricks that never fail to amuse at parties'.",
+        "M_nus" => [
+            "name" => "M_nus",
+            "image" => "m_nus.jpg",
+            "description" => "Since 1998, Minus has been the home base and canvas for Richie Hawtin and a small family of like-minded artists, producers and DJs hailing from the Americas and Europe. Hawtin's Plastikman and Concept projects established the label at the start while inspiring a new generation of producers to join his side, creating one of the most close-knit collectives in electronic music today.
+                            The musical and live experience of the Minus sound is a varied and unique mix of minimal techno, heralding influences from the past with a strong sonic focus on the future, always integrating technology. A specific design aesthetic is present through the broad catalog of vinyl, CD, DVD and digital releases, accented with special packaging, limited editions and special promo products.
+                            Although the label name is Minus, and that's how promotional materials refer to it in prose, the branding appears on releases as (approximately) M_nus, so to reduce confusion, that's the name used on within the database.",
             "location" => "Germany",
-            "follower" => 2.1
+            "follower" => 5.2
         ],
         "My Own Jupiter" => [
             "name" => "My Own Jupiter",
@@ -1907,7 +1905,159 @@ return [
                         As a youth he was an honor-roll student, but dropped out of school at the age of 17 and began working for a small-time crack cocaine dealer in Virginia. As a teen he would freestyle rap on the streets of Brooklyn. After making a demo tape with neighborhood friends and connections, this demo was eventually received DJ Mister Cee (from Big Daddy Kane). From there he got notice in Hip-Hop magazine, The Source, in the Unsigned Hype section. Sean 'Puffy' Combs got a hold of the demo tape and after meeting signed Biggie to Uptown Records. Puffy eventually started his own music label, Bad Boy Records, bringing Biggie with him. Soon after Bad Boy's premiere he released the album, Ready To Die, eventually selling over 4 million copies. To this day B.I.G. is regarded as one of the best lyricist ever in Hip-Hop along with his one time friend and eventual adversary, Tupac Shakur.",
             "nationality" => "United States Of America",
             "follower" => 3.2
+        ],
+        "Christian AB" => [
+            "name" => "Christian",
+            "surname" => "Brown",
+            "image"=> "christian_ab.jpg",
+            "profile" => "With a passion for unearthing forgotten gems within electronic music and beyond, Christian's distinctive sound breaks down the barriers of club music and consistently delights with unexpected twists and turns, bringing a playful energy that continues to cement his reputation as a DJ not to be missed.",
+            "nationality" => "United Kingdom",
+            "follower" => 3.7
+        ],
+        "Marshall Jefferson" => [
+            "name" => "Marshall Julius",
+            "surname" => "Jefferson",
+            "image"=> "marshall_jefferson.jpg",
+            "profile" => "DJ and producer from Chicago, now based in the UK.
+                        Established Other Side Records in 1985 and Open House Recordings in 2011.",
+            "nationality" => "United States Of America",
+            "follower" => 3.9
+        ],
+        "Djedjotronic" => [
+            "name" => "Jérémy",
+            "surname" => "Cottereau",
+            "image"=> "djedjotronic.jpg",
+            "profile" => "DJ and producer, Djedjotronic has forged a strong and singular sound identity throughout his fifteen years of career. His versatile music, imbued with a retro-futuristic universe, is fed by Detroit techno, Warp electronica, European New Beat and industrial music.
+                        Djedjotronic evolves at the crossroads of several families, his last EP is released on Jensen Interceptor's International Chrome label.",
+            "nationality" => "France",
+            "follower" => 2.1
+        ],
+        "Unknown Artist" => [
+            "name" => "Unknown Artist",
+            "surname" => "Unknown Artist",
+            "image"=> "?",
+            "profile" => "?",
+            "nationality" => "?",
+            "follower" => 0.0
+        ],
+        "George Morel" => [
+            "name" => "George",
+            "surname" => "Morel",
+            "image"=> "george_morel.jpg",
+            "profile" => "With a career spanning 2 decades and an entire generation, George Morel never fails to leave an impression while playing his style of Deep House, Minimal-Tech and Tech-House music. His consistency has earned his bona fides among deejays and fans in electronic dance music scene. Morel's Groove trademark understandably develops a niche and certain sounds that Morel is known for by crafting a unique style of originality years after year.",
+            "nationality" => "United States Of America",
+            "follower" => 4.3
+        ],
+        "Inner City" => [
+            "name" => "Kevin Saunderson, Dantiez Saunderson, Steffanie Christi'an",
+            "surname" => "-",
+            "image"=> "inner_city.jpg",
+            "profile" => "American house and techno group formed in Detroit in 1988. The group is composed of producer and composer Kevin Saunderson and Chicago native Shanna Jackson, a.k.a. Paris Grey. Kevin Saunderson is renowned as one of the Belleville Three (along with Juan Atkins and Derrick May), the main originators of the Detroit Techno sound.",
+            "nationality" => "United States Of America",
+            "follower" => 8.8
+        ],
+        "DMX Krew" => [
+            "name" => "Edward",
+            "surname" => "Upton",
+            "image"=> "dmx_krew.jpg",
+            "profile" => "Artist DJ producer performer engineer and label owner from London (UK). He is the founder of Breakin' Records and Fresh Up Records. Additionally to his artist career, he has joined Curve Pusher mastering team, in 2018.",
+            "nationality" => "United Kingdom",
+            "follower" => 5.2
+        ],
+        "Elecktroids" => [
+            "name" => "-",
+            "surname" => "-",
+            "image"=> "elecktroids.jpg",
+            "profile" => "While the line up of Elecktroids has been debated at length amongst the electronic music community, and it is known that the project involved a member or members of Drexciya, the exact membership is unclear.
+                        In July 2008 when Warp Records re-listed the CD version of the 'Elektroworld' album on their Warpmart site, the promotional texts stated 'Produced by Drexciya's late James Stinson'.",
+            "nationality" => "United States Of America",
+            "follower" => 4.4
+        ],
+        "Orlando Voorn" => [
+            "name" => "Orlando",
+            "surname" => "Voorn",
+            "image"=> "orlando_voorn.jpg",
+            "profile" => "As one of the first Dutch musicians to establish a vital connection between Detroit and Amsterdam, Orlando Voorn has long been recognized as one of the Netherland's most original and inventive producers in the world of electronic dance music.
+                        Voorn (born 25 April 1968, in Amsterdam) began djing at the tender age of 12 and went on to win the Dutch DMC DJ Championships in 1986 with his own characteristic blend of hiphop and electro. Towards the end of the eighties he acquired his first sequencer, packed away his turntables and turned his hand to producing.
+                        Following a series of dancefloor tracks recorded for the now defunct Lower East Side Records under the monniker of Frequency in the early nineties (Where Is Your Evidence, Kiss The Sky…), he was introduced to Juan Atkins (Industrial Metal, Game One) and went on to work with both Derrick May and Blake Baxter (as one half of the Ghetto Brothers). Voorn was also recording as Nighttripper (Tone Exploitation), Format (Solid Session - one of the most sought after classic techno records until its re-release in 1998), Basic Bastard, The Living Room, Baruka, Fix (Flash on Kevin Saunderson's legendary KMS label), Dope Dog, Boy (Paco Di Bango's World) and Stalker (The Stalker/The Riderman)… Many of these tracks can be heard on the double cd Best of Nightvision.
+                        Having made his mark producing his own vision of techno, ambient and hiphop and adamantly sidestepping genre limitations thus far, Voorn's announcement that his 'Redeye' album would see a foray into drum'n'bass territory aroused both anticipation and curiosity. While Voorn undoubtedly has an ear for melody, this has always been combined with an innate understanding of the importance of atmosphere and tension in music. Like Squarepusher, Amon Tobin, and Photek, he uses drum'n'bass rhythms to create something beyond pure dance music.",
+            "nationality" => "Netherlands",
+            "follower" => 6.1
+        ],
+        "Lake Haze" => [
+            "name" => "Gonçalo",
+            "surname" => "Salgado",
+            "image"=> "lake_haze.jpg",
+            "profile" => "Portuguese electronic musician from Lisbon.",
+            "nationality" => "Portugal",
+            "follower" => 2.3
+        ],
+        "Adiel" => [
+            "name" => "-",
+            "surname" => "-",
+            "image"=> "adiel.jpg",
+            "profile" => "Having made a practice to steer crowds into deep ecstasy with her hypnotic sets at famed Goa Ultrabeat parties in Rome where she operates as a resident DJ, Adiel kicked off her own label, Danza Tribale.",
+            "nationality" => "Italy",
+            "follower" => 2.1
+        ],
+        "Depeche Mode" => [
+            "name" => "Martin L. Gore, Dave Gahan",
+            "surname" => "-",
+            "image"=> "depeche_mode.jpg",
+            "profile" => "English electronic music band formed March 1980 in Basildon, Essex, and named after a popular French fashion magazine. The group's original line-up consisted of Dave Gahan (lead vocals, occasional songwriter since 2005) Martin Gore (keyboards, guitar, vocals, chief songwriter after 1981) Andy Fletcher (keyboards) and Vince Clarke (keyboards, and chief songwriter from 1980 until 1981).
+                        Depeche Mode released their debut record 'Speak & Spell,' in 1981, bringing them into the British new-wave scene. Soon after the release of the album, Clarke decided to quit the band, leaving them to record their next album, 1982's 'A Broken Frame,' as a trio. Gore took over lead songwriting duties and, later in 1982, Alan Wilder (keyboards, drums, occasional songwriter) officially joined the band to fill Clarke's spot, thus establishing a line-up that would continue for the next thirteen years.
+                        1983's groundbreaking 'Construction Time Again,' and 1984's 'Some Great Reward,' gained the band extensive popularity in the US. The subsequent releases of 1986's 'Black Celebration,' and 1987's 'Music for the Masses,' established them as a dominant force on the mainstream electronic music scene. A highlight of this era was the band's concert at the Pasadena Rose Bowl, titled '101,' where they drew a crowd in excess of 60,000 people. The latter end of the US tour was recorded and released on VHS video, and was titled '101.' The show itself was recorded and released as a double live album, and carried the same title.
+                        In the new decade, Depeche Mode released 1990's 'Violator,' which was a massive mainstream success. The subsequent album, 1993's 'Songs of Faith and Devotion,' and the supporting 'Devotional Tour,' exacerbated tensions within the band to the point where Alan Wilder quit in 1995, leading to intense media and fan speculation that the band would split.
+                        Now a trio once again, the band released 'Ultra,' in 1997. This album was recorded during the height of Dave Gahan's near-fatal drug abuse, Martin Gore's alcoholism and seizures, along with Andrew Fletcher's bout with serious depression. For these reasons, there was no worldwide tour for this album. In 1998, the band released 'The Singles 81 > 85,' which was a re-issue of 1985's 'The Singles 81 → 85.' The latter release contained 'Photographic (Some Bizarre Version)' & 'Just Can't Get Enough (Schizo Remix).'
+                        They also released 'The Singles 86>98,' and there was a subsequent world tour, titled 'The Singles Tour.'
+                        The release of 2001's 'Exciter,' confirmed Depeche Mode's willingness to remain together, the subsequent, and very successful. The 'Exciter Tour,' was their first tour in support of an original album since 1993. Again, the band did tour in 1998 to support the aforementioned 'The Singles 86-98,' compilation albums.
+                        Depeche Mode have had fifty songs in the UK Singles Chart and thirteen top 10 albums in the UK charts, two of which debuted at No. 1. Depeche Mode have to this day sold over 100 million records worldwide, making them one of the most commercially successful electronic bands and one of the world's best-selling music artists. Q magazine calls Depeche Mode 'the most popular electronic band the world has ever known,' and included the band in the list of the '50 Bands That Changed the World!' Depeche Mode also rank number 98 on VH1's '100 Greatest Artists Of All Time.'",
+            "nationality" => "United Kingdom",
+            "follower" => 8.9
+        ],
+        "Claudio Coccoluto" => [
+            "name" => "Claudio",
+            "surname" => "Coccoluto",
+            "image"=> "claudio_coccoluto.jpg",
+            "profile" => "Italian DJ and producer. Founder of The Dub.
+                        Born in Gaeta on 17 August 1962 and died in Cassino on 02 March 2021.",
+            "nationality" => "Italy",
+            "follower" => 5.4
+        ],
+        "Richie Hawtin" => [
+            "name" => "Richard Michael",
+            "surname" => "Hawtin",
+            "image"=> "richie_hawtin.jpg",
+            "profile" => "Canadian (British born) producer, label manager and DJ, born June 4, 1970; brother of Matthew Hawtin.
+                        Although mainly influenced by Detroit techno, Hawtin has developed his own style ranging from harder noisy techno to deep minimal abstract acid, particularly under his best known alias Plastikman. He was involved in the development of the Final Scratch digital DJ technology and has continued to use new technology as it becomes available.
+                        Founded the Plus 8 Records, M_nus and Probe Records techno labels.
+                        Before becoming a DJ worked in a video game shop & at McDonald's.",
+            "nationality" => "Canada",
+            "follower" => 6.7
+        ],
+        "Digregorius" => [
+            "name" => "Franco",
+            "surname" => "Di Gregorio",
+            "image"=> "digregorius.jpg",
+            "profile" => "Franco Di Gregorio, a.k.a. Digregorius, has a bold character, is passionate about music, spirituality and arts in all its expressions. He is an unbiased seeker of new landscapes that both link and connect the mundane with the transcendent, the old and primitive with the present and fiction of the future.",
+            "nationality" => "Uruguay",
+            "follower" => 3.1
+        ],
+        "Transllusion" => [
+            "name" => "James Marcel",
+            "surname" => "Stinson",
+            "image"=> "transllusion.jpg",
+            "profile" => "Born on September 14, 1969, James Stinson grew up on Detroit's east side and graduated from Kettering in 1989. He died September 3, 2002 of heart complications in Newnan, Georgia, where he had moved earlier that year for health reasons.",
+            "nationality" => "United States Of America",
+            "follower" => 2.4
+        ],
+        "Dimbiman" => [
+            "name" => "Thomas",
+            "surname" => "Franzmann",
+            "image"=> "dimbiman.jpg",
+            "profile" => "German DJ and producer, co-founder of legendary minimal techno label Perlon. His main recording alias is Zip. Thomas started playing electronic-related music in the late 80's, as a member of the EBM band Bigod 20 (with Markus Nikolai and Talla). At this time he first encountered minimal techno - label manager at Sire handed them a stack of promos to distribute on the US-tour, and one of them was Baby Ford - BFORD 9. This record dramatically influenced Franzmann, to the point that he stopped being a singer at the band and focused on electronic productions.",
+            "nationality" => "Germany",
+            "follower" => 5.2
         ]
-
     ]
 ];
