@@ -1021,13 +1021,13 @@ return [
                     ]
                 ],
                 [
-                    "title" => "D.J. Pierre - Love Trax",
+                    "title" => "DJ Pierre - Love Trax",
                     "price" => 4.99,
                     "image" => "dj_pierre_love_trax.jpg",
                     "year" => 1992,
                     "genres" => "Electronic",
                     "styles" => ["House", "Deep House"],
-                    "artist" => "D.J. Pierre",
+                    "artist" => "DJ Pierre",
                     "label" => "Strictly Rhythm",
                     "tracks" => [
                         ["title" => "Love Izz", "duration" => "5:55"],
@@ -1351,13 +1351,13 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Fabio Della Torre & David C. - Magenta E.P.",
+                    "title" => "Fabio Della Torre",
                     "price" => 4.99,
                     "image" => "fabio_della_torre_&_david_magenta.jpg",
                     "year" => 2006,
                     "genres" => "Electronic",
                     "styles" => ["Minimal", "Tech House"],
-                    "artist" => "Fabio Della Torre & David C.",
+                    "artist" => "Fabio Della Torre",
                     "label" => "Tenax Recordings",
                     "tracks" => [
                         ["title" => "Magenta", "duration" => "6:02"],
@@ -2058,6 +2058,197 @@ return [
             "profile" => "German DJ and producer, co-founder of legendary minimal techno label Perlon. His main recording alias is Zip. Thomas started playing electronic-related music in the late 80's, as a member of the EBM band Bigod 20 (with Markus Nikolai and Talla). At this time he first encountered minimal techno - label manager at Sire handed them a stack of promos to distribute on the US-tour, and one of them was Baby Ford - BFORD 9. This record dramatically influenced Franzmann, to the point that he stopped being a singer at the band and focused on electronic productions.",
             "nationality" => "Germany",
             "follower" => 5.2
+        ],
+        "Ricardo Villalobos" => [
+            "name" => "Ricardo",
+            "surname" => "Villalobos",
+            "image"=> "ricardo_villalobos.jpg",
+            "profile" => "Ricardo Villalobos was born in Santiago de Chile in 1970. Following the military coup in 1973, his parents fled to Darmstadt, Germany, where he began an informal musical education taking in samba, salsa and synth pop. In the early 1980s, Villalobos became an avowed Depeche Mode fanatic and began tinkering with his first Roland SH101 synthesizer while learning various South American percussion instruments.
+                        His epiphanic introduction to dance music came in 1988, when Acid House blew into continental Europe from Chicago via the UK and permanently changed the course of German electronic music. Soon after, he DJed his first club gigs and organised illegal warehouse and Autobahn underpass parties, as well as more intimate soirées in his parent'' basement with visiting legends like Boo Williams and Carl Craig. In 1992 he released his first 1'', while pursuing degrees in law and political science at Darmstadt Technical University. He quit education to concentrate on music full time, which began to pay off following mid-90s releases on Playhouse and subsequent residencies at Frankfurt's The Box and Omen.
+                        As the city's flourishing electronic scene moved on from its EBM roots towards newer rave vistas, Villalobo''s deep, Minimal House and Techno morphed from a barebones Rhythm And Sound aesthetic (1999's “808 The Bass Queen”) to the more confident Halma EP (2002). By the release of his first longplayer Alcachofa in 2003, Minimal Techno had become a recognised genre, and Villalobos one of the most respected practitioners of its Berlin-centric second wave.
+                        Since then, his star has continued to rise, both as a DJ of marathon sets and a producer, releasing critically acclaimed LPs and numerous club 12''s. Over the years there has been a shift from his hallucinatory, minimal, conga-inflected sound into a more experimental mode, marked by extended forays into modular synthesis.",
+            "nationality" => "Chile",
+            "follower" => 9.3
+        ],
+        "Ennio Morricone" => [
+            "name" => "Ennio",
+            "surname" => "Morricone",
+            "image"=> "ennio_morricone.jpg",
+            "profile" => "Ennio Morricone (Italian pronunciation: ['ɛnnjo morri'ko:ne]) was an italian composer (born 10 November 1928, Rome, Italy - died 6 July 2020, Rome, Italy). A favourite pupil of Goffredo Petrassi, he also deputized secretly for his trumpeter father in a light music orchestra. He thus developed two distinct sides to his musical personality: one of these led him to embrace serialism and the experimental work of the improvisation group Gruppo di Improvvisazione Nuova Consonanza; the other gained him a leading role, principally as an arranger, in all types of mass-media popular music, including songs for radio, radio and television plays, and the first successful television variety shows.
+                        After many minor cinematic collaborations, Morricone achieved wider recognition with Sergio Leone's series of four Westerns. There followed important collaborations with directors such as Bernardo Bertolucci, Pier Paolo Pasolini, Elio Petri, Paolo and Vittorio Taviani, Valerio Zurlini, Roland Joffé and Brian De Palma. Despite inevitable self-repetitions over a total of more than 400 film scores, his work provides many examples of a highly original fusion of classical and popular idioms.
+                        Morricone's non-film works form a large and increasingly widely performed part of his output. Many of them use his technique of 'micro-cells', a pseudo-serial approach often incorporating modal and tonal allusions, which, with its extreme reduction of compositional materials, has much in common with his film-music techniques.
+                        Among honours, he won the Academy Award in 2016 for his score to Quentin Tarantino's The Hateful Eight and has received five Academy Award nominations between 1979 and 2001, a Grammy and a Leone d'oro, and was awarded the Laurea ad Honorem by the University of Cagliari. Between 1991 and 1996 he taught film music at the Accademia Musicale Chigiana, Siena.",
+            "nationality" => "Italy",
+            "follower" => 9.0
+        ],
+        "DJ Pierre" => [
+            "name" => "Nathaniel Pierre",
+            "surname" => "Jones",
+            "image"=> "dj_pierre.jpg",
+            "profile" => "Producer and DJ from Chicago.
+                        He helped shape the emerging house music scenes in Chicago and New York. A prolific producer, having released countless tracks under numerous aliases, DJ Pierre is responsible for pioneering the acid house sound back in 1987 with Phuture, releasing the pivotal Acid Tracks under Trax Records. He also responsible for creating the Wild Pitch sound after moving to New York with the release of Generate Power as Photon Inc. He was Strictly Rhythm's A&R in the '90s.
+                        Runs DJP Records.",
+            "nationality" => "United States Of America",
+            "follower" => 5.3
+        ],
+        "Giovanni Allevi" => [
+            "name" => "Giovanni",
+            "surname" => "Allevi",
+            "image"=> "giovanni_allevi.jpg",
+            "profile" => "Italian pianist, composer and conductor, born April 9th, 1969 in Ascoli Piceno, Italy.",
+            "nationality" => "Italy",
+            "follower" => 2.2
+        ],
+        "The XX" => [
+            "name" => "Romy Madley Croft, Oliver Sim, Jamie Smith",
+            "surname" => "Allevi",
+            "image"=> "the_xx.jpg",
+            "profile" => "The xx (constantly credited with lower case 'xx') are an English indie pop band from Wandsworth, London, formed in 2005.
+                        Romy Madley Croft - vocals, guitar
+                        Oliver Sim - vocals, bass
+                        Jamie Smith - beats, production, keyboards
+                        On November 11, 2009 it was officially announced that Baria Qureshi (guitar, keyboard) was no longer part of the band citing exhaustion and personal differences.",
+            "nationality" => "United Kingdom",
+            "follower" => 4.1
+        ],
+        "Pink Floyd" => [
+            "name" => "David Gilmour, Nick Mason, Richard Wright, Roger Waters, Syd Barrett",
+            "surname" => "-",
+            "image"=> "pink_floyd.jpg",
+            "profile" => "Pink Floyd was an English rock band from London. Founded in 1965, the group achieved worldwide acclaim, initially with innovative psychedelic music, and later in a genre that came to be termed progressive rock.
+                        Distinguished by philosophical lyrics, musical experimentation, frequent use of sound effects and elaborate live shows, Pink Floyd remains one of the most commercially successful and influential groups in the history of popular music.
+                        David Gilmour - guitar, slide guitar, vocals (1968-2014)
+                        Richard Wright - keyboards, vocals (1965-1980, 1987-2008)
+                        Nick Mason - drums, percussion, sound effects (1965-2014)
+                        Roger Waters - bass guitar, vocals, sound effects (1965-1985)
+                        Syd Barrett - guitar, vocals (1965-1968)
+                        Other players:
+                        Rado Klose - guitar (1965)
+                        Jon Carin - backing vocals, keyboards, slide guitar, sound effects (1985-1995)
+                        Guy Pratt - bass guitar, backing vocals (1987-1995)
+                        Inducted into Rock And Roll Hall of Fame in 1996 (Performer).
+                        Group name was taken from both Pink Anderson and Floyd 'Dipper Boy' Council as a tribute to the American blues music they loved.",
+            "nationality" => "United Kingdom",
+            "follower" => 8.2
+        ],
+        "Terrence Dixon" => [
+            "name" => "Terrence",
+            "surname" => "Dixon",
+            "image"=> "terrence_dixon.jpg",
+            "profile" => "Terrence Dixon, also known under the Population One moniker, describes his techno as “Forward-thinking ghetto electronics” and is widely recognised for his incongruous, minimalist sound design, authenticity, and dedication. A prolific producer, his 30-year studio career has seen releases on Metroplex, Tresor and Rush Hour to name but a few. Dixon's sound safeguards Detroit techno so that it will remain relevant in the years to come and his tracks have been some of the most exhilarating of the 21st century. He is a champion of the Detroit sound, who is firmly rooted in the city's grand tradition, but also propels things forward in unexpected ways.",
+            "nationality" => "United States Of America",
+            "follower" => 4.1
+        ],
+        "Bob Dylan" => [
+            "name" => "Robert",
+            "surname" => "Dylan",
+            "image"=> "bob_dylan.jpg",
+            "profile" => "Born: May 24, 1941, Duluth, Minnesota, USA; singer, songwriter, 'song and dance man'.
+                        Inducted into Songwriters Hall of Fame in 1982 and the Rock And Roll Hall of Fame in 1988 (Performer). Winner of the 2016 Nobel Prize in literature.
+                        His first marriage was to Sara Dylan (November 1965 - divorced June 1977), together they have five children, including Jesse Dylan and Jakob Dylan. His second marriage was to Carolyn Dennis (4 June 1986 - divorced 7 August 1990).",
+            "nationality" => "United States Of America",
+            "follower" => 4.8
+        ],
+        "The Clash" => [
+            "name" => "John Mellor, Nick Sheppard, Paul Simonon, Pete Howard, Vince White",
+            "surname" => "-",
+            "image"=> "the_clash.jpg",
+            "profile" => "Influential British punk group from west and south London, active between 1976 and 1985. Adding catchy sloganistic socio-political lyrics to their brand of garage rock 'n' roll, the band soon explored wider musical horizons than most of their contemporaries, incorporating reggae, dub, rockabilly, hip hop and funk influences into their music and a whole lot more.
+                        The US saw the 2nd album ''Give 'Em Enough Rope'' released before the first to coincide with the band's first transatlantic tour in early 1979 (and like in Japan and in Canada) the 1st LP ''The Clash'' was soon repackaged with an updated track list and the addition of a free 7'' ''Groovy Times'' / ''Gates Of The West'' which wasn't released separately. A year later they were receiving worldwide acclaim with their classic double album ''London Calling''.
+                        Inducted into Rock And Roll Hall of Fame in 2003 (Performer), their classic line-up comprised Joe Strummer (vocals / guitar, b. John Graham Mellor August 21, 1952 Ankara, Turkey d. Dec 22, 2002 Broomfield, Somerset, England), Paul Simonon (bass, b. December 15, 1955), Mick Jones (guitar, b. June 26, 1955) and Nicky ''Topper'' Headon (drums, b. May 30, 1955).",
+            "nationality" => "United Kingdom",
+            "follower" => 4.3
+        ],
+        "A²" => [
+            "name" => "Alec Stone, Andy Panayi",
+            "surname" => "-",
+            "image"=> "-",
+            "profile" => "A² is a French duo based in Prague & Paris, playing & organising events that always thrives to push the experience further, inviting a broad pallet of International and local talents, using homemade lights, visual effects such as video mapping and selecting the very best venues to offer a meaningful experience to their guests.
+                        By collaborating with other entities such as the Czech organisation Konsent, they also aim to refine/shape/influence the underground scene based on their own values & convictions, creating a safe space where everyone can express themselves freely.
+                        Musically, they operate at a cross-section between very diverse genres and inspirations, influenced from a very young age by the so-called ''French-Touch'' 90's artists & hip-hop scene, and shaped over the years spent in the underground scene in Amsterdam & Prague. Powerful electronica, tribal beats, hypnotizing minimal, grooving house, oriental vibes, breakbeats, captivating techno, 80's disco - they believe that everything can hold its place, providing the moment is right and the flow is respected.
+                        Their sets being tailored to the prevailing mood & crowd reactions, it's hard to predict what will come up, but you can expect an overall steady ride, disrupted by various curiosities and surprises to keep everyone on their toes.",
+            "nationality" => "Czech Republic",
+            "follower" => 2.1
+        ],
+        "Little Nobody" => [
+            "name" => "Andrew",
+            "surname" => "Bergen",
+            "image"=> "little_nobody.jpg",
+            "profile" => "Australian expat Andrew Bergen (aka Andrez Bergen) started making music in Melbourne, Australia, as Little Nobody in 1996 and relocated to Tokyo, Japan, in 2001.
+                        Bergen has also produced as Funk Gadget, Dick Drone, Nana Mouskouri's Spectacles and several other aliases, along with running Australian label If? Records for 15 years.
+                        He's been remixed by the likes of James Ruskin, Blake Baxter, Si Begg, Aux 88, Justin Robertson, Tobias Schmidt, Bas Mooy, Luke's Anger, Dave Tarrida, Shin Nishimura, Steve Stoll and others, and has in turn remixed Ade Fenton, Dasha Rush, BCR Boys, Wyndell Long, Aux 88 and Severed Heads.
+                        Bergen has performed in Tokyo, Osaka, London, Detroit, New York, San Francisco, Beijing, Windsor (Canada), the Netherlands, Hong Kong, Singapore, Sydney, Adelaide, Brisbane, and especially Melbourne.",
+            "nationality" => "Australia",
+            "follower" => 3.2
+        ],
+        "Phil Merrall" => [
+            "name" => "Phil",
+            "surname" => "Merrall",
+            "image"=> "phil_merrall.jpg",
+            "profile" => "Passed away in August 2019.",
+            "nationality" => "-",
+            "follower" => 2.3
+        ],
+        "Kid Machine" => [
+            "name" => "Mark",
+            "surname" => "Wilkinson",
+            "image"=> "kid_machine.jpg",
+            "profile" => "DJ and producer from UK.",
+            "nationality" => "United Kingdom",
+            "follower" => 1.7
+        ],
+        "Rex Smith" => [
+            "name" => "Gregory",
+            "surname" => "Smith",
+            "image"=> "rex_smith.jpg",
+            "profile" => "Born September 19, 1955
+                        Jacksonville, Florida, U.S Smith is a multi-talented performer whose natural singing ability has led him to a successful career as a singer and actor. A veteran of stage and screen, Rex started his career as a ''teen idol'' heartthrob with the platinum album hit ''You Take My Breath Away.'' Other albums included ''Rex'', ''Where Do We Go From Here'', ''Sooner Or Later'', ''Forever'', ''Camouflage'', and most recently, ''Simply...Rex''.",
+            "nationality" => "United States Of America",
+            "follower" => 4.5
+        ],
+        "Riccardo" => [
+            "name" => "Riccardo",
+            "surname" => "Buccirossi",
+            "image"=> "riccardo.jpg",
+            "profile" => "The Italian artist Riccardo is a sound engineering, musician and Dj active on the electronic music scene since 2012. His profile is right defined by his sound research, that gave him the chance to play in club around Europe, Asia and America where he explored many different shades of using frequency for well being.Fascinated by all sorts of sounds, his music is a fusion of different genres and styles, which transport yourself to an emotional and energetic musical world.Today, After 10 years of djing, he moved his work on sound therapy through the using of sound stones, Tibetan bowls and natural elements like water, wood and crystals. A vast new world still not completely explored, this can take the work of many sound players to a deeper level of consciousness than we already know.",
+            "nationality" => "Italy",
+            "follower" => 4.8
+        ],
+        "Saverio Celestri" => [
+            "name" => "Saverio",
+            "surname" => "Celestri",
+            "image"=> "saverio_celestri.jpg",
+            "profile" => "Coming from Treviso, Italy, DJ, producer and label owner Saverio Celestri is constantly influencing the music scenes around him. Freshly relocated to Berlin, Saverio surrounds himself with likeminded souls in the city such as Sleepers, Libertine crew and runs a record label Out of Tunes. Saverio approaches his sound with flexibility and novelty, not wishing to conform to what is expected of him. His intuitive skills behind the decks are purely driven by the emotions he is experiencing with the dancefloor - a DJ set from this Italian artist is aimed to be as personal to you as it is to him.",
+            "nationality" => "Italy",
+            "follower" => 3.2
+        ],
+        "Spacetravel" => [
+            "name" => "Luca",
+            "surname" => "Cara",
+            "image"=> "spacetravel.jpg",
+            "profile" => "Spacetravel stands out for his picturesque blend of esoterically crafted noises, all of which are arranged in complex, fast-paced compositions where vivid acoustic textures, human feel and risk harmonically merge. A native of Sardinia, Italy he grew up obsessing over the work of a suitably diverse range of musicians, from Pink Floyd to Aphex Twin to J Dilla and Underground Resistance. Often intersecting the frenetic hack-and-slash action and clunking sounds of arcade games, his many dexterous productions are laced in a dizzying eclecticism. The end result is an intriguing blend of fascinating sound-waves and nano-loops that always keeps the listener's attention firmly intact.
+                        Now firmly based in Berlin, Spacetravel—much like his alias suggests—is an individual who has long harboured a deep fascination with all things futuristic. As likely to call on playful house textures as he is more electro-leaning sounds, his innovative and experimental way of working has led him to some of the contemporary scene's most innovative imprints. Since his debut release, the exceptional Galactic dropped via Binh's Time Passages, he has since racked up credits for the likes of So Inagawa's Cabaret, Mellifow, Zip and Nikolai's Perlon as well as his own label, the burgeoning Traveling Without Moving.
+                        In 2016, Spacetravel released his debut full-length via Perlon. Entitled Dancing Therapy, the release quickly became another sought-after gem in the label's extensive back catalogue. Touching on a range of topics, moods and sounds, it quite expertly encapsulated all that's great about label and producer. More recently, he also returned to the much-celebrated Perlon courtesy of his track, 'No More', which was featured on the label's Superlongevity 6 V/A alongside celebrated acts such as Ricardo Villalobos, Baby Ford and Margaret Dygas. 2018 has proved another significant year for the Spacetravel, as he returned to Melliflow courtesy of his second LP, the equally enticing Ziusudra.
+                        Just as revered a DJ as he is a producer, Spacetravel's intricate DJ style has led him to some of the world's foremost nightspots, including Panorama Bar and Club der Visionaere in Berlin, Robert Johnson in Frankfurt, Concrete in Paris and Arma 17 in Moscow. Futuristic, intelligent electronic music that touches your mind and your soul, Spacetravel truly is a talent bound for the stratosphere.",
+            "nationality" => "Italy",
+            "follower" => 3.5
+        ],
+        "Fabio Della Torre" => [
+            "name" => "Fabio",
+            "surname" => "Corcos",
+            "image"=> "fabio_della_torre.jpg",
+            "profile" => "Fabio Della Torre, also known as Corcos, stands as a respected figure in Italy's dynamic electronic music landscape. Hailing from the enchanting city of Florence, Fabio's journey in the world of music has been marked by his tireless devotion to the craft and his unwavering efforts to support the vibrant tapestry of electronic sounds.
+                        A figure of influence in every sense, Fabio's contributions to Italy's electronic music scene have been transformative. His passion for electronic sounds knows no bounds, and his steadfast dedication to his label, Bosconi, has solidified him as a prominent figure, both nationally and internationally.",
+            "nationality" => "Italy",
+            "follower" => 3.2
+        ],
+        "Seuil" => [
+            "name" => "Alexis",
+            "surname" => "Benard",
+            "image"=> "seuil.jpg",
+            "profile" => "French DJ/producer of electronic music, born 1981 in La Reunion (Indian ocean).",
+            "nationality" => "France",
+            "follower" => 1.2
         ]
     ]
 ];
