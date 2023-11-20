@@ -512,13 +512,13 @@ return [
                     ]
                 ],
                 [
-                    "title" => "House Of Gypsies - Samba",
+                    "title" => "Todd Terry - Samba",
                     "price" => 5.00,
                     "image" => "house_of_gypsies_samba.jpg",
                     "year" => 1992,
                     "genres" => "Electronic",
                     "styles" => "House",
-                    "artist" => "House Of Gypsies",
+                    "artist" => "Todd Terry",
                     "label" => "UMM",
                     "tracks" => [
                         ["title" => "Samba (Tee's Freeze Mix)", "duration" => "5:42"],
@@ -852,40 +852,35 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Ma Spaventi - Vicino Lontano",
-                    "price" => 23.97,
-                    "image" => "ma_spaventi_vicino_lontano.jpg",
-                    "year" => 2023,
+                    "title" => "Palermo Disco Squad - Palermo Theme",
+                    "price" => 6.99,
+                    "image" => "palermo_disco_squad_palermo_theme.jpg",
+                    "year" => 2015,
                     "genres" => "Electronic",
-                    "styles" => ["Ambient","Downtempo"],
-                    "artist" => "Ma Spaventi",
+                    "styles" => ["House", "Italo-Disco", "Electro"],
+                    "artist" => "Palermo Disco Squad",
                     "label" => "Bordello A Parigi",
                     "tracks" => [
-                        ["title" => "Solitario", "duration" => "4:22"],
-                        ["title" => "Crepuscolo", "duration" => "5:49"],
-                        ["title" => "Bomber", "duration" => "2:25"],
-                        ["title" => "Bring Me Back", "duration" => "5:28"],
-                        ["title" => "Intermezzo", "duration" => "3:31"],
-                        ["title" => "Velvet Lights", "duration" => "5:41"],
-                        ["title" => "Endline", "duration" => "3:18"],
-                        ["title" => "Bidderosa", "duration" => "5:20"]
+                        ["title" => "Palermo Theme", "duration" => "4:59"],
+                        ["title" => "Moschino", "duration" => "4:28"],
+                        ["title" => "Galactico", "duration" => "5:13"],
+                        ["title" => "Palermo Theme (DJ Overdose Remix)", "duration" => "4:49"]
                     ]
                 ],
                 [
-                    "title" => "Interstellar Funk - Never Been",
-                    "price" => 16.98,
-                    "image" => "interstellar_funk_never_been.jpg",
-                    "year" => 2023,
+                    "title" => "Martyné - Bodysee EP",
+                    "price" => 7.00,
+                    "image" => "martyné_bodysee_ep.jpg",
+                    "year" => 2019,
                     "genres" => "Electronic",
-                    "styles" => ["Electro","Techno"],
-                    "artist" => "Interstellar Funk",
-                    "label" => "Artificial Dance",
+                    "styles" => ["Electro", "Deep House", "House"],
+                    "artist" => "Martyné",
+                    "label" => "GOSU",
                     "tracks" => [
-                        ["title" => "Fly Me In", "duration" => "4:21"],
-                        ["title" => "Freefall", "duration" => "6:47"],
-                        ["title" => "Hidden Tongue", "duration" => "3:43"],
-                        ["title" => "Situational Lullaby", "duration" => "5:38"],
-                        ["title" => "Lurking Orange", "duration" => "4:48"]
+                        ["title" => "Final Form", "duration" => "8:29"],
+                        ["title" => "Bodysee Index", "duration" => "7:18"],
+                        ["title" => "Weapons Online", "duration" => "7:10"],
+                        ["title" => "OFL", "duration" => "7:51"]
                     ]
                 ],
                 [
@@ -947,20 +942,22 @@ return [
                     ]
                 ],
                 [
-                    "title" => "Jessie Deep! - Lost Tracks Vol 2",
-                    "price" => 19.99,
-                    "image" => "jessie_deep_lost_tracks_vol_2.jpg",
-                    "year" => 1992,
+                    "title" => "Green Velvet - La La Land",
+                    "price" => 5.99,
+                    "image" => "green_velvet_la_la_land.jpg",
+                    "year" => 2001,
                     "genres" => "Electronic",
-                    "styles" => ["Techno","Trance", "House"],
-                    "artist" => "Jessie Deep!",
+                    "styles" => "Techno",
+                    "artist" => "Green Velvet",
                     "label" => "Music Man Records",
                     "tracks" => [
-                        ["title" => "Lifeform", "duration" => "4:03"],
-                        ["title" => "Attraction", "duration" => "3:58"],
-                        ["title" => "My Revelation", "duration" => "5:47"],
-                        ["title" => "Chill Out Space", "duration" => "5:03"],
-                        ["title" => "Closed Worlds", "duration" => "6:35"]
+                        ["title" => "La La Land (Radio Edit)", "duration" => "3:23"],
+                        ["title" => "La La Land (Dave Clark Radio Edit)", "duration" => "3:40"],
+                        ["title" => "La La Land (Extended Mix)", "duration" => "5:19"],
+                        ["title" => "La La Land (Dave Clarke Mix)", "duration" => "5:33"],
+                        ["title" => "La La Land (Thomas Krome Mix)", "duration" => "6:42"],
+                        ["title" => "La La Land (Zzino vs. Filterheadz Mix)", "duration" => "7:44"],
+                        ["title" => "La La Land (Instrumental)", "duration" => "3:34"]
                     ]
                 ]
             ]
@@ -1742,13 +1739,13 @@ return [
             "location" => "Netherlands",
             "follower" => 3.9
         ],
-        "Artificial Dance" => [
-            "name" => "Artificial Dance",
-            "image" => "artificial_dance.jpg",
-            "description" => "Artificial Dance is an independent label from Amsterdam, founded by Olf Van Elden aka Interstellar Funk in 2017.
-                            Exclusively distributed by Rush Hour Music.",
-            "location" => "Netherlands",
-            "follower" => 1.3
+        "GOSU" => [
+            "name" => "GOSU",
+            "image" => "gosu.jpg",
+            "description" => "Electronic music label based in Frankfurt am Main, Germany.
+                            Until its closure at the end of 2020, the team behind Gosu also ran a vinyl record shop in Frankfurt, selling selected new and 2nd hand vinyls.",
+            "location" => "Germany",
+            "follower" => 3.7
         ],
         "Freeze Records" => [
             "name" => "Freeze Records",
@@ -2249,6 +2246,211 @@ return [
             "profile" => "French DJ/producer of electronic music, born 1981 in La Reunion (Indian ocean).",
             "nationality" => "France",
             "follower" => 1.2
+        ],
+        "Stereolab" => [
+            "name" => "Andy Ramsay, Joe Watson, Laetitia Sadier, Tim Gane",
+            "surname" => "-",
+            "image"=> "stereolab.jpg",
+            "profile" => "Stereolab formed in London in 1990 by record collector Tim Gane (°1964) and French chanteuse Laetitia Sadier (°1968). They were active between 1990 and 2009, when the band took a 10-year hiatus. In 2019 they reunited for live performances to promote a year-long seven album reissue campaign. Sean O'Hagan was a member from 1993 to 1994 and he continued appearing on later records for occasional guest appearances.",
+            "nationality" => "United Kingdom",
+            "follower" => 1.3
+        ],
+        "Kraftwerk" => [
+            "name" => "Falk Grieffenhagen, Fritz Hilpert, Georg Bongartz, Henning Schmitz, Ralf Hütter",
+            "surname" => "-",
+            "image"=> "kraftwerk.jpg",
+            "profile" => "German group formed in Düsseldorf in 1970. Formerly known as Organisation, Kraftwerk debuted live as the trio of Ralf Hütter, Florian Schneider-Esleben and Charly Weiss at the Tivoli Popfestival, Aachen on 11 July 1970. Klaus Dinger then took over as drummer. Gigs between 26 December 1970 and 31 July 1971 omitted Hütter, with various line-ups including Michael Rother and others. After a gig in the Weserberglands of Germany on 31 July 1971, Dinger & Rother then split-off forming Neu!. Shortly after, Hütter returned. First known Hütter/Schneider gig is 22 November 1971 at the Sachsenwald Gymnasium, Hamburg.",
+            "nationality" => "Germany",
+            "follower" => 8.4
+        ],
+        "Raiders Of The Lost ARP" => [
+            "name" => "Mario",
+            "surname" => "Pierro",
+            "image"=> "raiders_of_the_lost_arp.jpg",
+            "profile" => "Raiders of the Lost ARP is Mario Pierro's solo project. He is also known as one half of Mat101 and Jollymusic. Italian producer.",
+            "nationality" => "Italy",
+            "follower" => 2.1
+        ],
+        "Todd Terry" => [
+            "name" => "Todd Norton",
+            "surname" => "Terry",
+            "image"=> "todd_terry.jpg",
+            "profile" => "By 1988, Todd Terry hit big in England and Europe, and his notoriety was making its way back to the U.S. In addition to DJ appearances, Todd was cutting his classic underground tracks A Day In The Life, Weekend, and Can You Party, released under monikers such as the Todd Terry Project, House Of Gypsies, and Royal House, all considered essential and ground breaking.
+                        In the mid 90's, the Ministry of Sound's eponymous UK label released A Day In The Life, a collection of Todd Terry tracks that had been causing dance floor panic. That then led the way to a deal with Mercury Records allowing him to set up a context in which to work with his favourite singers and performers. The first release, Keep On Jumpin' on featured a vocal workout from super-divas Martha Wash and Jocelyn Brown, together for the first time ever. The song became a top 10 UK crossover pop hit and worldwide smash. Todd followed with the anthem 'Somethin Going On', a top 5 UK crossover pop hit.
+                        All the while, Todd continued to break new ground as a Producer/Remixer. From SNAP to Annie Lennox to George Michael to Bjork, Todd's mixes bridge the ground between club cool and commercial accessibility. In 1995, his remix for Everything But The Girl's Missing became a worldwide smash, giving the British duo their first ever hit. He then rode the charts with mixes for Garbage (Stupid Girl), The Cardigans (Love Fool), Everything But The Girl (Wrong), 10,000 Maniacs (More Than This), Jamiroquai (Alright), The Cardigans (Been It), and The Lightning Seeds (You Showed Me),.among others. He also produced a Robin S track (Givin' You All That I've Got) for the multi-platinum Space Jam soundtrack.",
+            "nationality" => "United States Of America",
+            "follower" => 5.3
+        ],
+        "LFO" => [
+            "name" => "Mark Bell, Gez Varley, Martin Williams",
+            "surname" => "-",
+            "image"=> "lfo.jpg",
+            "profile" => "LFO (Low Frequency Oscillation) was formed in 1988 in Leeds, West Yorkshire, United Kingdom and was active until 2014.
+                        Gez & Mark originally met whilst part of rival breakdancing crews in the Merrion shopping centre in Leeds in 1984. They then met again whilst at college studying photography and graphic design in 1988 and formed LFO.
+                        Members: Mark Bell (1988-2014), Gez Varley (1988-96) & Martin Williams (1988-90)
+                        LFO (Low Frequency Oscillation), named after the Low Frequency Oscillator component of synthesizers, were pioneers of the 'Bleep Techno' sound in the UK at the end of the Eighties and are best known for the early self-titled techno anthem 'LFO'.
+                        Their last release as a duo was the album 'Advance' in 1996. In 2003 Mark Bell resumed use of the name as a solo pseudonym.
+                        Mark Bell died in October 2014 from complications after an operation.",
+            "nationality" => "United Kingdom",
+            "follower" => 4.1
+        ],
+        "Tears For Fears" => [
+            "name" => "Curt Smith, Roland Orzabal",
+            "surname" => "-",
+            "image"=> "tears_for_fears.jpg",
+            "profile" => "UK rock-pop group formed in 1981 by Curt Smith (b. 24 June 1961) and Roland Orzabal (b. 22 August 1961). After three platinum albums and a string of hit singles, the duo split in 1991. Orzabal continued under the band name, releasing the albums 'Elemental' (1993) and 'Raoul and the Kings of Spain' (1995), while Smith moved to the US and began a solo career. In 2000, the pair reestablished contact and started working together again on new material.",
+            "nationality" => "United Kingdom",
+            "follower" => 6.4
+        ],
+        "Daft Punk" => [
+            "name" => "Guy-Manuel de Homem-Christo, Thomas Bangalter",
+            "surname" => "-",
+            "image"=> "daft_punk.jpg",
+            "profile" => "Daft Punk were a French electronic music duo formed in 1993 by Thomas Bangalter (born January 3, 1975) and Guy-Manuel de Homem-Christo (born February 8, 1974). Bangalter and de Homem-Christo were previously in the rock band Darlin' with Laurent Brancowitz. After Brancowitz left the group to join his brother's band, Phoenix, the remaining duo formed Daft Punk. On February 22, 2021, it was announced that they had disbanded for unknown reasons.",
+            "nationality" => "France",
+            "follower" => 7.4
+        ],
+        "Aphex Twin" => [
+            "name" => "Richard David",
+            "surname" => "James",
+            "image"=> "aphex_twin.jpg",
+            "profile" => "Aphex Twin, aka Richard D. James, is a name synonymous with the intriguingly named genre of IDM (Intelligent Dance Music). James on the label: “I just think it's really funny to have terms like that. It's basically saying 'this is intelligent and everything else is stupid.' It's really nasty to everyone else's music. It makes me laugh.”
+                        Aphex Twin's formed Rephlex Records in 1991, releasing three Analogue Bubblebath EPs under the AFX name. He moved to London in 1993, where he released a slew of albums and EPs on Warp Records and other labels under many aliases. His first album 'Selected Ambient Works 85-92' was an ambient affair, released in 1992 on R&S records.
+                        In 1995 James began composing on computers, embracing a more drum n bass sound mixed with acid lines. In the late 1990s, his music become more popular with the release of 'Come to Daddy' and 'Windowlicker', which James followed this up in 2001 with “Drukqs”, a 2-CD album which featured both prepared piano songs and abrasive and fast drum n bass influenced fare.
+                        In late 2004, James returned to acid techno with the Analord series, which was written and recorded on analogue equipment and pressed to vinyl.
+                        Some seemingly outlandish claims from interviews have been verified. James does own a tank (actually a 1950s armoured scout car, the Daimler Ferret Mark 3) and a submarine bought from Russia.
+                        Additional unverified claims include the following: He composed ambient techno at age 13; he has 'over 100 hours' of unreleased music; he experiences synaesthesia; and he is able to incorporate lucid dreaming into the process of making music.",
+            "nationality" => "United Kingdom",
+            "follower" => 8.3
+        ],
+        "The Beatles" => [
+            "name" => "George Harrison, John Lennon, Paul McCartney, Ringo Starr",
+            "surname" => "-",
+            "image"=> "the_beatles.jpg",
+            "profile" => "Emerging from Liverpool, England in 1960, the Beatles were a seminal British group that evolved from rock/pop origins into pioneers of musical experimentation. The band solidified its iconic lineup in 1962, featuring John Lennon (vocals, rhythm guitar, harmonica, keyboards, percussion), Paul McCartney (vocals, bass, guitar, keyboards, percussion), George Harrison (lead guitar, vocals, keyboards), and Ringo Starr (drums, vocals, percussion) after signing a recording contract with EMI. This followed a brief period with Stuart Sutcliffe (bass, 1960-61) and Pete Best (drums, 1960-62).
+                        Initially recognized for their Merseybeat style, the Beatles soon ventured into uncharted musical territories, exploring psychedelia and pioneering innovative production techniques that incorporated tape loops and other effects. Over their active years, they created a legacy of 12 studio albums.
+                        Their profound impact on rock and roll was acknowledged in 1988 when they were inducted into the Rock And Roll Hall of Fame as a group. By 2015, each member had also received individual recognition for their contributions as solo artists within the Hall of Fame.",
+            "nationality" => "United Kingdom",
+            "follower" => 10.5
+        ],
+        "The Blow Monkeys" => [
+            "name" => "Guy-Manuel de Homem-Christo, Thomas Bangalter",
+            "surname" => "-",
+            "image"=> "the_blow_monkeys.jpg",
+            "profile" => "Fronted by lead singer, songwriter, guitarist, bassist, and piano player Dr. Robert (born Bruce Robert Howard, 2 May 1961, Haddington, Scotland), the group formed in 1981 upon Howard's return to the United Kingdom, after spending the years 1976-1981 in Australia.
+                        The other members are Mick Anker on bass guitar, Neville Henry on saxophone, and Tony Kiley on drums (born February 16, 1962).
+                        In 1984 the group released their debut album Limping for a Generation, but their first hit single came in 1986 with 'Digging Your Scene,' from their second album Animal Magic (which reached number 21 in the UK Albums Chart).
+                        The single attracted attention for its topical lyrics, dealing with the AIDS-fueled backlash against gay people, it peaked at No. 14 on the Billboard Hot 100 chart, and number 7 on the Hot Dance Club Play chart. In addition, it reached a high of No. 12 in the UK Singles Chart, No. 24 in Italy, and No. 25 in Germany.",
+            "nationality" => "United Kingdom",
+            "follower" => 4.4
+        ],
+        "Various" => [
+            "name" => "Various Artists",
+            "surname" => "Various Artists",
+            "image"=> "?",
+            "profile" => "?",
+            "nationality" => "?",
+            "follower" => 0.0
+        ],
+        "Led Zeppelin" => [
+            "name" => "Jimmy Page, John Baldwin, John Bonham, Robert Plant",
+            "surname" => "-",
+            "image"=> "led_zeppelin.jpg",
+            "profile" => "The English rock band Led Zeppelin was active from 1968 to 1980. During that time, the band members recorded eight studio albums.
+                        Led Zeppelin formed out of the ashes of The Yardbirds. Jimmy Page had joined the band in its final days, playing a pivotal role on the group's final album, 1967's Little Games, which also featured string arrangements from John Paul Jones. During 1967, the Yardbirds were fairly inactive. Whilst the band members decided the group's future, Page returned to session work in 1967. In the spring of 1968, he played on Jones' arrangement of Donovan's 'Hurdy Gurdy Man.' During the sessions, Jones requested to be part of any future project Page would develop. Page would have to assemble a band sooner than he had planned. In the summer of 1968, the Yardbirds' Keith Relf and Jim McCarty left, leaving Page and bassist Chris Dreja with the rights to the name, as well as the obligation of fulfilling an upcoming fall tour. Page set out to find a replacement vocalist and drummer. Initially, he wanted to enlist singer Terry Reid and Procol Harum's drummer B.J. Wilson, but neither musician was able to join the group. Reid suggested that Page contact Robert Plant, who was singing with a band called Hobbstweedle.
+                        Inducted into Rock And Roll Hall of Fame in 1995 (Performer).",
+            "nationality" => "United Kingdom",
+            "follower" => 8.0
+        ],
+        "Radiohead" => [
+            "name" => "Colin Greenwood, Ed O'Brien, Jonny Greenwood, Phil Selway, Thom Yorke",
+            "surname" => "-",
+            "image"=> "radiohead.jpg",
+            "profile" => "Alternative Rock (Modern Rock) band from Oxfordshire, England (United Kingdom).
+                        The name Radiohead comes from the Talking Heads song, 'Radio Head', from the 'True Stories' album.
+                        Formed by school friends in 1986, Radiohead did not release their first single until 1992's 'Drill EP'. The cathartic 'Creep', from the debut album 'Pablo Honey' (1993), became a worldwide hit as grunge music dominated radio airwaves.
+                        Radiohead were initially branded as a one-hit wonder abroad, but caught on at home in the UK with their second album, 'The Bends' (1995), earning fans with their dense guitar atmospheres and front man Thom Yorke's expressive singing. The album featured the hits 'High & Dry', 'Just' and 'Fake Plastic Trees'.
+                        The band's third album, 'OK Computer' (1997), propelled them to greater attention. Popular both for its expansive sound and themes of modern alienation, the album has been acclaimed by critics as a landmark record of the 1990's, some critics go as far to consider it one of the best of all time. 'Kid A' (2000) marked further evolution, containing influences from experimental electronic music.
+                        'Hail To The Thief' (2003) was seen as a conventional return to the guitar and piano-led rock sound. After fulfilling their contract with EMI, Radiohead released 'In Rainbows' (2007) famously via a pay-what-you-want model. Their latest album, 'A Moon Shaped Pool', was released in May 2016.
+                        Radiohead's original influences were cited as alternative rock and post-punk bands like The Smiths, Pixies, Magazine, Joy Division and Siouxsie & The Banshees, who Thom Yorke claims inspired him to become a performer, and R.E.M. (with lead singer of the band, Thom Yorke, referring to himself as an 'R.E.M. groupie').",
+            "nationality" => "United Kingdom",
+            "follower" => 6.2
+        ],
+        "The KLF" => [
+            "name" => "Bill Drummond, Jimmy Cauty",
+            "surname" => "-",
+            "image"=> "the_klf.jpg",
+            "profile" => "The real name is Kopyright Liberation Front.
+                        Duo comprised of Jimmy Cauty and Bill Drummond. Cauty was born in Devon, England; Drummond was born in South Africa but grew up in the Dumfries & Galloway area of Scotland.
+                        KLF adopted the philosophy espoused by esoteric novel series The Illuminatus! Trilogy, gaining notoriety for various anarchic situationist manifestations, including the defacement of billboard adverts, the posting of prominent cryptic advertisements in NME magazine and the mainstream press, and highly distinctive and unusual performances on Top of the Pops. Their most notorious performance was a collaboration with Extreme Noise Terror at the February 1992 BRIT Awards, where they fired machine gun blanks into the audience and dumped a dead sheep at the aftershow party. This performance announced The KLF's departure from the music business, and in May 1992 the duo deleted their entire back catalogue.
+                        With The KLF's profits, Drummond and Cauty established the K Foundation and sought to subvert the art world, staging an alternative art award for the worst artist of the year and burning one million pounds sterling. Although Drummond and Cauty remained true to their word of May 1992—the KLF Communications catalogue remains deleted in the UK—they have released a small number of new tracks since then, as the K Foundation, The One World Orchestra and most recently, in 1997, as 2K.
+                        The KLF catalogue remained absent from digital platforms until January 1, 2021, when an 8-track compilation of their 7'' hit singles 1988-1991 - Solid State Logik 1 was released on streaming platforms, marking the 1st installment of a series called Samplecity Thru Trancentral.
+                        KLF also published a book, The Manual, and worked on a road movie called The White Room.",
+            "nationality" => "United Kingdom",
+            "follower" => 3.3
+        ],
+        "Leo Anibaldi" => [
+            "name" => "Leonardo",
+            "surname" => "Anibaldi",
+            "image"=> "leo_anibaldi.jpg",
+            "profile" => "Italian DJ, producer and label owner born in 1972. He discovered passion for electronic music at the age of 15 and created the first loops with Commodore Vic 20 and Commodore 64. He started to play in clubs with DJ Mc alias and become soon synthesizer collector.
+                        He started producer career in 1991 on ACV and in 1996 he released his album on Rephlex. During those years he performed live set around the world at large events as the Love Parade in Berlin.
+                        In 2008 he started his own label, Cannibald Records.",
+            "nationality" => "Italy",
+            "follower" => 2.5
+        ],
+        "Palermo Disco Squad" => [
+            "name" => "Thomas",
+            "surname" => "Blanckaert",
+            "image"=> "palermo_disco_squad.jpg",
+            "profile" => "Electronic body music, acid house, rude electro, nineties trance,… The genres that influenced Innershades' raw yet wistful productions sound like what could well be the OST to the golden age of Belgian club life. Even though Innershades' music has stayed faithful to its core tenets, it nonetheless quickly outgrew these geographical and historical surroundings - and landed him spots on labels such as Time Passages, Cabaret Recordings, Cartulis, Clone, … and line-ups all over Europe and beyond.",
+            "nationality" => "Belgium",
+            "follower" => 2.6
+        ],
+        "Martyné" => [
+            "name" => "Martin",
+            "surname" => "Müller",
+            "image"=> "martyné.jpg",
+            "profile" => "In 2007 Martyné started to buy his first record players, after getting inspired by the energy and different structure of electronic music he listen to, at infamous Robert Johnson. It was even the time when he and his fella Patrick Klein started to run first techno parties.
+                        Martyné's talent and ambitions to play records leads to a residency at Frankfurt's Dora Brilliant (funky people party) and his first vinyl release on Einzelkind's label 'La Peña'.
+                        After several appearances on regional electronic parties, Martyné invented the vinyl only label 'Traffic' together with his friends Bodin and Patrick Klein. Afterwards he gained a stronger international reputation and left his footprints on several international top spots like Closer/Kiev, Club der Visionäre/Berlin or Badaboum/Paris.
+                        Due to his successful and very own styled releases on 'Traffic', 'Be_Chosen' and 'Sensual', Martyné continue with upcoming releases on notable labels like Pressure Traxx or Assemble Music.
+                        Nowadays Martyné's music productions have influences of several styles like: Breakbeat, House, Techno or Electro. Even this is reflected by his well digged and sorted record collection.
+                        Since 2015 Martyné is an official resident of Robert Johnson, his source of inspiration.",
+            "nationality" => "Germany",
+            "follower" => 1.4
+        ],
+        "Blur" => [
+            "name" => "Alex James, Damon Albarn, Dave Rowntree, Graham Coxon",
+            "surname" => "-",
+            "image"=> "blur.jpg",
+            "profile" => "Indie rock/pop band with art school roots from London, England.
+                        Blur formed in 1989 as Seymour in Colchester, composed of Damon Albarn, Graham Coxon, Alex James and Dave Rowntree.
+                        Blur's early releases (the singles 'There's No Other Way', 'Bang', 'She's So High', 'I Know', and the album 'Leisure') were considered indie or alternative rock, heavily influenced by the danceable rhythms of 'baggy' bands like The Stone Roses and noisepop bands like My Bloody Valentine, with strains of weirder ideas running throughout, like Syd Barrett (this was often more readily apparent on several single B-sides, where the group let loose its more atavistic, dark side). By 1992, the group was keen on reinventing themselves with a newer, smarter sound and sense of purpose, eschewing the sounds that were coming out of the U.S. specifically, and returning to a retro spectrum of British rock and pop music: British Invasion groups, Mod groups, Psychedelic Rock, even nostalgic music from World War II. They released their second album, 'Modern Life Is Rubbish', in 1993, to moderate success and began attracting attention for their stubborn determination to lead Britain out of the miasma that was the grunge years.",
+            "nationality" => "United Kingdom",
+            "follower" => 2.9
+        ],
+        "Gemini" => [
+            "name" => "Spencer",
+            "surname" => "Kincy",
+            "image"=> "gemini.jpg",
+            "profile" => "As one of Chicago's most mysterious and revered characters, the story of Gemini, aka Spencer Kincy (born June 6, 1969) has become something of a myth in recent years - blazing a trail throughout the 90's, prolifically releasing over 200 tracks from 1994 to 1999, Spencer's music had shades innovation and soul few of his peers could match. Then, suddenly, at the peak of his career, he disappeared.
+                        Rumours and gossip of Spencer's whereabouts and situation have been rife in the music press, and rarely on the money. Spencer is alive and well, and wants his music to be heard.",
+            "nationality" => "United States Of America",
+            "follower" => 3.9
+        ],
+        "Green Velvet" => [
+            "name" => "Curtis Alan",
+            "surname" => "Jones",
+            "image"=> "green_velvet.jpg",
+            "profile" => "American electronic DJ, producer, and artist.
+                        Born: 26 April 1968 in Chicago, Illinois, USA.
+                        Green Velvet, initially created by house don Cajmere (AKA Curtis Alan Jones) as an outlet for his non-vocal productions and frequent DJ-ing gigs, grew to become even more popular than the man himself, thanks to club singles like 'Preacher Man', 'Answering Machine', and 'The Stalker'.
+                        Jones, who had nurtured the Chicago house renaissance of the 1990s with his Cajual Records, gained success in 1993 with the Cajmere single 'Brighter Days' (with Dajaé on vocals). Later that year, he formed the sublabel Relief Records, mostly for instrumental tracks by himself and others.
+                        Besides releases from DJ Sneak, Gemini, and Paul Johnson, Green Velvet figured on many of the early Relief singles, including its first, 'Preacher Man' as well as 'Flash' (also released on the British label Open), 'The Stalker', and 'Answering Machine' (1997).
+                        He began to supplement his Green Velvet DJ-ing schedule with quasi-live gigs as well, and released his first album in 1999. His self-titled release on label F-111 Records a year later compiled a dozen of his earlier club hits, and the proper sophomore production album 'Whatever' (2001) appeared on his own Relief label.",
+            "nationality" => "United States Of America",
+            "follower" => 4.4
         ]
     ]
 ];
