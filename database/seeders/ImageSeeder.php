@@ -3,7 +3,7 @@
 namespace Database\Seeders;
 
 use App\Models\Image;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use App\Models\Store;
 use Illuminate\Database\Seeder;
 
 class ImageSeeder extends Seeder
@@ -18,13 +18,26 @@ class ImageSeeder extends Seeder
         $stores = config("dbSeeder.stores");
 
         foreach ($stores as $store) {
+            $newStore = Store::create([
+                'name' => $store['name'],
+                'address' => $store['address'],
+                'logo' => $store['logo'],
+                'description' => $store['description']
+            ]);
+
             $images = $store['images'];
 
             foreach ($images as $image) {
                 $newImage = new Image();
                 $newImage->image = 'img/store_img' . $image;
-                $newImage->save();
+                $newStore->images()->save($newImage);
             }
+
+            /*
+            In questo modo, ogni immagine sarà associata al negozio corrispondente e verrà automaticamente popolato il campo store_id.
+            Utilizzando il metodo save() sulla relazione images, Laravel gestirà automaticamente l'inserimento del store_id.
+            */
+
         }
     }
 }

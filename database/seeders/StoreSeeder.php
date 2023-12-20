@@ -24,7 +24,7 @@ class StoreSeeder extends Seeder
             $newStore->address = $store["address"];
             $newStore->logo = $store["logo"];
             $newStore->description = $store["description"];
-            $newStore->slug = Str::slug($store['name'], '-');
+            // $newStore->slug = Str::slug($store['name'], '-');
             $newStore->save();
         }
     }

@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('address');
             $table->string('logo');
             $table->text('description');
-            $table->string('slug')->unique();
+            // $table->string('slug')->unique();
             $table->timestamps();
         });
     }
