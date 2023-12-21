@@ -16,4 +16,9 @@ class Store extends Model
     {
         return $this->hasMany(Image::class);
     }
+
+    public function vinyls(): HasMany
+    {
+        return $this->hasMany(Vinyl::class);
+    }
 }

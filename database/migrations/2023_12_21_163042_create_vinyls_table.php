@@ -13,14 +13,14 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('images', function (Blueprint $table) {
+        Schema::create('vinyls', function (Blueprint $table) {
             $table->id();
+            $table->string('title');
+            $table->decimal('price', 4, 2); // decimal() e non float() perché il primo rappresenta valori finanziari più precisi
             $table->string('image');
-            $table->unsignedBigInteger('store_id')->nullable();
+            $table->year('year');
+            $table->string('slug')->unique();
             $table->timestamps();
-
-            // Definizione della chiave esterna
-            $table->foreign('store_id')->references('id')->on('stores')->onDelete('cascade');
         });
     }
 
@@ -31,6 +31,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('images');
+        Schema::dropIfExists('vinyls');
     }
 };

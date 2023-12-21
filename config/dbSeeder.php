@@ -43,8 +43,8 @@ return [
                     "image" => "battiato_arca_di_noe.jpg",
                     "year" => 1982,
                     "genres" => ["Electronic", "Rock", "Pop"],
-                    "styles" => ["New Wave"],
-                    "artist" => "Battiato",
+                    "styles" => "New Wave",
+                    "artist" => "Franco Battiato",
                     "label" => "EMI",
                     "tracks" => [
                         ["title" => "Radio Varsavia", "duration" => "6:42"],
