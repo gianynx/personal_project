@@ -14,7 +14,7 @@ return new class extends Migration
     public function up()
     {
         Schema::table('vinyls', function (Blueprint $table) {
-            $table->unsignedBigInteger('label_id')->index();
+            $table->unsignedBigInteger('label_id')->index()->nullable();
             $table->foreign('label_id')->references('id')->on('labels')->onDelete('cascade');
         });
     }
